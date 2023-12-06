@@ -1,0 +1,96 @@
+1:ID 37980357: Alexander KD, Ramachandran S, Biswas K, Lambert CM, Russell J, Oliver DB, Armstrong W, Rettler M, Liu S, Doitsidou M, Bénard C, Walker AK, Francis MM
+The homeodomain transcriptional regulator DVE-1 directs a program for synapse elimination during circuit remodeling. Nat Commun. 2023 Nov 18;14(1):7520
+pubmed: 37980357, pmc: PMC10657367, pmcid: pmc-id: PMC10657367;, doi: 10.1038/s41467-023-43281-4, pii: 10.1038/s41467-023-43281-4
+
+2:ID 36756948: Godbole AA, Gopalan S, Nguyen TK, Munden AL, Lui DS, Fanelli MJ, Vo P, Lewis CA, Spinelli JB, Fazzio TG, Walker AK
+S-adenosylmethionine synthases specify distinct H3K4me3 populations and gene expression patterns during heat stress. Elife. 2023 Feb 9;12():
+pubmed: 36756948, pmc: PMC9984191, pmcid: pmc-id: PMC9984191;, doi: 10.7554/eLife.79511, pii: 79511
+
+3:ID 35587742: Higgins DP, Weisman CM, Lui DS, D'Agostino FA, Walker AK
+Defining characteristics and conservation of poorly annotated genes in Caenorhabditis elegans using WormCat 2.0. Genetics. 2022 Jul 30;221(4):
+pubmed: 35587742, pmc: PMC9339291, pmcid: pmc-id: PMC9339291;, doi: 10.1093/genetics/iyac085, pii: 6588682
+
+4:ID 31810987: Holdorf AD, Higgins DP, Hart AC, Boag PR, Pazour GJ, Walhout AJM, Walker AK
+WormCat: An Online Tool for Annotation and Visualization of Caenorhabditis elegans Genome-Scale Data. Genetics. 2020 Feb;214(2):279-294
+pubmed: 31810987, pmc: PMC7017019, pmcid: pmc-id: PMC7017019;, doi: 10.1534/genetics.119.302919, pii: genetics.119.302919
+
+5:ID 30485261: Ding W, Higgins DP, Yadav DK, Godbole AA, Pukkila-Worley R, Walker AK
+Stress-responsive and metabolic gene regulation are altered in low S-adenosylmethionine. PLoS Genet. 2018 Nov;14(11):e1007812
+pubmed: 30485261, pmc: PMC6287882, pmcid: pmc-id: PMC6287882;, doi: 10.1371/journal.pgen.1007812, pii: PGENETICS-D-18-01300
+
+6:ID 27789099: Walker AK
+1-Carbon Cycle Metabolites Methylate Their Way to Fatty Liver. Trends Endocrinol Metab. 2017 Jan;28(1):63-72
+pubmed: 27789099, mid: NIHMS822151, pmc: PMC5183509, pmcid: pmc-id: PMC5183509;manuscript-id: NIHMS822151;, doi: 10.1016/j.tem.2016.10.004, pii: S1043-2760(16)30129-1
+
+7:ID 27404353: Walker AK
+Germ Cells Need Folate to Proliferate. Dev Cell. 2016 Jul 11;38(1):8-9
+pubmed: 27404353, doi: 10.1016/j.devcel.2016.06.022, pii: S1534-5807(16)30425-7
+
+8:ID 27320911: Smulan LJ, Ding W, Freinkman E, Gujja S, Edwards YJK, Walker AK
+Cholesterol-Independent SREBP-1 Maturation Is Linked to ARF1 Inactivation. Cell Rep. 2016 Jun 28;16(1):9-18
+pubmed: 27320911, mid: NIHMS796514, pmc: PMC4934023, pmcid: pmc-id: PMC4934023;manuscript-id: NIHMS796514;, doi: 10.1016/j.celrep.2016.05.086, pii: S2211-1247(16)30699-4
+
+9:ID 26321661: Ding W, Smulan LJ, Hou NS, Taubert S, Watts JL, Walker AK
+s-Adenosylmethionine Levels Govern Innate Immunity through Distinct Methylation-Dependent Pathways. Cell Metab. 2015 Oct 6;22(4):633-45
+pubmed: 26321661, mid: NIHMS710430, pmc: PMC4598287, pmcid: pmc-id: PMC4598287;manuscript-id: NIHMS710430;, doi: 10.1016/j.cmet.2015.07.013, pii: S1550-4131(15)00342-3
+
+10:ID 22035958: Walker AK, Jacobs RL, Watts JL, Rottiers V, Jiang K, Finnegan DM, Shioda T, Hansen M, Yang F, Niebergall LJ, Vance DE, Tzoneva M, Hart AC, Näär AM
+A conserved SREBP-1/phosphatidylcholine feedback circuit regulates lipogenesis in metazoans. Cell. 2011 Nov 11;147(4):840-52
+pubmed: 22035958, mid: NIHMS331004, pmc: PMC3384509, pmcid: pmc-id: PMC3384509;manuscript-id: NIHMS331004;, doi: 10.1016/j.cell.2011.09.045, pii: S0092-8674(11)01193-7
+
+11:ID 20595232: Walker AK, Yang F, Jiang K, Ji JY, Watts JL, Purushotham A, Boss O, Hirsch ML, Ribich S, Smith JJ, Israelian K, Westphal CH, Rodgers JT, Shioda T, Elson SL, Mulligan P, Najafi-Shoushtari H, Black JC, Thakur JK, Kadyk LC, Whetstine JR, Mostoslavsky R, Puigserver P, Li X, Dyson NJ, Hart AC, Näär AM
+Conserved role of SIRT1 orthologs in fasting-dependent inhibition of the lipid/cholesterol regulator SREBP. Genes Dev. 2010 Jul 1;24(13):1403-17
+pubmed: 20595232, pmc: PMC2895199, pmcid: pmc-id: PMC2895199;, doi: 10.1101/gad.1901210, pii: 24/13/1403, medline: 8711660
+
+12:ID 18854150: Blackwell TK, Walker AK
+OMA-gosh, where's that TAF? Cell. 2008 Oct 3;135(1):18-20
+pubmed: 18854150, doi: 10.1016/j.cell.2008.09.021, pii: S0092-8674(08)01178-1
+
+13:ID 18050436: Blackwell TK, Walker AK
+Transcription mechanisms. WormBook. 2006 Sep 5;():1-16
+pubmed: 18050436, pmc: PMC4781191, pmcid: pmc-id: PMC4781191;, doi: 10.1895/wormbook.1.121.1
+
+14:ID 17291483: Walker AK, Boag PR, Blackwell TK
+Transcription reactivation steps stimulated by oocyte maturation in C. elegans. Dev Biol. 2007 Apr 1;304(1):382-93
+pubmed: 17291483, mid: NIHMS20781, pmc: PMC1913287, pmcid: pmc-id: PMC1913287;manuscript-id: NIHMS20781;, doi: 10.1016/j.ydbio.2006.12.039, pii: S0012-1606(06)01497-7
+
+15:ID 16799563: Yang F, Vought BW, Satterlee JS, Walker AK, Jim Sun ZY, Watts JL, DeBeaumont R, Saito RM, Hyberts SG, Yang S, Macol C, Iyer L, Tjian R, van den Heuvel S, Hart AC, Wagner G, Näär AM
+An ARC/Mediator subunit required for SREBP control of cholesterol and lipid homeostasis. Nature. 2006 Aug 10;442(7103):700-4
+pubmed: 16799563, doi: 10.1038/nature04942, pii: nature04942
+
+16:ID 14726532: Walker AK, Shi Y, Blackwell TK
+An extensive requirement for transcription factor IID-specific TAF-1 in Caenorhabditis elegans embryonic transcription. J Biol Chem. 2004 Apr 9;279(15):15339-47
+pubmed: 14726532, doi: 10.1074/jbc.M310731200, pii: S0021-9258(19)63935-9
+
+17:ID 14654017: Blackwell TK, Walker AK
+Transcription elongation: TLKing to chromatin? Curr Biol. 2003 Dec 2;13(23):R915-6
+pubmed: 14654017, doi: 10.1016/j.cub.2003.11.013, pii: S0960-9822(03)00844-3
+
+18:ID 12576476: Takagi T, Walker AK, Sawa C, Diehn F, Takase Y, Blackwell TK, Buratowski S
+The Caenorhabditis elegans mRNA 5'-capping enzyme. In vitro and in vivo characterization. J Biol Chem. 2003 Apr 18;278(16):14174-84
+pubmed: 12576476, doi: 10.1074/jbc.M212101200, pii: S0021-9258(19)64569-2
+
+19:ID 12458202: Walker AK, Blackwell TK
+A broad but restricted requirement for TAF-5 (human TAFII100) for embryonic transcription in Caenorhabditis elegans. J Biol Chem. 2003 Feb 21;278(8):6181-6
+pubmed: 12458202, doi: 10.1074/jbc.M211056200, pii: S0021-9258(20)86611-3
+
+20:ID 12183367: Shim EY, Walker AK, Shi Y, Blackwell TK
+CDK-9/cyclin T (P-TEFb) is required in two postinitiation pathways for transcription in the C. elegans embryo. Genes Dev. 2002 Aug 15;16(16):2135-46
+pubmed: 12183367, pmc: PMC186450, pmcid: pmc-id: PMC186450;, doi: 10.1101/gad.999002
+
+21:ID 12089139: Shim EY, Walker AK, Blackwell TK
+Broad requirement for the mediator subunit RGR-1 for transcription in the Caenorhabditis elegans embryo. J Biol Chem. 2002 Aug 23;277(34):30413-6
+pubmed: 12089139, doi: 10.1074/jbc.C200305200, pii: S0021-9258(20)70111-0
+
+22:ID 11937484: Blackwell TK, Walker AK
+Getting the right dose of repression. Genes Dev. 2002 Apr 1;16(7):769-72
+pubmed: 11937484, doi: 10.1101/gad.986102
+
+23:ID 11566890: Walker AK, Rothman JH, Shi Y, Blackwell TK
+Distinct requirements for C.elegans TAF(II)s in early embryonic transcription. EMBO J. 2001 Sep 17;20(18):5269-79
+pubmed: 11566890, pmc: PMC125634, pmcid: pmc-id: PMC125634;, doi: 10.1093/emboj/20.18.5269
+
+24:ID 10764775: Walker AK, See R, Batchelder C, Kophengnavong T, Gronniger JT, Shi Y, Blackwell TK
+A conserved transcription motif suggesting functional parallels between Caenorhabditis elegans SKN-1 and Cap'n'Collar-related basic leucine zipper proteins. J Biol Chem. 2000 Jul 21;275(29):22166-71
+pubmed: 10764775, doi: 10.1074/jbc.M001746200, pii: S0021-9258(19)79650-1
+
