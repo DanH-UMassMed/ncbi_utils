@@ -6,44 +6,7 @@ import java.net.HttpURLConnection
 import groovy.xml.XmlParser
 import groovy.xml.XmlUtil
 
-def eUtilsGet(def function, def params) {
-    def base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/${function}"
-
-    def eUtilsResult = null
-    def eUtilsError = null
-
-    try {
-        def query = params.collect { k, v -> "${URLEncoder.encode(k, 'UTF-8')}=${URLEncoder.encode(v, 'UTF-8')}" }.join('&')
-        def url = new URL("${base_url}?${query}")
-
-        def connection = url.openConnection()
-        connection.setRequestMethod("GET")
-
-        if (connection.responseCode == 200) {
-            def inputStream = connection.inputStream
-            //println("Got a response")
-
-            def responseText = new Scanner(inputStream).useDelimiter("\\A").next()
-
-            def parser = new XmlParser()
-            parser.setFeature("http://apache.org/xml/features/disallow-doctype-decl", false)
-            parser.setFeature("http://apache.org/xml/features/nonvalidating/load-external-dtd", false)
-            eUtilsResult = parser.parseText(responseText)
-
-        } else {
-            errorMsg = "Failed to retrieve data. Response code: ${connection.responseCode}"
-            println(errorMsg)
-            eUtilsError = errorMsg
-        }
-
-    } catch (Exception ex) {
-        println("An error occurred: ${ex.message}")
-        ex.printStackTrace()
-        eUtilsError = ex.message
-    }
-
-    return ["function": function, "eUtilsResult": eUtilsResult, "eUtilsError": eUtilsError]
-}
+import EntrezEUtils
 
 
 def entrezSearch(def searchTerm) {
@@ -53,37 +16,38 @@ def entrezSearch(def searchTerm) {
         db: "pubmed",
         term: searchTerm,
         retmode: "xml",
-        retmax: "200",
+        retmax: "500",
         usehistory: "y"
     ]
-    eUtilsGetResult = eUtilsGet(function, params) 
+    eUtilsGetResult = EntrezEUtils.eUtilsGet(function, params) 
     def eSearchResult = eUtilsGetResult.eUtilsResult   
 
-    count = 1
+    //count = 1
     //eSearchResult.IdList.Id.each { id -> println("${String.format('%4d', count++)} UID: ${id.text()}") }
 
     return eUtilsGetResult
 }
-
-
-
 
 def entrezSummary(def eUtilsSearchResult) {
     def function = "esummary.fcgi"
     def eSearchResult = eUtilsSearchResult.eUtilsResult   
     def queryKey = eSearchResult.QueryKey.text()
     def webEnv = eSearchResult.WebEnv.text()
-    println("?db=pubmed&query_key==${queryKey}&WebEnv=${webEnv}")
+    //println("?db=pubmed&query_key==${queryKey}&WebEnv=${webEnv}")
 
     def params = [
         db: "pubmed",
         query_key: queryKey,
         WebEnv: webEnv,
         retmode: "xml",
-        retmax: "200",
+        retmax: "500",
     ]
-    eUtilsGetResult = eUtilsGet(function, params) 
-    def eSummaryResult = eUtilsGetResult.eUtilsResult  
+    eUtilsGetResult = EntrezEUtils.eUtilsGet(function, params)     
+    return eUtilsGetResult 
+}
+
+def author_report(def eUtilsSummaryResult) {
+    def eSummaryResult = eUtilsSummaryResult.eUtilsResult  
 
     //def prettyXml = XmlUtil.serialize(eSummaryResult)
     //print(prettyXml) 
@@ -100,36 +64,103 @@ def entrezSummary(def eUtilsSearchResult) {
         def issue = docSum.Item.find { it.@Name == 'Issue' }.text()
         def pages = docSum.Item.find { it.@Name == 'Pages' }.text()
 
+        println("${counter++}: ${title} ${source}. ${pubDate};${volume}(${issue}):${pages}")
 
         if (authorList) {
             def concatenatedAuthors = authorList.join(', ')
-            println "${counter++}:ID ${docSum.Id.text()}: $concatenatedAuthors"
+            println "$concatenatedAuthors"
         }
 
-        println("${title} ${source}. ${pubDate};${volume}(${issue}):${pages}")
 
         def articleIds = docSum.Item.find { it.@Name == 'ArticleIds' }
         if (articleIds) {
             def articleIdsString = articleIds.Item.collect { "${it.@Name}: ${it.text()}" }.join(', ')
             println "$articleIdsString"
         }
+        println "https://pubmed.ncbi.nlm.nih.gov/${docSum.Id.text()}"
 
         println()
     }
-
-    
-    return eUtilsGetResult 
 }
 
+def download_links(def eUtilsSummaryResult) {
+    def eSummaryResult = eUtilsSummaryResult.eUtilsResult   
+    //def prettyXml = XmlUtil.serialize(eSummaryResult)
+    //print(prettyXml) 
+    println("<html>")
+    println("<h1>Download links</h1>")
+    println("<ul>")
+    def docSums = eSummaryResult.DocSum
+
+    docSums.each { docSum ->
+            println "<li><a href=https://pubmed.ncbi.nlm.nih.gov/${docSum.Id.text()}>${docSum.Id.text()}</a></li>"
+        }
+
+    println("</ul>")
+    println("</html>")
+
+}
 
 // Call the function with the search term
-def search_term = """((walker ak[Author]) NOT (adam k walker[Author]) NOT (Angela K Walker) NOT (Allison K Walker) 
+def amys_papers = """((walker ak[Author]) NOT (adam k walker[Author]) NOT (Angela K Walker) NOT (Allison K Walker) 
                        NOT (Alexandra K Walker) NOT (Alexis K Walker) NOT (Aaron K Walker) NOT (Anaesthesia[jour]) 
                        NOT (24335193[UID]) NOT (8531707[UID]) NOT (22267235[UID]) NOT (25264390[UID]) NOT (24777035[UID]) 
                        NOT (17896077[UID]) NOT (24751964[UID]) NOT (21907243[UID]) NOT (21438770[UID]) NOT (11332761[UID]) 
                        NOT (20666652[UID]) NOT (17337586[UID]) NOT (9921134[UID]) NOT (10419626[UID]) NOT (10548814[UID]) 
                        NOT (8700510[UID])  NOT (10631665[UID])) OR (21124729[UID])"""
-search_term = "(21124729[UID]) OR (37980357[UID])" 
-eUtilsSearchResult   = entrezSearch(search_term)
-eUtilsSummaryResults = entrezSummary(eUtilsSearchResult)
 
+def conferenceTopics1 = """("Lipid asymmetry"[All Fields] AND "membranes"[All Fields])"""
+def conferenceTopics2 = """("Membrane contact"[All Fields] AND "sites"[All Fields])"""
+def conferenceTopics3 = """("Lipid function"[All Fields] AND "organelles"[All Fields])"""
+
+conferenceTopics3 = """("lipid peroxidation"[All Fields] AND "ferroptosis"[All Dields]"""
+
+def publishedRange = "(2018[Date - Publication] : 2024[Date - Publication])"
+def publishedAIn5Yrs = "(y_5[Filter])"
+
+def journals ="""
+(Cell[Journal] OR
+Cell Metabolism[Journal] OR
+Molecular Cell[Journal] OR
+Cell Reports[Journal] OR
+Cell Systems[Journal] OR
+Current Biology[Journal] OR
+Developmental Cell[Journal] OR
+Structure[Journal] OR
+Nature[Journal] OR
+Nature Cell Biology[Journal] OR
+Nature Metabolism[Journal] OR
+Nature Aging[Journal] OR
+Nature Communications[Journal] OR
+Science[Journal] OR
+Science Signaling[Journal] OR
+Science Advances[Journal] OR
+PLoS Biology[Journal] OR
+PLoS Genetics[Journal] OR
+Nature Reviews Molecular Cell Biology[Journal] OR
+Nature Reviews Genetics[Journal] OR
+Trends in Endocrinology and Metabolism[Journal] OR
+Trends in Genetics[Journal] OR
+Trends in Biochemical Sciences[Journal] OR
+Trends in Cell Biology[Journal] OR
+Annual Review of Genetics[Journal] OR
+Annual Review of Biochemistry[Journal] OR
+Annual Review of Cell and Developmental Biology[Journal] OR
+Annual Review of Nutrition[Journal] OR
+Journal of Lipid Research[Journal] OR
+Journal of Cell Biology[Journal] OR
+Molecular and Cellular Biology[Journal] OR
+Journal of Biological Chemistry[Journal] OR
+PNAS[Journal] OR
+eLife[Journal] OR
+The EMBO Journal[Journal] OR
+Nucleic Acids Research[Journal] OR
+Journal of Cell Science[Journal] OR
+Developmental Biology[Journal] OR
+Genes and Development[Journal])
+"""
+search_term = conferenceTopics1 + "AND" + journals + "AND" + publishedRange
+eUtilsSearchResult   = entrezSearch(search_term)
+eUtilsSummaryResult = entrezSummary(eUtilsSearchResult)
+author_report(eUtilsSummaryResult)
+// download_links(eUtilsSummaryResult)

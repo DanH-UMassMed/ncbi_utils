@@ -1,0 +1,228 @@
+year,attendee,role,session,title
+2023,Dennis Voelker,session,1,Keynote Session: Dynamic Regulation of Lipid Metabolizing Enzymes
+2023,Roger Williams,speaker,1,Structural Mechanisms of Activation of Phosphoinositide 3-Kinase Superfamily Enzymes on Membranes.
+2023,Sarah Spiegel,speaker,1,Sphingosine-1-Phosphate: Lipid Signaling in Health and Disease
+2023,Thurl Harris,session,2,Membrane Architecture and Signaling
+2023,Bhawik Jain,speaker,2,A Phosphatidylinositol 4-Phosphate Undercurrent in the Secretory Pathway is Pumped to the Cytosolic Surface of the Golgi by a P4-ATPase
+2023,Karin Reinisch,speaker,2,A Proposed Role for Protein-Mediated Bulk Lipid Transfer in Membrane Expansion and Organelle Biogenesis.
+2023,Nicolas Vitale,speaker,2,Novel Tools to Study the Role of Different Forms of Phosphatidic Acid in Neurosecretion
+2023,Patricia Bassereau,speaker,2,Protein Clustering Mediated by Fluid Lipid Membranes
+2023,Tamas Balla,speaker,2,Phosphoinositide Lipids: Key Organizers of Membrane Lipid Distribution and Metabolism.
+2023,Rosalind Coleman,session,3,Physiology and Pathophysiology of Membrane Lipid Metabolism
+2023,Joost Holthuis,speaker,3,Pathophysiological Impact of a Disrupted Sphingomyelin Gradient in the Secretory Pathway
+2023,Lucio Cocco,speaker,3,PLC-beta1 in Myelodysplastic Syndromes
+2023,Pavel Barahtjan,speaker,3,Plasma Membrane Lipid Asymmetry is Linked to Cellular Energetics
+2023,Svenja Bolz,speaker,3,Synaptotagmin 1-Triggered Lipid Signaling Couples Exo- and Endocytosis
+2023,L.  Ashley Cowart,session,4,Sensors and Analyses of Lipid Diversity and Dynamics
+2023,Binks Wattenberg,speaker,4,The ORMDLs: Direct Ceramide Sensors Homeostatically Regulating Sphingolipid BIosynthesis
+2023,Claire Weckerly,speaker,4,Characterizing the Membrane Binding of Nir1-LNS2 for Its Use as a Phosphatidic Acid Biosensor
+2023,Jeremy Baskin,speaker,4,Optogenetic Membrane Editors for Manipulating Phosphatidic Acid Metabolism and Signaling
+2023,Tatyana Igumenova,speaker,4,The C1 Domain Family: Like Yet Unlike
+2023,Wonhwa Cho,speaker,4,"Lipid Imaging, Signaling, and Drug Discovery"
+2023,Michael Wolfgang,session,5,Lipid Droplets and Systemic Lipid Metabolism
+2023,Danielle Smith,speaker,5,Rab30 Regulates Lipid Homeostasis in the Hepatocyte During Fasting
+2023,James Olzmann,speaker,5,Cellular Mechanisms of Lipid Homeostasis and Lipotoxicity
+2023,Karen Reue,speaker,5,SeXX and Adipose Tissue
+2023,Scott Johnson,speaker,5,PNPLA3 is a Triglyceride Lipase Selectively Mobilizing PUFAs for ER Membrane Desaturation and VLDL Secretion During Lipogenesis
+2023,Yusuf Hannun,session,6,Regulation of Membrane Lipids and Lipid Metabolites
+2023,Brooke Emerling,speaker,6,Phosphoinositide Dynamics in Growth Control and Metabolism
+2023,Delaney Kaper,speaker,6,C. elegansReveals AdipoR2/Fatty Acid Elongation Complex and Suppressors of PUFA Deficiency Phenotypes
+2023,Michael Airola,speaker,6,Regulation of Intracellular Lipolysis
+2023,Shamshad Cockcroft,speaker,6,CDP-Diacylglycerol Synthases as a Gateway to Phosphoinositide and Cardiolipin Synthesis
+2023,Teresa Dunn,speaker,6,SPTSSA Variants Disrupt ORMDL Regulation of SPT and Cause a Complex Hereditary Spastic Paraplegia
+2023,Eric Klein,session,7,Lipid Metabolism in Yeast and Prokaryotes
+2023,Cody Lloyd,speaker,7,Biological C(sp3)-C(sp3) Coupling: An Extreme Strategy to Form the Phospholipid Monolayer Membrane
+2023,Fikadu Tafesse,speaker,7,The Battle Inside: Cellular Lipids vs. Infections
+2023,Robert Ernst,speaker,7,Lipid Fingerprints of ER Stress
+2023,Shu-Sin Chng,speaker,7,Bacterial Lipid Trafficking and Outer Membrane Homeostasis
+2023,George Carman,session,8,Structure and Biochemistry of Lipid Metabolizing Enzymes
+2023,Angeline Lyon,speaker,8,Regulation of Phospholipase C Enzymes by G Proteins and the Membrane
+2023,Fumio Sakane,speaker,8,Novel Diacylglycerol Production/Phosphorylation Pathways Independent of the Phosphatidylinositol Turnover
+2023,Kathryn Gunn,speaker,8,CryoEM Reveals an Active Site Pore in Lipoprotein Lipase
+2023,Ku-Lung Hsu,speaker,8,Deciphering Specificity of Diacylglycerol Metabolic Enzymes by Chemoproteomics and Protein Engineering
+2023,Raymond Blind,speaker,8,Structure/Function Analyses for Novel Lipid Ligands of the Nuclear Receptor LRH-1
+2023,Hanaa Hariri,session,9,Keynote Session: Lipid Metabolizing Enzymes: From Biochemistry to Physiology
+2023,Julie Saba,speaker,9,The Story of Sphingosine Lysase Deficiency Discovery and Potential Therapy: From Yeast To Humans
+2023,Vytas Bankaitis,speaker,9,The Winding Road of Phosphatidylinsitol Transfer Proteins From Basic Science Interest to Disease Relevance
+2019,Anant Menon,session,1,Keynote Session: Dynamic Regulation of Signaling Lipids and Membrane Properties
+2019,Bruno Antonny,speaker,1,Lipid Acyl Chain Unsaturation and Membrane Dynamics
+2019,Lina Obeid,speaker,1,Regulation of Bioactive Sphingolipid Metabolic Pathways
+2019,Suzanne Jackowski,session,2,Sphingolipid Signaling and Metabolic Disease
+2019,Binks Wattenberg,speaker,2,Ceramide Is Directly and Stereospecifically Sensed by the ORMDL/SPT Complex to Regulate Sphingolipid Biosynthesis
+2019,Eric Klein,speaker,2,Caulobacter crescentusAdapts to Phosphate Starvation by Synthesizing Anionic Glycoglycerolipids and a Novel Glycosphingolipid
+2019,Rotonya Carr,speaker,2,Ceramides and Lipid Droplet Biology
+2019,Scott Summers,speaker,2,Ceramides and Metabolic Disease
+2019,Yusuf Hannun,speaker,2,Neutral Ceramidase: Structure and Function
+2019,Bruno Antonny,session,3,Phosphoinositide Control of Membrane Dynamics
+2019,Brooke Emerling,speaker,3,Non-Canonical Phosphatidylinositol Kinases and Cellular Metabolism
+2019,Jessica Gullett,speaker,3,The Role of Fatty Acid Binding Proteins in Gram Positive Pathogenic Bacteria
+2019,Laura Beth McIntire,speaker,3,Novel Metabolism of Acyl Chain Dyshomeostasis in Alzheimer's Disease
+2019,Vytas Bankaitis,speaker,3,Phosphoinositides and Brain Development
+2019,Patrick Williamson,session,4,Making and Breaking Membrane Asymmetry
+2019,Anant Menon,speaker,4,Mechanisms of Lipid Scrambling by TMEM16 and GPCR Scramblases
+2019,Ann Wehman,speaker,4,Extracellular Vesicle Budding Is Inhibited by Redundant Regulators of TAT-5 Flippase Localization and Phospholipid Asymmetry
+2019,Anna Sundborger-Lunna,speaker,4,Membrane Remodeling at the Brink of Death
+2019,Hye-Won Shin,speaker,4,Dynamic Localization Mechanism of Mammalian Lipid Flippases
+2019,Shigekazu Nagata,speaker,4,Mammalian Scramblases and Flippases at Plasma Membranes
+2019,Dennis Voelker,session,5,Lipid Links to Virology
+2019,Alenka Copic,speaker,5,What the Giant Amphipathic Helix of Perilipin 4 Can Tell Us About Protein-Lipid Droplet Interactions
+2019,Edward Dennis,speaker,5,Membrane Allostery and Unique Hydrophobic Sites Promote Phospholipase A2 Substrate Specificity
+2019,Robert Stahelin,speaker,5,Role of Cellular Lipids in Replication and Assembly of Filoviruses
+2019,Rosalind Coleman,session,6,Lipid Droplet Remodeling
+2019,Amy Walker,speaker,6,Disruption of Membrane Lipids Activates a Dual Transcriptional Program to Increase Lipogenesis and Bypass Organelle Dysfunction
+2019,Peng Li,speaker,6,Condensation of CIDEC at Lipid Droplet Contact Sites by Potential Phase Separation Promotes Lipid Droplet Fusion Growth
+2019,Robert Farese,speaker,6,Mechanisms and Physiology of Lipid Synthesis and Storage
+2019,Thurl Harris,speaker,6,Adipocyte Lipolysis and Stress-Induced Insulin Resistance
+2019,Will Prinz,speaker,6,Lipid Droplet Biogenesis from Specialized Domains in the ER
+2019,Judith Storch,session,7,Regulation of Sterol Metabolism and Localization
+2019,Hanaa Hariri,speaker,7,Regulation and Compartmentalization of Fatty Acid Metabolism
+2019,Hongyuan Yang,speaker,7,"Cholesterol Delivery to the Plasma Membrane: The Roles of ORP2 and PI(4,5)P2"
+2019,Russell Debose-Boyd,speaker,7,Dissecting Role of the Prenyltransferase UBIAD1 in Regulation of Cholesterol Homeostasis
+2019,Xiaolei Su,speaker,7,Effect of Cholesterol on Cancer Immune Responses
+2019,Yusuf Hannun,session,8,Lipidome Remodeling and Physiological Consequences
+2019,Howard Riezman,speaker,8,Diversion of Sphingolipid Synthesis During Anoxia and Its Consequences for Ischemia/Reperfusion
+2019,Martin Graef,speaker,8,Fatty Acid Channeling Drives Autophagic Membrane Formation at Phagophore-ER Contacts During Autophagy
+2019,Michael Airola,speaker,8,Function and Regulation of Lipin Phosphatidic Acid Phosphatases
+2019,Miriam Greenberg,speaker,8,Cardiolipin Links Mitochondrial Lipid Synthesis to TCA Cycle Function
+2019,Saskia Neher,speaker,8,How Form Defines Function: Insight into Lipase Regulation
+2019,George Carman,session,9,Organization of Lipids in Membranes
+2019,Ilya Levental,speaker,9,Lipidomic and Biophysical Homeostasis of Mammalian Membranes
+2019,Marc Pilon,speaker,9,The AdipoR Pathway Is Essential to Maintain Membrane Homeostasis in the Presence of Saturated Fatty Acids
+2019,Sarah Veatch,speaker,9,Functional Ordered Domains in Cell Plasma Membranes
+2017,David Bernlohr,session,1,Keynote Session: Lipids in Signaling and Metabolism
+2017,Jean Schaffer,speaker,1,RNA Regulation of Lipotoxicity
+2017,Rosalind Coleman,speaker,1,Compartmentalizing Lipid Metabolism
+2017,Judith Storch,session,2,Regulation of Intracellular Lipid Storage and Utilization
+2017,Andrew Hoy,speaker,2,Lipid Droplet Proteome and Phospho-Proteome Reveals Role of Key Proteins in the Pathogenesis of Hepatic Insulin Resistance
+2017,Brian Finck,speaker,2,Convergent Pathways of Diacylglycerol Synthesis or Only the Tip of the Iceberg?
+2017,Dawn Brasaemle,speaker,2,"Investigating the Function of CGI-58, an Enigmatic Protein"
+2017,Douglas Mashek,speaker,2,ACOT1: A Regulatory Node in Fatty Acid Signaling and Metabolism
+2017,Mike Renne,speaker,2,Crossspeaker Between Membrane Lipid Unsaturation and Inter-Organelle Lipid Transport
+2017,Jean Schaffer,session,3,Autophagy and Lipid Metabolism
+2017,Angela Corcelli,speaker,3,MALDI/TOF MS Lipid Analyses of Melanoma Cells and Their Exosomes
+2017,Jennifer Lippincott-Schwartz,speaker,3,Dissecting the Mechanism for Micro-Lipophagy in Yeast and Its Role in Lifespan Extension Under Starvation
+2017,Martin Graef,speaker,3,Acyl-CoA Synthetases Drive Autophagy
+2017,Rosalind Coleman,session,4,Intracellular Lipid Trafficking
+2017,Jessica Ellis,speaker,4,Fatty Acid Oxidation Is Required for the Working Heart: Lessons from Cardiac CPT2 Deficiency
+2017,Judith Storch,speaker,4,Cholesterol Trafficking in Niemann-Pick C Disease
+2017,Maria Gonzalez-Baro,speaker,4,GPAT3 and GPAT4 Direct GlycerolizedDe NovoSynthesis in Activated Macrophages and Their Down-Regulation Alters Macrophage Functionality
+2017,Silvana Zanlungo,speaker,4,Pathogenic Mechanisms in Niemann-Pick Type C Cholesterol Storage Disease
+2017,Yongqiang Deng,speaker,4,Sphingomyelin Is Sorted at the Trans Golgi Network into a Distinct Class of Secretory Vesicles
+2017,Douglas Mashek,session,5,The Microbiome and Lipid Metabolism
+2017,Itay Budin,speaker,5,Metabolic Engineering of Membrane Lipid Composition in Model Organisms
+2017,M. Stephen Trent,speaker,5,The Power of Asymmetry: Architecture and Assembly of the Gram-Negative Outer Membrane Lipid Bilayer
+2017,Minal Mulye,speaker,5,Altering Lipid Droplet Homeostasis AffectsCoxiella burnetiiIntracellular Growth
+2017,Dawn Brasaemle,session,6,Membrane Microdomains: Structure and Function
+2017,Marc Pilon,speaker,6,The AdipoR and FLD-1 Pathways Protect Cellular Membranes Against Rigidifying Exogenous Saturated Fatty Acids
+2017,Mary Kraft,speaker,6,Does the Influenza Virus Bud from Membrane Domains Enriched with Cholesterol and Sphingolipids?
+2017,McKenna Feltes,speaker,6,Diazirine Alkyne (DA) Probes as Tools for the Study of Intracellular Cholesterol Trafficking
+2017,Paul Pilch,speaker,6,Dual Functions of PTRF/Cavin-1 in the Etiology of Type 4 CGL
+2017,Vanina Zaremberg,speaker,6,Dynamic Pools of Diacylglycerol Define Vacuolar Morphology and Plasma Membrane Sites of Polarized Growth in Budding Yeast
+2017,Todd Graham,session,7,Regulation and Function of Phospholipid Metabolism
+2017,Grant Hatch,speaker,7,Altered Islet Function May Promote a Lean Phenotype in Tafazzin Knockdown Mice
+2017,Nihal Altan-Bonnet,speaker,7,Viral Propagation in Vesicles: Pooped out or Pathogenic?
+2017,Steven Claypool,speaker,7,Rewiring Mitochondrial Phosphatidylethanolamine Metabolism in Yeast
+2017,Brian Finck,session,8,Lipid-Mediated Signal Transduction
+2017,Christopher Horoszko,speaker,8,A RAS-ERK Stress Response Triggers Phospholipid Catabolism in the Secretory Endosomal Pathway
+2017,George Carman,speaker,8,Phosphatidic Acid Phosphatase Regulates Phospholipid Synthesis via Phosphatidylserine Synthase
+2017,Heather Bradshaw,speaker,8,Lipoamines: An Emerging Class of Novel Lipid Signaling Molecules
+2017,Maria Karmella Apaya,speaker,8,Bioactive Lipids in Triple Negative Breast Cancer: Epoxyeicosatrienoic Acids as Metabolic and Metastasis Drivers
+2017,Nils Faergeman,speaker,8,Regulation ofDe NovoSphingolipid Synthesis by Directional Acyl-CoA Channeling
+2017,Nils Faergeman,session,9,Transcriptional Control in Lipid Metabolism
+2017,Cunqi Ye,speaker,9,An Unforeseen Function for Phospholipid Methylation in Cellular Metabolism and Maintenance of the Epigenome
+2017,Soonkyu Chung,speaker,9,Dietary n-3 PUFA Increases Brown Adipogenesis Through miRNA-Associated Mechanisms
+2017,Timothy Osborne,speaker,9,Setting the Stage for SREBP Dependent Regulation of Hepatic Lipid Metabolism
+2015,Suzanne Jackowski,session,1,Keynote Session: Lipid Dynamics and Lipidomics
+2015,Todd Graham,speaker,1,Probing How and Why P4-ATPases Flip Phospholipid
+2015,Daniel Nomura,speaker,1,Mapping Dysregulated Lipid Metabolism in Disease Using Chemoproteomic and Metabolomics Platforms
+2015,George Carman,session,2,Cellular Trafficking of Lipids
+2015,Symeon Siniossoglou,speaker,2,Coordination of Membrane and Storage Lipid Homeostasis by Lipin
+2015,Thomas Langer,speaker,2,Intramitochondrial Phospholipid Trafficking
+2015,Will Prinz,speaker,2,ER-Golgi Contacts and Ceramide Toxicity
+2015,Madhavan Chalat,speaker,2,C-Terminal Domain of Atp8a2 Is Involved in Auto-Regulation of Flippase Activity
+2015,Masaki Tsuchiya,speaker,2,The Role of Phospholipid Flippases in Myotube Formation
+2015,Daniel Raben,session,3,Lipid Responses to Challenge
+2015,Frank Gonzalez,speaker,3,Ceramides and Metabolic Disease
+2015,Gregory Fairn,speaker,3,"Mutual Requirement of Cholesterol and Phosphatidylserine in the Cytosolic Leaflet of the Plasma Membrane		"
+2015,Nan Chiang,speaker,3,Novel Actions of Specialized Pro-Resolving Mediators in Promoting Resolution of Inflammation and Infection
+2015,Dennis Voelker,session,4,Lipid Signaling
+2015,Lois Weisman,speaker,4,"Role and Regulation of PI(3,5)P2 and PI5P: Signaling Lipids with Links to Neurodegeneration		"
+2015,Rajat Rohatgi,speaker,4,"Signal Transduction by Oxysterols		"
+2015,Richard Proia,speaker,4,"Imaging Sphingolipid Signaling in Live Mice		"
+2015,Scott Hansen,speaker,4,Lipid Gating of Ion Channels
+2015,Xinxin Gao,speaker,4,Single-Cell In Situ Imaging of Wnt Palmitoylation
+2015,Paul Black,session,5,Responses to Lipid Challenge
+2015,Clay Semenkovich,speaker,5,"Lipogenesis, Metabolic Signaling, and Adaptation to Obesity"
+2015,Stephen Jesch,speaker,5,"Inositol-Dependent Changes in Sphingolipid Metabolism Regulate Stress Response Signaling		"
+2015,Tobias Walther,speaker,5,Molecular Mechanisms and Consequences of Cellular Neutral Lipid Storage
+2015,Rosalind Coleman,session,6,Disease Mechanisms
+2015,Baran Ersoy,speaker,6,Regulation of Endoplasmic Reticulum (ER) Calcium Homeostasis by Thioesterase Superfamily Member 2 (Them2): Pathogenic Role in Non-Alcoholic Fatty Liver Disease (NAFLD)
+2015,Martin Pagac,speaker,6,SEIPIN Is an Evoluationarily Conserved Regulator of Glycerol-3-Phosphate Acyltransferase (GPAT)
+2015,Michael Schlame,speaker,6,"Aberrant Cardiolipin Dynamics in Barth Syndrome		"
+2015,Michael Wolfgang,speaker,6,"Role of Adipocyte Fatty Acid Oxidation in Obesity and Diabetes		"
+2015,Noa Noy,speaker,6,"Long Chain Fatty Acids Regulate Transcription and Modulate Cancer Cell Growth by Targeting FABP5		"
+2015,Judith Storch,session,7,Targeting Lipid Metabolism
+2015,Alenka Copic,speaker,7,"How Differential Membrane Lipid Composition Is Maintained in Cells and Used for Selective Recruitment of Amphipathic Helices		"
+2015,Alex Brown,speaker,7,Phosphatidic Acid Pathways as Therapeutic Targets in Cancer and Infectious Disease
+2015,Michael Wakelam,speaker,7,Lipidomic Analysis of Cancer Cells and Tissues
+2015,James Ntambi,session,8,Microbial Interaction with Host Lipid Metabolism
+2015,Andrew Tai,speaker,8,"Reorganizing Cellular Membranes to Support RNA Virus Replication		"
+2015,Charles Rock,speaker,8,"Chlamydia trachomatis Relies on Autonomous Phospholipid Synthesis for Membrane Biogenesis		"
+2015,Daniel Ferguson,speaker,8,Hepatitus C Virus-Driven Depatic Steatosis Requires the Lipid Droplet Scaffold Protein TIP47
+2015,Dennis Voelker,speaker,8,"Anionic Phospholipid Protection from Respiratory Virus Infections		"
+2015,Swapna Apte,speaker,8,Functions of Specific Sphingolipids in Dengue Virus Infection
+2015,David Bernlohr,session,9,Technological Advances in Lipid Biology
+2015,Alan Kleinfeld,speaker,9,"(Speaker2) Unbound FFA Profiles as a New Window on Physiological Active Metabolites		"
+2015,Arthur Laganowsky,speaker,9,Advances in Ion Mobility Mass Spectrometry of Intact Membrane Protein-Lipid Complexes
+2015,Paul Black,speaker,9,"(Speaker1) Unbound FFA Profiles as a New Window on Physiological Active Metabolites		"
+2015,Peter Watson,speaker,9,Hyperspectral and Differential CARS Microscopy for Quantitative Imaging of Cellular Lipids
+2013,Rosalind Coleman,session,1,Keynote Lectures: Lipids from Membranes to Metabolic Disease
+2013,Henry Ginsberg,speaker,1,"There are many ways to get a fatty liver, or not"
+2013,James Rothman,speaker,1,The molecular mechanism of membrane fusion and Its cellular regulation
+2013,David Bernlohr,session,2,Lipid Signals that Regulate Cell Metabolism
+2013,Dagmar Kratky,speaker,2,C16 ceramide triggers apoptosis in adipose triglyceride lipase-deficient macrophages
+2013,J. Kalervo Hiltunen,speaker,2,Mitochondrial fatty acid synthesis - lipoic acid or more?
+2013,James Ntambi,speaker,2,Hepatic de novo lipogenesis and regulation of metabolism
+2013,Jennifer Watts,speaker,2,Physiological roles of dietary and endogenously synthesized PUFAs in C. elegans
+2013,Richard Gross,speaker,2,Pleiotropic roles of the patatin-like family of phospholipases in cellular signaling and bioenergetics revealed through lipidomics
+2013,Hei Sook Sul,session,3,New Roles for Lipases and Acyltransferases
+2013,Daniel Nomura,speaker,3,Mapping Dysregulated Lipid Signaling Pathways in Disease using Functional Metabolomics
+2013,Judy Storch,speaker,3,Monoacylglycerol lipase and the regulation of body weight and obesity
+2013,Richard Lehner,speaker,3,Hepatic triacylglycerol lipases and lipoprotein metabolism
+2013,Saskia Neher,speaker,3,Mechanistic insights into lipoprotein lipase regulation
+2013,Daniel Raben,session,4,Membrane Lipids Biogenesis and Turnover
+2013,Ann Wehman,speaker,4,The lipid flippase TAT-5 prevents the budding of extracellular vesicles
+2013,Melanie Ott,speaker,4,Lipid droplets and hepatitis C virus infection
+2013,Nils Faergeman,speaker,4,Impaired epidermal barrier function compromises SREBP-mediated lipogenic gene expression in liver
+2013,Russell DeBose-Boyd,speaker,4,Regulation of HMG CoA reductase degradation in the liver
+2013,Tim Osborne,speaker,4,New roles and regulation for SREBPs in mammalian metabolism
+2013,Todd Graham,speaker,4,The Flip Side of Membrane Biogenesis: Creating Asymmetry with P4-ATPases
+2013,Clay Semenkovich,session,5,Cellular Lipid Metabolism
+2013,Hiroyuki Arai,speaker,5,A new role for glycerol-3-phosphate acyltransferase in mitochondrial fusion
+2013,Hongying (Hoy) Shen,speaker,5,Sphingosine kinase 1 in endocytic membrane trafficking
+2013,Sarah Spiegel,speaker,5,Role of sphingosine-1-phosphate in signaling and metabolism
+2013,Tobias Walther,speaker,5,Cell biology of lipid droplet formation and growth
+2013,James Ntambi,session,6,Fatty Acid Metabolism
+2013,Chuck Rock,speaker,6,Lipid Metabolism in Bacterial Pathogens: Unique biochemistry and therapeutic opportunities
+2013,David E. Cohen,speaker,6,Acyl-CoA thioesterase-mediated control of lipid and glucose metabolism
+2013,Jessica Ellis,speaker,6,Acot7 protects neurons from excess fatty acid metabolism and neurodegeneration
+2013,Matthew Watt,speaker,6,Perilipin 5 deficiency in mice alters metabolism and causes skeletal muscle insulin resistance
+2013,Nada Abumrad,speaker,6,"Fatty acid uptake, lipid remodeling and cardiac adaptation"
+2013,Valerie O'Donnell,speaker,6,Oxidized phospholipids enzymatically generated by human innate immune cells
+2013,Steve Farber,session,7,Transcriptional Control Of Lipids
+2013,Amy Walker,speaker,7,Lipolysis as an important mediator of hepatic energy metabolism
+2013,Douglas Mashek,speaker,7,Lipolysis as an important mediator of hepatic energy metabolism
+2013,Peter Espenshade,speaker,7,Transcriptional Regulation of Sterol Homeostasis in Fungi
+2013,Vikas Chandra,speaker,7,Structural-functional studies of nuclear receptors as drug targets
+2013,Miriam Greenberg,session,8,Spotlight On Phosphatidate
+2013,Brian Finck,speaker,8,Lipin 1 modulates cAMP-mediated signaling by regulating cellular phosphatidic acid concentrations
+2013,George Carman,speaker,8,Regulation of phosphatidate phosphatase and Its impact on lipid metabolism
+2013,Gregory Fairn,speaker,8,"Phosphatidic Acid produced by diacylglycerol kinases is required for constitutive ruffling, macropinocytosis and its synthesis attenuates superoxide production in phagocytes"
+2013,Hongyuan Rob Yang,speaker,8,"Seipin, phosphatidic acid and 'supersized' lipid droplets"
+2013,Shirin Bahmanyar,speaker,8,Spatial regulation of phospholipid flux by the lipin activation pathway controls mitotic reorganization of the nuclear envelope
+2013,Susan Henry,speaker,8,Regulatory mechanisms controlling channeling of phosphatidic acid into phospholipids vs. triacylglycerol during active growth in yeast
+2013,Carol Sztalryd,session,9,Genetic Regulation Of Lipids
+2013,Daniel Raben,speaker,9,DGKθ and endocytosis
+2013,Eyleen O'Rourke,speaker,9,MXL-3 and HLH-30 transcriptionally link lipolysis and autophagy to nutrient availability
+2013,Kasey Vickers,speaker,9,Lipid-based carriers of extracellular microRNAs in intercellular communication
+2013,Kathryn J. Moore,speaker,9,MicroRNA regulation of lipid metabolism
