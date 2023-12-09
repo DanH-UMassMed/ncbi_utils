@@ -1,0 +1,130 @@
+				function gtag() { dataLayer.push(arguments) };
+				gtag('js', new Date());
+				gtag('config', 'UA-106097552-1');
+<tr><td align="left" valign="top" class="nowrap"></td><td align="left" valign="top">Discussion Leader: <b>Rosalind Coleman</b> (University of North Carolina, Chapel Hill, NC)</td></tr>
+<tr><td align="left" valign="top" class="nowrap">7:40 pm - 8:25 pm</td><td align="left" valign="top"><b>James Rothman</b> (Yale University, New Haven, CT)
+<tr><td align="left" valign="top" class="nowrap">8:35 pm - 9:20 pm</td><td align="left" valign="top"><b>Henry Ginsberg</b> (Columbia University, NYC, NY)
+<tr><td align="left" valign="top" class="nowrap"></td><td align="left" valign="top">Discussion Leader: <b>David Bernlohr</b> (University of Minnesota)</td></tr>
+<tr><td align="left" valign="top" class="nowrap">9:00 am - 9:30 am</td><td align="left" valign="top"><b>Dagmar Kratky</b> (Medical University of Graz, Austria)
+<tr><td align="left" valign="top" class="nowrap">9:35 am - 10:05 am</td><td align="left" valign="top"><b>James Ntambi</b> (University of Wisconsin, Madison, WI)
+<tr><td align="left" valign="top" class="nowrap">10:45 am - 11:15 am</td><td align="left" valign="top"><b>Jennifer Watts</b> (Washington State University)
+<tr><td align="left" valign="top" class="nowrap">11:20 am - 11:35 am</td><td align="left" valign="top"><b>J. Kalervo Hiltunen</b> (University of Oulu, Finland)
+<tr><td align="left" valign="top" class="nowrap">11:40 am - 12:20 pm</td><td align="left" valign="top"><b>Richard Gross</b> (Washington University, St. Louis, MO)
+<tr><td align="left" valign="top" class="nowrap"></td><td align="left" valign="top">Discussion Leader: <b>Hei Sook Sul</b> (University of California-Berkeley)</td></tr>
+<tr><td align="left" valign="top" class="nowrap">7:30 pm - 8:00 pm</td><td align="left" valign="top"><b>Judy Storch</b> (Rutgers University, New Brunswick, NJ)
+<tr><td align="left" valign="top" class="nowrap">8:05 pm - 8:35 pm</td><td align="left" valign="top"><b>Richard Lehner</b> (University of Alberta, Edmonton, Canada)
+<tr><td align="left" valign="top" class="nowrap">8:40 pm - 8:55 pm</td><td align="left" valign="top"><b>Saskia Neher</b> (University of North Carolina - Chapel Hill)
+<tr><td align="left" valign="top" class="nowrap">9:00 pm - 9:25 pm</td><td align="left" valign="top"><b>Daniel Nomura</b> (University of California-Berkeley)
+<tr><td align="left" valign="top" class="nowrap"></td><td align="left" valign="top">Discussion Leader: <b>Daniel Raben</b> (Johns Hopkins University, Baltimore, MD)</td></tr>
+<tr><td align="left" valign="top" class="nowrap">9:00 am - 9:30 am</td><td align="left" valign="top"><b>Melanie Ott</b> (University of California-San Francisco)
+<tr><td align="left" valign="top" class="nowrap">9:35 am - 10:05 am</td><td align="left" valign="top"><b>Russell DeBose-Boyd</b> (University of Texas-Southwestern, Dallas, TX)
+<tr><td align="left" valign="top" class="nowrap">10:10 am - 10:25 am</td><td align="left" valign="top"><b>Nils Faergeman</b> (University of Southern Denmark, Denmark)
+<tr><td align="left" valign="top" class="nowrap">11:00 am - 11:30 am</td><td align="left" valign="top"><b>Tim Osborne</b> (Sanford-Burnham Medical Research Institute, Orlando, FL)
+<tr><td align="left" valign="top" class="nowrap">11:35 am - 12:05 pm</td><td align="left" valign="top"><b>Todd Graham</b> (Vanderbilt University, Nashville, TN)
+<tr><td align="left" valign="top" class="nowrap">12:10 pm - 12:25 pm</td><td align="left" valign="top"><b>Ann Wehman</b> (Rudolf-Virchow-Zentrum, University of W&uuml;rzburg, Germany)
+<tr><td align="left" valign="top" class="nowrap"></td><td align="left" valign="top">Discussion Leader: <b>Clay Semenkovich</b> (Washington University, St. Louis, MO)</td></tr>
+<tr><td align="left" valign="top" class="nowrap">7:30 pm - 8:00 pm</td><td align="left" valign="top"><b>Tobias Walther</b> (Yale University, New Haven, CT)
+<tr><td align="left" valign="top" class="nowrap">8:05 pm - 8:35 pm</td><td align="left" valign="top"><b>Hiroyuki Arai</b> (University of Tokyo, Japan)
+<tr><td align="left" valign="top" class="nowrap">8:40 pm - 8:55 pm</td><td align="left" valign="top"><b>Hongying (Hoy) Shen</b> (Yale University, New Haven, CT)
+<tr><td align="left" valign="top" class="nowrap">9:00 pm - 9:25 pm</td><td align="left" valign="top"><b>Sarah Spiegel</b> (Virginia Commonwealth University, Richmond, VA)
+<tr><td align="left" valign="top" class="nowrap"></td><td align="left" valign="top">Discussion Leader: <b>James Ntambi</b> (University of Wisconsin, Madison, WI) </td></tr>
+<tr><td align="left" valign="top" class="nowrap"></td><td align="left" valign="top">Introduction: <b>Teresa Garrett</b> (Vassar College, Poughkeepsie, NY)</td></tr>
+<tr><td align="left" valign="top" class="nowrap">9:00 am - 9:35 am</td><td align="left" valign="top"><b>Chuck Rock</b> (St. Jude Children's Research Hospital, Memphis, TN)
+<tr><td align="left" valign="top" class="nowrap">9:40 am - 9:55 am</td><td align="left" valign="top"><b>Jessica Ellis</b> (Johns Hopkins University, Baltimore, MD)
+<tr><td align="left" valign="top" class="nowrap">10:25 am - 10:55 am</td><td align="left" valign="top"><b>Nada Abumrad</b> (Washington University, St. Louis, MO)
+<tr><td align="left" valign="top" class="nowrap">11:00 am - 11:30 am</td><td align="left" valign="top"><b>Valerie O'Donnell</b> (Cardiff University, UK)
+<tr><td align="left" valign="top" class="nowrap">11:35 am - 12:05 pm</td><td align="left" valign="top"><b>David E. Cohen</b> (Harvard Medical School, Boston, MA)
+<tr><td align="left" valign="top" class="nowrap">12:10 pm - 12:25 pm</td><td align="left" valign="top"><b>Matthew Watt</b> (Monash University, Melbourne, Australia)
+<tr><td align="left" valign="top" class="nowrap"></td><td align="left" valign="top">Discussion Leader: <b>Steve Farber</b> (Carnegie Institute, Baltimore, MD)</td></tr>
+<tr><td align="left" valign="top" class="nowrap">7:30 pm - 8:00 pm</td><td align="left" valign="top"><b>Douglas Mashek</b> (University of Minnesota, St. Paul, MN)
+<tr><td align="left" valign="top" class="nowrap">8:05 pm - 8:35 pm</td><td align="left" valign="top"><b>Amy Walker</b> (University of Massachusetts, Worcester, MA)
+<tr><td align="left" valign="top" class="nowrap">8:40 pm - 8:55 pm</td><td align="left" valign="top"><b>Peter Espenshade</b> (Johns Hopkins University, Baltimore, MD)
+<tr><td align="left" valign="top" class="nowrap">9:00 pm - 9:25 pm</td><td align="left" valign="top"><b>Vikas Chandra</b> (Sanford-Burnham Medical Research Institute, Orlando, FL)
+<tr><td align="left" valign="top" class="nowrap"></td><td align="left" valign="top">Discussion Leader: <b>Miriam Greenberg</b> (Wayne State University, Detroit, MI)</td></tr>
+<tr><td align="left" valign="top" class="nowrap">9:00 am - 9:30 am</td><td align="left" valign="top"><b>George Carman</b> (Rutgers University, New Brunswick, NJ)
+<tr><td align="left" valign="top" class="nowrap">9:35 am - 10:05 am</td><td align="left" valign="top"><b>Brian Finck</b> (Washington University, St. Louis, MO)
+<tr><td align="left" valign="top" class="nowrap">10:10 am - 10:25 am</td><td align="left" valign="top"><b>Gregory Fairn</b> (St. Michael's Hospital, University of Toronto, Canada)
+<tr><td align="left" valign="top" class="nowrap">11:00 am - 11:30 am</td><td align="left" valign="top"><b>Hongyuan Rob Yang</b> (University of New South Wales, Sidney, Australia)
+<tr><td align="left" valign="top" class="nowrap">11:35 am - 12:05 pm</td><td align="left" valign="top"><b>Susan Henry</b> (Cornell University, Ithaca, NY)
+<tr><td align="left" valign="top" class="nowrap">12:10 pm - 12:25 pm</td><td align="left" valign="top"><b>Shirin Bahmanyar</b> (Ludwig Institute for Cancer Research, University of California-San Diego, CA)
+<tr><td align="left" valign="top" class="nowrap"></td><td align="left" valign="top">Discussion Leader: <b>Carol Sztalryd</b> (University of Maryland, Baltimore MD)</td></tr>
+<tr><td align="left" valign="top" class="nowrap">7:30 pm - 8:00 pm</td><td align="left" valign="top"><b>Kathryn J. Moore</b> (NYU Medical Center, NYC, NY)
+<tr><td align="left" valign="top" class="nowrap">8:05 pm - 8:35 pm</td><td align="left" valign="top"><b>Kasey Vickers</b> (NHLBI, NIH)
+<tr><td align="left" valign="top" class="nowrap">8:40 pm - 8:55 pm</td><td align="left" valign="top"><b>Eyleen O'Rourke</b> (Harvard Medical School, Boston, MA)
+<tr><td align="left" valign="top" class="nowrap">9:00 pm - 9:25 pm</td><td align="left" valign="top"><b>Daniel Raben</b> (Johns Hopkins University, Baltimore, MD)
+    $(document).ready(function () {
+        $("#lnkConfFees").click(function () {                           
+            var dlg = $('#formConfFeesModal').foundation('open');
+            dlg.appendTo(jQuery('#aspnetForm')); return false;            
+        $("#lnkSuggestedConferences").click(function () {           
+            var dlg = $('#formSuggConfsModal').foundation('open');
+            dlg.appendTo(jQuery('#aspnetForm')); return false;
+        $("#followLink").on('click', function (e) {
+        	var meetingId = $(this).data('meetingid');
+        	var isFollowed = !!parseInt($(this).data('isfollowed'));
+			.done(function (result) {
+				if (result.Status == 1) {
+					if (toggleFollow) {
+						$("#followLink").data('isfollowed','1');
+						$("#followLink").html('<i class="fa fa-star" aria-hidden="true"></i> Followed');
+						$("#followLink").data('isfollowed','0');
+						$("#followLink").html('<i class="fa fa-star-o" aria-hidden="true"></i> Follow');
+					console.log(result.StatusMessage);
+			.fail(function (jqXHR, textStatus) {
+				console.log("Request failed: " + textStatus);
+                                    <div class="row"><div class="large-12 columns" style="margin-bottom: 20px;"><p><a href="http://my.grc.org">MyGRC Account</a><br />Check your application status, complete your registration, update your poster, change your rooming preference, make a bus reservation, print an invitation letter, print a receipt (which includes verification that you are presenting a poster) or print an invoice by logging into your account. </p></div><div class="large-6 columns" style="margin-bottom: 20px;"><p><a href="https://www.grc.org/venues/">GRC Venues</a><br />Everything you need to know, to plan your trip.</p></div><div class="large-6 columns" style="margin-bottom: 20px;"><p><a href="/faqs/">FAQs</a><br />Instant answers to common questions.</p></div></div><p><a href="/contact" class="button">Tell us how we can help</a></p>
+            var $head = $('#mainHeader');
+            $('.ha-waypoint').each(function (i) {
+                var $el = $(this),
+                    animClassDown = $el.data('animateDown'),
+                    animClassUp = $el.data('animateUp');
+                $el.waypoint(function (direction) {
+                    if (direction === 'down' && animClassDown) {
+                        $head.attr('class', 'mainHeader ' + animClassDown);
+                    else if (direction === 'up' && animClassUp) {
+                        $head.attr('class', 'mainHeader ' + animClassUp);
+                var dlg = $('#CorrespondenceModal').foundation('open'); dlg.appendTo(jQuery('#aspnetForm'));
+                if ($('.messageTime:visible').length > 0) {
+                    $('#NoMessageWrap').hide();
+                    $('#NoMessageWrap').show();
+                $('a.messagesLink > span').fadeOut();
+                .done(function (r) {
+                    $('a.messagesLink > span').fadeOut();
+                .fail(function (jqXHR, textStatus) { });
+            function dismissMessage(messageId) {
+                $('a[data-id="' + messageId + '"]').parents('li').addClass('dismissing');
+                .done(function (r) {
+                    $('a[data-id="' + messageId + '"]').parents('li').addClass('dismissed');
+                    $('a[data-id="' + messageId + '"]').parents('li').fadeOut();
+                    if ($('.messageTime:visible').length <=1 ) {
+                        $('#NoMessageWrap').delay(400).fadeIn();
+                        $('#NoMessageWrap').hide();
+                .fail(function (jqXHR, textStatus) {
+            /*function dismissMessage(messageId) {
+                .done(function (r) { })
+                .fail(function (jqXHR, textStatus) { });
+                .done(function (r) {
+                    if (parseInt(r) > 0){
+                        $('a.messagesLink > span').html(r);
+                        $('a.messagesLink > span').fadeIn();
+                        $('a.messagesLink').addClass('newMessage');
+                        $('a.messagesLink').removeClass('newMessage');
+                        $('a.messagesLink > span').fadeOut();
+                    setTimeout(function () { updateMessageCount(); }, 60000);
+                .fail(function (jqXHR, textStatus) { });
+            $(document).ready(function () {
+                if ($('.messagesLink').length > 0 ){
+                    setTimeout(function () { updateMessageCount(); }, 5000);
+                $('.messageDismiss a').click(function () {
+                    dismissMessage($(this).data('id'));
+        ; (function (o, l, a, r, k, y) {
+            if (o.olark) return;
+            r = "script"; y = l.createElement(r); r = l.getElementsByTagName(r)[0];
+            y.async = 1; y.src = "//" + a; r.parentNode.insertBefore(y, r);
+            y = o.olark = function () { k.s.push(arguments); k.t.push(+new Date) };
+            y.extend = function (i, j) { y("extend", i, j) };
+            y.identify = function (i) { y("identify", k.i = i) };
+            y.configure = function (i, j) { y("configure", i, j); k.c[i] = j };
+        })(window, document, "static.olark.com/jsclient/loader.js");
+        olark.identify('9458-302-10-9475');</script>
+            RecaptchaV3.SetSiteKey(siteKey);

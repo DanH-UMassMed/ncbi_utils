@@ -109,12 +109,6 @@ def amys_papers = """((walker ak[Author]) NOT (adam k walker[Author]) NOT (Angel
                        NOT (20666652[UID]) NOT (17337586[UID]) NOT (9921134[UID]) NOT (10419626[UID]) NOT (10548814[UID]) 
                        NOT (8700510[UID])  NOT (10631665[UID])) OR (21124729[UID])"""
 
-def conferenceTopics1 = """("Lipid asymmetry"[All Fields] AND "membranes"[All Fields])"""
-def conferenceTopics2 = """("Membrane contact"[All Fields] AND "sites"[All Fields])"""
-def conferenceTopics3 = """("Lipid function"[All Fields] AND "organelles"[All Fields])"""
-
-conferenceTopics3 = """("lipid peroxidation"[All Fields] AND "ferroptosis"[All Dields]"""
-
 def publishedRange = "(2018[Date - Publication] : 2024[Date - Publication])"
 def publishedAIn5Yrs = "(y_5[Filter])"
 
@@ -159,8 +153,16 @@ Journal of Cell Science[Journal] OR
 Developmental Biology[Journal] OR
 Genes and Development[Journal])
 """
-search_term = conferenceTopics1 + "AND" + journals + "AND" + publishedRange
+
+def conferenceTopics = ""
+//conferenceTopics = """("Lipid asymmetry"[All Fields] AND "membranes"[All Fields])"""
+//conferenceTopics = """("Membrane contact"[All Fields] AND "sites"[All Fields])"""
+//conferenceTopics = """("Lipid function"[All Fields] AND "organelles"[All Fields])"""
+
+conferenceTopics = """("lipid peroxidation"[All Fields] AND "ferroptosis"[All Dields]"""
+
+search_term = conferenceTopics + "AND" + journals + "AND" + publishedRange
 eUtilsSearchResult   = entrezSearch(search_term)
 eUtilsSummaryResult = entrezSummary(eUtilsSearchResult)
+print("Search Terms:${conferenceTopics}\n\n")
 author_report(eUtilsSummaryResult)
-// download_links(eUtilsSummaryResult)
