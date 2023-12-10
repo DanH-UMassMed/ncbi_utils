@@ -1,7 +1,10 @@
+# Scrape the web site https://www.grc.org/molecular-and-cellular-biology-of-lipids-conference
+# get the full agenda for the years requested
+# do some basic parsing of the data to create a csv file
+
 import requests
 from bs4 import BeautifulSoup
 
-years=[2023,2019,2017,2015,2013,2011,2009,2007,2005,2003]
 years=[2023,2019,2017]
 
 year=2019

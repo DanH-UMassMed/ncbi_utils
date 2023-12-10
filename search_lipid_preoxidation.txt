@@ -1,0 +1,582 @@
+Search Terms:("Lipid peroxidation"[All Fields] AND ferroptosis[All Fields])
+
+1: MicroRNA-mediated attenuation of branched-chain amino acid catabolism promotes ferroptosis in chronic kidney disease. Nat Commun. 2023 Nov 28;14(1):7814
+Sone H, Lee TJ, Lee BR, Heo D, Oh S, Kwon SH
+pubmed: 38016961, pmc: PMC10684653, pmcid: pmc-id: PMC10684653;, doi: 10.1038/s41467-023-43529-z, pii: 10.1038/s41467-023-43529-z
+https://pubmed.ncbi.nlm.nih.gov/38016961
+
+2: Overburdened ferroptotic stress impairs tooth morphogenesis. Elife. 2023 Nov 22;12():
+Wang H, Wang X, Huang L, Wang C, Yu F, Ye L
+pubmed: 37991825, pmc: PMC10665014, pmcid: pmc-id: PMC10665014;, doi: 10.7554/eLife.88745, pii: 88745
+https://pubmed.ncbi.nlm.nih.gov/37991825
+
+3: Targeting ferroptosis by poly(acrylic) acid coated Mn(3)O(4) nanoparticles alleviates acute liver injury. Nat Commun. 2023 Nov 21;14(1):7598
+Shan X, Li J, Liu J, Feng B, Zhang T, Liu Q, Ma H, Wu H, Wu H
+pubmed: 37990003, pmc: PMC10663555, pmcid: pmc-id: PMC10663555;, doi: 10.1038/s41467-023-43308-w, pii: 10.1038/s41467-023-43308-w
+https://pubmed.ncbi.nlm.nih.gov/37990003
+
+4: Exosomes drive ferroptosis by stimulating iron accumulation to inhibit bacterial infection in crustaceans. J Biol Chem. 2023 Nov 15;299(12):105463
+Sun Q, Yang J, Zhang M, Zhang Y, Ma H, Tran NT, Chen X, Zhang Y, Chan KG, Li S
+pubmed: 37977221, doi: 10.1016/j.jbc.2023.105463, pii: S0021-9258(23)02491-2
+https://pubmed.ncbi.nlm.nih.gov/37977221
+
+5: Farnesoid X receptor activation by bile acids suppresses lipid peroxidation and ferroptosis. Nat Commun. 2023 Oct 30;14(1):6908
+Tschuck J, Theilacker L, Rothenaigner I, Weiß SAI, Akdogan B, Lam VT, Müller C, Graf R, Brandner S, Pütz C, Rieder T, Schmitt-Kopplin P, Vincendeau M, Zischka H, Schorpp K, Hadian K
+pubmed: 37903763, pmc: PMC10616197, pmcid: pmc-id: PMC10616197;, doi: 10.1038/s41467-023-42702-8, pii: 10.1038/s41467-023-42702-8
+https://pubmed.ncbi.nlm.nih.gov/37903763
+
+6: The deubiquitinase ZRANB1 is an E3 ubiquitin ligase for SLC7A11 and regulates ferroptotic resistance. J Cell Biol. 2023 Nov 6;222(11):
+Huang S, Zhang Q, Zhao M, Wang X, Zhang Y, Gan B, Zhang P
+pubmed: 37831441, pmc: PMC10570852, pmcid: pmc-id: PMC10570852;embargo-date: 2024/04/13;, doi: 10.1083/jcb.202212072, pii: 276331
+https://pubmed.ncbi.nlm.nih.gov/37831441
+
+7: Integration of AIEgens into covalent organic frameworks for pyroptosis and ferroptosis primed cancer immunotherapy. Nat Commun. 2023 Sep 2;14(1):5355
+Zhang L, Song A, Yang QC, Li SJ, Wang S, Wan SC, Sun J, Kwok RTK, Lam JWY, Deng H, Tang BZ, Sun ZJ
+pubmed: 37660063, pmc: PMC10475094, pmcid: pmc-id: PMC10475094;, doi: 10.1038/s41467-023-41121-z, pii: 10.1038/s41467-023-41121-z
+https://pubmed.ncbi.nlm.nih.gov/37660063
+
+8: A ferroptosis-targeting ceria anchored halloysite as orally drug delivery system for radiation colitis therapy. Nat Commun. 2023 Aug 22;14(1):5083
+Feng Y, Luo X, Li Z, Fan X, Wang Y, He RR, Liu M
+pubmed: 37607944, pmc: PMC10444825, pmcid: pmc-id: PMC10444825;, doi: 10.1038/s41467-023-40794-w, pii: 10.1038/s41467-023-40794-w
+https://pubmed.ncbi.nlm.nih.gov/37607944
+
+9: The ubiquitin-proteasome system links NADPH metabolism to ferroptosis. Trends Cell Biol. 2023 Dec;33(12):1088-1103
+Yang J, Lee Y, Hwang CS
+pubmed: 37558595, doi: 10.1016/j.tcb.2023.07.003, pii: S0962-8924(23)00136-8
+https://pubmed.ncbi.nlm.nih.gov/37558595
+
+10: Photothermia at the nanoscale induces ferroptosis via nanoparticle degradation. Nat Commun. 2023 Aug 2;14(1):4637
+Fromain A, Perez JE, Van de Walle A, Lalatonne Y, Wilhelm C
+pubmed: 37532698, pmc: PMC10397343, pmcid: pmc-id: PMC10397343;, doi: 10.1038/s41467-023-40258-1, pii: 10.1038/s41467-023-40258-1
+https://pubmed.ncbi.nlm.nih.gov/37532698
+
+11: Mitochondrial defects caused by PARL deficiency lead to arrested spermatogenesis and ferroptosis. Elife. 2023 Jul 28;12():
+Radaelli E, Assenmacher CA, Verrelle J, Banerjee E, Manero F, Khiati S, Girona A, Lopez-Lluch G, Navas P, Spinazzi M
+pubmed: 37505079, pmc: PMC10519710, pmcid: pmc-id: PMC10519710;, doi: 10.7554/eLife.84710, pii: 84710
+https://pubmed.ncbi.nlm.nih.gov/37505079
+
+12: Regulation of VKORC1L1 is critical for p53-mediated tumor suppression through vitamin K metabolism. Cell Metab. 2023 Aug 8;35(8):1474-1490.e8
+Yang X, Wang Z, Zandkarimi F, Liu Y, Duan S, Li Z, Kon N, Zhang Z, Jiang X, Stockwell BR, Gu W
+pubmed: 37467745, mid: NIHMS1914609, pmc: PMC10529626, pmcid: pmc-id: PMC10529626;manuscript-id: NIHMS1914609;embargo-date: 2024/08/08;, doi: 10.1016/j.cmet.2023.06.014, pii: S1550-4131(23)00224-3
+https://pubmed.ncbi.nlm.nih.gov/37467745
+
+13: Ferroptosis in mitochondrial cardiomyopathy. Trends Cell Biol. 2023 Jul 5;():
+Ahola S, Langer T
+pubmed: 37419738, doi: 10.1016/j.tcb.2023.06.002, pii: S0962-8924(23)00125-3
+https://pubmed.ncbi.nlm.nih.gov/37419738
+
+14: Regulation of ferroptosis by lipid metabolism. Trends Cell Biol. 2023 Dec;33(12):1077-1087
+Pope LE, Dixon SJ
+pubmed: 37407304, doi: 10.1016/j.tcb.2023.05.003, pii: S0962-8924(23)00086-7
+https://pubmed.ncbi.nlm.nih.gov/37407304
+
+15: Targeting lipoxygenases to suppress ferroptotic cell death. Proc Natl Acad Sci U S A. 2023 Jul 18;120(29):e2309317120
+Pratt DA
+pubmed: 37406088, pmc: PMC10629513, pmcid: pmc-id: PMC10629513;embargo-date: 2024/01/05;, doi: 10.1073/pnas.2309317120
+https://pubmed.ncbi.nlm.nih.gov/37406088
+
+16: Phase separation of FSP1 promotes ferroptosis. Nature. 2023 Jul;619(7969):371-377
+Nakamura T, Hipp C, Santos Dias Mourão A, Borggräfe J, Aldrovandi M, Henkelmann B, Wanninger J, Mishima E, Lytton E, Emler D, Proneth B, Sattler M, Conrad M
+pubmed: 37380771, pmc: PMC10338336, pmcid: pmc-id: PMC10338336;, doi: 10.1038/s41586-023-06255-6, pii: 10.1038/s41586-023-06255-6
+https://pubmed.ncbi.nlm.nih.gov/37380771
+
+17: Diverse biological functions of vitamin K: from coagulation to ferroptosis. Nat Metab. 2023 Jun;5(6):924-932
+Mishima E, Wahida A, Seibt T, Conrad M
+pubmed: 37337123, doi: 10.1038/s42255-023-00821-y, pii: 10.1038/s42255-023-00821-y
+https://pubmed.ncbi.nlm.nih.gov/37337123
+
+18: Discovering selective antiferroptotic inhibitors of the 15LOX/PEBP1 complex noninterfering with biosynthesis of lipid mediators. Proc Natl Acad Sci U S A. 2023 Jun 20;120(25):e2218896120
+Dar HH, Mikulska-Ruminska K, Tyurina YY, Luci DK, Yasgar A, Samovich SN, Kapralov AA, Souryavong AB, Tyurin VA, Amoscato AA, Epperly MW, Shurin GV, Standley M, Holman TR, St Croix CM, Watkins SC, VanDemark AP, Rana S, Zakharov AV, Simeonov A, Marugan J, Mallampalli RK, Wenzel SE, Greenberger JS, Rai G, Bayir H, Bahar I, Kagan VE
+pubmed: 37327313, pmc: PMC10288584, pmcid: pmc-id: PMC10288584;embargo-date: 2023/12/16;, doi: 10.1073/pnas.2218896120
+https://pubmed.ncbi.nlm.nih.gov/37327313
+
+19: Ketogenic diet promotes tumor ferroptosis but induces relative corticosterone deficiency that accelerates cachexia. Cell Metab. 2023 Jul 11;35(7):1147-1162.e7
+Ferrer M, Mourikis N, Davidson EE, Kleeman SO, Zaccaria M, Habel J, Rubino R, Gao Q, Flint TR, Young L, Connell CM, Lukey MJ, Goncalves MD, White EP, Venkitaraman AR, Janowitz T
+pubmed: 37311455, doi: 10.1016/j.cmet.2023.05.008, pii: S1550-4131(23)00185-7
+https://pubmed.ncbi.nlm.nih.gov/37311455
+
+20: Ferroptosis surveillance independent of GPX4 and differentially regulated by sex hormones. Cell. 2023 Jun 22;186(13):2748-2764.e22
+Liang D, Feng Y, Zandkarimi F, Wang H, Zhang Z, Kim J, Cai Y, Gu W, Stockwell BR, Jiang X
+pubmed: 37267948, mid: NIHMS1901361, pmc: PMC10330611, pmcid: pmc-id: PMC10330611;manuscript-id: NIHMS1901361;embargo-date: 2024/06/22;, doi: 10.1016/j.cell.2023.05.003, pii: S0092-8674(23)00522-6
+https://pubmed.ncbi.nlm.nih.gov/37267948
+
+21: Lysyl oxidase-like 3 restrains mitochondrial ferroptosis to promote liver cancer chemoresistance by stabilizing dihydroorotate dehydrogenase. Nat Commun. 2023 May 30;14(1):3123
+Zhan M, Ding Y, Huang S, Liu Y, Xiao J, Yu H, Lu L, Wang X
+pubmed: 37253718, pmc: PMC10229567, pmcid: pmc-id: PMC10229567;, doi: 10.1038/s41467-023-38753-6, pii: 10.1038/s41467-023-38753-6
+https://pubmed.ncbi.nlm.nih.gov/37253718
+
+22: Ferroptosis: mechanisms and implications for cancer development and therapy response. Trends Cell Biol. 2023 Dec;33(12):1062-1076
+Dos Santos AF, Fazeli G, Xavier da Silva TN, Friedmann Angeli JP
+pubmed: 37230924, doi: 10.1016/j.tcb.2023.04.005, pii: S0962-8924(23)00079-X
+https://pubmed.ncbi.nlm.nih.gov/37230924
+
+23: vPIF-1 is an insulin-like antiferroptotic viral peptide. Proc Natl Acad Sci U S A. 2023 May 23;120(21):e2300320120
+Belavgeni A, Maremonti F, Tonnus W, Stadtmüller M, Gavali S, Mallais M, Flade K, Brucker A, Becker JN, Beer K, Tmava M, Stumpf J, Gembardt F, Hugo C, Giacca M, Hale BG, Perakakis N, Sha W, Pratt DA, Schally AV, Bornstein SR, Linkermann A
+pubmed: 37186845, pmc: PMC10214148, pmcid: pmc-id: PMC10214148;, doi: 10.1073/pnas.2300320120
+https://pubmed.ncbi.nlm.nih.gov/37186845
+
+24: Ferroptosis: Under pressure! Curr Biol. 2023 Apr 10;33(7):R269-R272
+Wahida A, Conrad M
+pubmed: 37040709, doi: 10.1016/j.cub.2023.03.009, pii: S0960-9822(23)00297-X
+https://pubmed.ncbi.nlm.nih.gov/37040709
+
+25: Autolysosomal exocytosis of lipids protect neurons from ferroptosis. J Cell Biol. 2023 Jun 5;222(6):
+Ralhan I, Chang J, Moulton MJ, Goodman LD, Lee NYJ, Plummer G, Pasolli HA, Matthies D, Bellen HJ, Ioannou MS
+pubmed: 37036445, pmc: PMC10098143, pmcid: pmc-id: PMC10098143;, doi: 10.1083/jcb.202207130, pii: 214014
+https://pubmed.ncbi.nlm.nih.gov/37036445
+
+26: Ferroptosis: A flexible constellation of related biochemical mechanisms. Mol Cell. 2023 Apr 6;83(7):1030-1042
+Dixon SJ, Pratt DA
+pubmed: 36977413, mid: NIHMS1881421, pmc: PMC10081971, pmcid: pmc-id: PMC10081971;manuscript-id: NIHMS1881421;embargo-date: 2024/04/06;, doi: 10.1016/j.molcel.2023.03.005, pii: S1097-2765(23)00162-4
+https://pubmed.ncbi.nlm.nih.gov/36977413
+
+27: A mycobacterial effector promotes ferroptosis-dependent pathogenicity and dissemination. Nat Commun. 2023 Mar 17;14(1):1430
+Qiang L, Zhang Y, Lei Z, Lu Z, Tan S, Ge P, Chai Q, Zhao M, Zhang X, Li B, Pang Y, Zhang L, Liu CH, Wang J
+pubmed: 36932056, pmc: PMC10023711, pmcid: pmc-id: PMC10023711;, doi: 10.1038/s41467-023-37148-x, pii: 10.1038/s41467-023-37148-x
+https://pubmed.ncbi.nlm.nih.gov/36932056
+
+28: Lipid peroxidation increases membrane tension, Piezo1 gating, and cation permeability to execute ferroptosis. Curr Biol. 2023 Apr 10;33(7):1282-1294.e5
+Hirata Y, Cai R, Volchuk A, Steinberg BE, Saito Y, Matsuzawa A, Grinstein S, Freeman SA
+pubmed: 36898371, doi: 10.1016/j.cub.2023.02.060, pii: S0960-9822(23)00200-2
+https://pubmed.ncbi.nlm.nih.gov/36898371
+
+29: Ferroptosis MRI for early detection of anticancer drug-induced acute cardiac/kidney injuries. Sci Adv. 2023 Mar 10;9(10):eadd8539
+Zeng F, Nijiati S, Liu Y, Yang Q, Liu X, Zhang Q, Chen S, Su A, Xiong H, Shi C, Cai C, Lin Z, Chen X, Zhou Z
+pubmed: 36888714, pmc: PMC9995079, pmcid: pmc-id: PMC9995079;, doi: 10.1126/sciadv.add8539
+https://pubmed.ncbi.nlm.nih.gov/36888714
+
+30: Dietary restriction of cysteine and methionine sensitizes gliomas to ferroptosis and induces alterations in energetic metabolism. Nat Commun. 2023 Mar 2;14(1):1187
+Upadhyayula PS, Higgins DM, Mela A, Banu M, Dovas A, Zandkarimi F, Patel P, Mahajan A, Humala N, Nguyen TTT, Chaudhary KR, Liao L, Argenziano M, Sudhakar T, Sperring CP, Shapiro BL, Ahmed ER, Kinslow C, Ye LF, Siegelin MD, Cheng S, Soni R, Bruce JN, Stockwell BR, Canoll P
+pubmed: 36864031, pmc: PMC9981683, pmcid: pmc-id: PMC9981683;, doi: 10.1038/s41467-023-36630-w, pii: 10.1038/s41467-023-36630-w
+https://pubmed.ncbi.nlm.nih.gov/36864031
+
+31: Caveolae sense oxidative stress through membrane lipid peroxidation and cytosolic release of CAVIN1 to regulate NRF2. Dev Cell. 2023 Mar 13;58(5):376-397.e4
+Wu Y, Lim YW, Stroud DA, Martel N, Hall TE, Lo HP, Ferguson C, Ryan MT, McMahon KA, Parton RG
+pubmed: 36858041, doi: 10.1016/j.devcel.2023.02.004, pii: S1534-5807(23)00046-1
+https://pubmed.ncbi.nlm.nih.gov/36858041
+
+32: Nucleotide metabolism is linked to cysteine availability. J Biol Chem. 2023 Apr;299(4):103039
+Allen AE, Sun Y, Wei F, Reid MA, Locasale JW
+pubmed: 36803962, pmc: PMC10074211, pmcid: pmc-id: PMC10074211;, doi: 10.1016/j.jbc.2023.103039, pii: S0021-9258(23)00171-0
+https://pubmed.ncbi.nlm.nih.gov/36803962
+
+33: Mitochondria regulate intracellular coenzyme Q transport and ferroptotic resistance via STARD7. Nat Cell Biol. 2023 Feb;25(2):246-257
+Deshwal S, Onishi M, Tatsuta T, Bartsch T, Cors E, Ried K, Lemke K, Nolte H, Giavalisco P, Langer T
+pubmed: 36658222, pmc: PMC9928583, pmcid: pmc-id: PMC9928583;, doi: 10.1038/s41556-022-01071-y, pii: 10.1038/s41556-022-01071-y
+https://pubmed.ncbi.nlm.nih.gov/36658222
+
+34: The lipid flippase SLC47A1 blocks metabolic vulnerability to ferroptosis. Nat Commun. 2022 Dec 27;13(1):7965
+Lin Z, Liu J, Long F, Kang R, Kroemer G, Tang D, Yang M
+pubmed: 36575162, pmc: PMC9794750, pmcid: pmc-id: PMC9794750;, doi: 10.1038/s41467-022-35707-2, pii: 10.1038/s41467-022-35707-2
+https://pubmed.ncbi.nlm.nih.gov/36575162
+
+35: Non-classical ferroptosis inhibition by a small molecule targeting PHB2. Nat Commun. 2022 Dec 3;13(1):7473
+Yang W, Mu B, You J, Tian C, Bin H, Xu Z, Zhang L, Ma R, Wu M, Zhang G, Huang C, Li L, Shao Z, Dai L, Désaubry L, Yang S
+pubmed: 36463308, pmc: PMC9719519, pmcid: pmc-id: PMC9719519;, doi: 10.1038/s41467-022-35294-2, pii: 10.1038/s41467-022-35294-2
+https://pubmed.ncbi.nlm.nih.gov/36463308
+
+36: Sex differences in resilience to ferroptosis underlie sexual dimorphism in kidney injury and repair. Cell Rep. 2022 Nov 8;41(6):111610
+Ide S, Ide K, Abe K, Kobayashi Y, Kitai H, McKey J, Strausser SA, O'Brien LL, Tata A, Tata PR, Souma T
+pubmed: 36351395, mid: NIHMS1848906, pmc: PMC9795409, pmcid: pmc-id: PMC9795409;manuscript-id: NIHMS1848906;, doi: 10.1016/j.celrep.2022.111610, pii: S2211-1247(22)01479-6
+https://pubmed.ncbi.nlm.nih.gov/36351395
+
+37: Doxorubicin causes ferroptosis and cardiotoxicity by intercalating into mitochondrial DNA and disrupting Alas1-dependent heme synthesis. Sci Signal. 2022 Nov;15(758):eabn8017
+Abe K, Ikeda M, Ide T, Tadokoro T, Miyamoto HD, Furusawa S, Tsutsui Y, Miyake R, Ishimaru K, Watanabe M, Matsushima S, Koumura T, Yamada KI, Imai H, Tsutsui H
+pubmed: 36318618, doi: 10.1126/scisignal.abn8017
+https://pubmed.ncbi.nlm.nih.gov/36318618
+
+38: PLTP is a p53 target gene with roles in cancer growth suppression and ferroptosis. J Biol Chem. 2022 Dec;298(12):102637
+Gnanapradeepan K, Indeglia A, Stieg DC, Clarke N, Shao C, Dougherty JF, Murali N, Murphy ME
+pubmed: 36309086, pmc: PMC9709240, pmcid: pmc-id: PMC9709240;, doi: 10.1016/j.jbc.2022.102637, pii: S0021-9258(22)01080-8
+https://pubmed.ncbi.nlm.nih.gov/36309086
+
+39: FerrDb V2: update of the manually curated database of ferroptosis regulators and ferroptosis-disease associations. Nucleic Acids Res. 2023 Jan 6;51(D1):D571-D582
+Zhou N, Yuan X, Du Q, Zhang Z, Shi X, Bao J, Ning Y, Peng L
+pubmed: 36305834, pmc: PMC9825716, pmcid: pmc-id: PMC9825716;, doi: 10.1093/nar/gkac935, pii: 6777801
+https://pubmed.ncbi.nlm.nih.gov/36305834
+
+40: HOIP modulates the stability of GPx4 by linear ubiquitination. Proc Natl Acad Sci U S A. 2022 Nov;119(44):e2214227119
+Dong K, Wei R, Jin T, Zhang M, Shen J, Xiang H, Shan B, Yuan J, Li Y
+pubmed: 36279464, pmc: PMC9636971, pmcid: pmc-id: PMC9636971;, doi: 10.1073/pnas.2214227119
+https://pubmed.ncbi.nlm.nih.gov/36279464
+
+41: A noncanonical function of EIF4E limits ALDH1B1 activity and increases susceptibility to ferroptosis. Nat Commun. 2022 Oct 23;13(1):6318
+Chen X, Huang J, Yu C, Liu J, Gao W, Li J, Song X, Zhou Z, Li C, Xie Y, Kroemer G, Liu J, Tang D, Kang R
+pubmed: 36274088, pmc: PMC9588786, pmcid: pmc-id: PMC9588786;, doi: 10.1038/s41467-022-34096-w, pii: 10.1038/s41467-022-34096-w
+https://pubmed.ncbi.nlm.nih.gov/36274088
+
+42: Vitamin K: A new guardian against ferroptosis. Mol Cell. 2022 Oct 20;82(20):3760-3762
+Hirschhorn T, Stockwell BR
+pubmed: 36270246, doi: 10.1016/j.molcel.2022.10.001, pii: S1097-2765(22)00958-3
+https://pubmed.ncbi.nlm.nih.gov/36270246
+
+43: Ether lipid deficiency disrupts lipid homeostasis leading to ferroptosis sensitivity. PLoS Genet. 2022 Sep;18(9):e1010436
+Perez MA, Clostio AJ, Houston IR, Ruiz J, Magtanong L, Dixon SJ, Watts JL
+pubmed: 36178986, pmc: PMC9555615, pmcid: pmc-id: PMC9555615;, doi: 10.1371/journal.pgen.1010436, pii: PGENETICS-D-22-00399
+https://pubmed.ncbi.nlm.nih.gov/36178986
+
+44: IL-23 signaling prevents ferroptosis-driven renal immunopathology during candidiasis. Nat Commun. 2022 Sep 22;13(1):5545
+Millet N, Solis NV, Aguilar D, Lionakis MS, Wheeler RT, Jendzjowsky N, Swidergall M
+pubmed: 36138043, pmc: PMC9500047, pmcid: pmc-id: PMC9500047;, doi: 10.1038/s41467-022-33327-4, pii: 10.1038/s41467-022-33327-4
+https://pubmed.ncbi.nlm.nih.gov/36138043
+
+45: Early-life vitamin B12 orchestrates lipid peroxidation to ensure reproductive success via SBP-1/SREBP1 in Caenorhabditis elegans. Cell Rep. 2022 Sep 20;40(12):111381
+Qin S, Wang Y, Li L, Liu J, Xiao C, Duan D, Hao W, Qin C, Chen J, Yao L, Zhang R, You J, Zheng JS, Shen E, Wu L
+pubmed: 36130518, doi: 10.1016/j.celrep.2022.111381, pii: S2211-1247(22)01216-5
+https://pubmed.ncbi.nlm.nih.gov/36130518
+
+46: OMA1-mediated integrated stress response protects against ferroptosis in mitochondrial cardiomyopathy. Cell Metab. 2022 Nov 1;34(11):1875-1891.e7
+Ahola S, Rivera Mejías P, Hermans S, Chandragiri S, Giavalisco P, Nolte H, Langer T
+pubmed: 36113464, doi: 10.1016/j.cmet.2022.08.017, pii: S1550-4131(22)00360-6
+https://pubmed.ncbi.nlm.nih.gov/36113464
+
+47: Mitochondrial outer membrane protein FUNDC2 promotes ferroptosis and contributes to doxorubicin-induced cardiomyopathy. Proc Natl Acad Sci U S A. 2022 Sep 6;119(36):e2117396119
+Ta N, Qu C, Wu H, Zhang D, Sun T, Li Y, Wang J, Wang X, Tang T, Chen Q, Liu L
+pubmed: 36037337, pmc: PMC9457330, pmcid: pmc-id: PMC9457330;, doi: 10.1073/pnas.2117396119
+https://pubmed.ncbi.nlm.nih.gov/36037337
+
+48: Alpha synuclein determines ferroptosis sensitivity in dopaminergic neurons via modulation of ether-phospholipid membrane composition. Cell Rep. 2022 Aug 23;40(8):111231
+Mahoney-Sanchez L, Bouchaoui H, Boussaad I, Jonneaux A, Timmerman K, Berdeaux O, Ayton S, Krüger R, Duce JA, Devos D, Devedjian JC
+pubmed: 36001957, doi: 10.1016/j.celrep.2022.111231, pii: S2211-1247(22)01048-8
+https://pubmed.ncbi.nlm.nih.gov/36001957
+
+49: The MARCHF6 E3 ubiquitin ligase acts as an NADPH sensor for the regulation of ferroptosis. Nat Cell Biol. 2022 Aug;24(8):1239-1251
+Nguyen KT, Mun SH, Yang J, Lee J, Seok OH, Kim E, Kim D, An SY, Seo DY, Suh JY, Lee Y, Hwang CS
+pubmed: 35941365, doi: 10.1038/s41556-022-00973-1, pii: 10.1038/s41556-022-00973-1
+https://pubmed.ncbi.nlm.nih.gov/35941365
+
+50: A non-canonical vitamin K cycle is a potent ferroptosis suppressor. Nature. 2022 Aug;608(7924):778-783
+Mishima E, Ito J, Wu Z, Nakamura T, Wahida A, Doll S, Tonnus W, Nepachalovich P, Eggenhofer E, Aldrovandi M, Henkelmann B, Yamada KI, Wanninger J, Zilka O, Sato E, Feederle R, Hass D, Maida A, Mourão ASD, Linkermann A, Geissler EK, Nakagawa K, Abe T, Fedorova M, Proneth B, Pratt DA, Conrad M
+pubmed: 35922516, pmc: PMC9402432, pmcid: pmc-id: PMC9402432;, doi: 10.1038/s41586-022-05022-3, pii: 10.1038/s41586-022-05022-3
+https://pubmed.ncbi.nlm.nih.gov/35922516
+
+51: Ferroptosis turns 10: Emerging mechanisms, physiological functions, and therapeutic applications. Cell. 2022 Jul 7;185(14):2401-2421
+Stockwell BR
+pubmed: 35803244, mid: NIHMS1815074, pmc: PMC9273022, pmcid: pmc-id: PMC9273022;manuscript-id: NIHMS1815074;, doi: 10.1016/j.cell.2022.06.003, pii: S0092-8674(22)00708-5
+https://pubmed.ncbi.nlm.nih.gov/35803244
+
+52: Cancer cells dying from ferroptosis impede dendritic cell-mediated anti-tumor immunity. Nat Commun. 2022 Jun 27;13(1):3676
+Wiernicki B, Maschalidi S, Pinney J, Adjemian S, Vanden Berghe T, Ravichandran KS, Vandenabeele P
+pubmed: 35760796, pmc: PMC9237053, pmcid: pmc-id: PMC9237053;, doi: 10.1038/s41467-022-31218-2, pii: 10.1038/s41467-022-31218-2
+https://pubmed.ncbi.nlm.nih.gov/35760796
+
+53: A ferroptosis defense mechanism mediated by glycerol-3-phosphate dehydrogenase 2 in mitochondria. Proc Natl Acad Sci U S A. 2022 Jun 28;119(26):e2121987119
+Wu S, Mao C, Kondiparthi L, Poyurovsky MV, Olszewski K, Gan B
+pubmed: 35749365, pmc: PMC9245637, pmcid: pmc-id: PMC9245637;, doi: 10.1073/pnas.2121987119
+https://pubmed.ncbi.nlm.nih.gov/35749365
+
+54: Nutritional and Metabolic Control of Ferroptosis. Annu Rev Nutr. 2022 Aug 22;42():275-309
+Mishima E, Conrad M
+pubmed: 35650671, doi: 10.1146/annurev-nutr-062320-114541
+https://pubmed.ncbi.nlm.nih.gov/35650671
+
+55: IFNγ regulates ferroptosis with fatty acids. Nat Cell Biol. 2022 May;24(5):601
+Wang Z
+pubmed: 35562484, doi: 10.1038/s41556-022-00921-z, pii: 10.1038/s41556-022-00921-z
+https://pubmed.ncbi.nlm.nih.gov/35562484
+
+56: A targetable CoQ-FSP1 axis drives ferroptosis- and radiation-resistance in KEAP1 inactive lung cancers. Nat Commun. 2022 Apr 22;13(1):2206
+Koppula P, Lei G, Zhang Y, Yan Y, Mao C, Kondiparthi L, Shi J, Liu X, Horbath A, Das M, Li W, Poyurovsky MV, Olszewski K, Gan B
+pubmed: 35459868, pmc: PMC9033817, pmcid: pmc-id: PMC9033817;, doi: 10.1038/s41467-022-29905-1, pii: 10.1038/s41467-022-29905-1
+https://pubmed.ncbi.nlm.nih.gov/35459868
+
+57: Ferroptosis at the intersection of lipid metabolism and cellular signaling. Mol Cell. 2022 Jun 16;82(12):2215-2227
+Liang D, Minikes AM, Jiang X
+pubmed: 35390277, mid: NIHMS1794304, pmc: PMC9233073, pmcid: pmc-id: PMC9233073;manuscript-id: NIHMS1794304;, doi: 10.1016/j.molcel.2022.03.022, pii: S1097-2765(22)00260-X
+https://pubmed.ncbi.nlm.nih.gov/35390277
+
+58: Monitoring the induction of ferroptosis following dissociation in human embryonic stem cells. J Biol Chem. 2022 May;298(5):101855
+Babaei-Abraki S, Karamali F, Nasr-Esfahani MH
+pubmed: 35337799, pmc: PMC9034286, pmcid: pmc-id: PMC9034286;, doi: 10.1016/j.jbc.2022.101855, pii: S0021-9258(22)00295-2
+https://pubmed.ncbi.nlm.nih.gov/35337799
+
+59: Cancer stem cell regulated phenotypic plasticity protects metastasized cancer cells from ferroptosis. Nat Commun. 2022 Mar 16;13(1):1371
+Wu M, Zhang X, Zhang W, Chiou YS, Qian W, Liu X, Zhang M, Yan H, Li S, Li T, Han X, Qian P, Liu S, Pan Y, Lobie PE, Zhu T
+pubmed: 35296660, pmc: PMC8927306, pmcid: pmc-id: PMC8927306;, doi: 10.1038/s41467-022-29018-9, pii: 10.1038/s41467-022-29018-9
+https://pubmed.ncbi.nlm.nih.gov/35296660
+
+60: Mitochondrial glutathione peroxidase 4 is indispensable for photoreceptor development and survival in mice. J Biol Chem. 2022 Apr;298(4):101824
+Azuma K, Koumura T, Iwamoto R, Matsuoka M, Terauchi R, Yasuda S, Shiraya T, Watanabe S, Aihara M, Imai H, Ueta T
+pubmed: 35288190, pmc: PMC8980337, pmcid: pmc-id: PMC8980337;, doi: 10.1016/j.jbc.2022.101824, pii: S0021-9258(22)00264-2
+https://pubmed.ncbi.nlm.nih.gov/35288190
+
+61: Ferroptosis regulation by the NGLY1/NFE2L1 pathway. Proc Natl Acad Sci U S A. 2022 Mar 15;119(11):e2118646119
+Forcina GC, Pope L, Murray M, Dong W, Abu-Remaileh M, Bertozzi CR, Dixon SJ
+pubmed: 35271393, pmc: PMC8931371, pmcid: pmc-id: PMC8931371;, doi: 10.1073/pnas.2118646119
+https://pubmed.ncbi.nlm.nih.gov/35271393
+
+62: Targeting ferroptosis protects against experimental (multi)organ dysfunction and death. Nat Commun. 2022 Feb 24;13(1):1046
+Van Coillie S, Van San E, Goetschalckx I, Wiernicki B, Mukhopadhyay B, Tonnus W, Choi SM, Roelandt R, Dumitrascu C, Lamberts L, Dams G, Weyts W, Huysentruyt J, Hassannia B, Ingold I, Lele S, Meyer E, Berg M, Seurinck R, Saeys Y, Vermeulen A, van Nuijs ALN, Conrad M, Linkermann A, Rajapurkar M, Vandenabeele P, Hoste E, Augustyns K, Vanden Berghe T
+pubmed: 35210435, pmc: PMC8873468, pmcid: pmc-id: PMC8873468;, doi: 10.1038/s41467-022-28718-6, pii: 10.1038/s41467-022-28718-6
+https://pubmed.ncbi.nlm.nih.gov/35210435
+
+63: Expression of gamma-glutamyltransferase 1 in glioblastoma cells confers resistance to cystine deprivation-induced ferroptosis. J Biol Chem. 2022 Mar;298(3):101703
+Hayashima K, Katoh H
+pubmed: 35148992, pmc: PMC8897698, pmcid: pmc-id: PMC8897698;, doi: 10.1016/j.jbc.2022.101703, pii: S0021-9258(22)00143-0
+https://pubmed.ncbi.nlm.nih.gov/35148992
+
+64: TNF antagonist sensitizes synovial fibroblasts to ferroptotic cell death in collagen-induced arthritis mouse models. Nat Commun. 2022 Feb 3;13(1):676
+Wu J, Feng Z, Chen L, Li Y, Bian H, Geng J, Zheng ZH, Fu X, Pei Z, Qin Y, Yang L, Zhao Y, Wang K, Chen R, He Q, Nan G, Jiang X, Chen ZN, Zhu P
+pubmed: 35115492, pmc: PMC8813949, pmcid: pmc-id: PMC8813949;, doi: 10.1038/s41467-021-27948-4, pii: 10.1038/s41467-021-27948-4
+https://pubmed.ncbi.nlm.nih.gov/35115492
+
+65: PKCβII phosphorylates ACSL4 to amplify lipid peroxidation to induce ferroptosis. Nat Cell Biol. 2022 Jan;24(1):88-98
+Zhang HL, Hu BX, Li ZL, Du T, Shan JL, Ye ZP, Peng XD, Li X, Huang Y, Zhu XY, Chen YH, Feng GK, Yang D, Deng R, Zhu XF
+pubmed: 35027735, doi: 10.1038/s41556-021-00818-3, pii: 10.1038/s41556-021-00818-3
+https://pubmed.ncbi.nlm.nih.gov/35027735
+
+66: Positive feedback amplifies ferroptosis. Nat Cell Biol. 2022 Jan;24(1):4-5
+Rodencal J, Dixon SJ
+pubmed: 35027732, doi: 10.1038/s41556-021-00824-5, pii: 10.1038/s41556-021-00824-5
+https://pubmed.ncbi.nlm.nih.gov/35027732
+
+67: Persister cancer cells: Iron addiction and vulnerability to ferroptosis. Mol Cell. 2022 Feb 17;82(4):728-740
+Rodriguez R, Schreiber SL, Conrad M
+pubmed: 34965379, mid: NIHMS1762271, pmc: PMC9152905, pmcid: pmc-id: PMC9152905;manuscript-id: NIHMS1762271;, doi: 10.1016/j.molcel.2021.12.001, pii: S1097-2765(21)01038-8
+https://pubmed.ncbi.nlm.nih.gov/34965379
+
+68: C-ferroptosis is an iron-dependent form of regulated cell death in cyanobacteria. J Cell Biol. 2022 Feb 7;221(2):
+Aguilera A, Berdun F, Bartoli C, Steelheart C, Alegre M, Bayir H, Tyurina YY, Kagan VE, Salerno G, Pagnussat G, Martin MV
+pubmed: 34817556, pmc: PMC8624678, pmcid: pmc-id: PMC8624678;, doi: 10.1083/jcb.201911005, pii: 212878
+https://pubmed.ncbi.nlm.nih.gov/34817556
+
+69: A nonferrous ferroptosis-like strategy for antioxidant inhibition-synergized nanocatalytic tumor therapeutics. Sci Adv. 2021 Sep 24;7(39):eabj8833
+Wu C, Liu Z, Chen Z, Xu D, Chen L, Lin H, Shi J
+pubmed: 34550744, pmc: PMC8457667, pmcid: pmc-id: PMC8457667;, doi: 10.1126/sciadv.abj8833
+https://pubmed.ncbi.nlm.nih.gov/34550744
+
+70: Etherglycerophospholipids and ferroptosis: structure, regulation, and location. Trends Endocrinol Metab. 2021 Dec;32(12):960-962
+Balgoma D, Hedeland M
+pubmed: 34481732, doi: 10.1016/j.tem.2021.08.005, pii: S1043-2760(21)00198-3
+https://pubmed.ncbi.nlm.nih.gov/34481732
+
+71: CD36 pumps fat to defang killer T cells in tumors. Cell Metab. 2021 Aug 3;33(8):1509-1511
+Subramanian M, Marelli-Berg FM
+pubmed: 34348095, doi: 10.1016/j.cmet.2021.07.004, pii: S1550-4131(21)00320-X
+https://pubmed.ncbi.nlm.nih.gov/34348095
+
+72: Mitochondrial regulation of ferroptosis. J Cell Biol. 2021 Sep 6;220(9):
+Gan B
+pubmed: 34328510, pmc: PMC8329737, pmcid: pmc-id: PMC8329737;, doi: 10.1083/jcb.202105043, pii: 212523
+https://pubmed.ncbi.nlm.nih.gov/34328510
+
+73: Ferroptotic stress promotes the accumulation of pro-inflammatory proximal tubular cells in maladaptive renal repair. Elife. 2021 Jul 19;10():
+Ide S, Kobayashi Y, Ide K, Strausser SA, Abe K, Herbek S, O'Brien LL, Crowley SD, Barisoni L, Tata A, Tata PR, Souma T
+pubmed: 34279220, pmc: PMC8318592, pmcid: pmc-id: PMC8318592;, doi: 10.7554/eLife.68603, pii: 68603
+https://pubmed.ncbi.nlm.nih.gov/34279220
+
+74: Tumor-killing nanoreactors fueled by tumor debris can enhance radiofrequency ablation therapy and boost antitumor immune responses. Nat Commun. 2021 Jul 14;12(1):4299
+Yang Z, Zhu Y, Dong Z, Li W, Yang N, Wang X, Feng L, Liu Z
+pubmed: 34262038, pmc: PMC8280226, pmcid: pmc-id: PMC8280226;, doi: 10.1038/s41467-021-24604-9, pii: 10.1038/s41467-021-24604-9
+https://pubmed.ncbi.nlm.nih.gov/34262038
+
+75: Prokineticin-2 prevents neuronal cell deaths in a model of traumatic brain injury. Nat Commun. 2021 Jul 9;12(1):4220
+Bao Z, Liu Y, Chen B, Miao Z, Tu Y, Li C, Chao H, Ye Y, Xu X, Sun G, Zhao P, Liu N, Liu Y, Wang X, Lam SM, Kagan VE, Bayır H, Ji J
+pubmed: 34244497, pmc: PMC8270965, pmcid: pmc-id: PMC8270965;, doi: 10.1038/s41467-021-24469-y, pii: 10.1038/s41467-021-24469-y
+https://pubmed.ncbi.nlm.nih.gov/34244497
+
+76: The glutathione peroxidase Gpx4 prevents lipid peroxidation and ferroptosis to sustain Treg cell activation and suppression of antitumor immunity. Cell Rep. 2021 Jun 15;35(11):109235
+Xu C, Sun S, Johnson T, Qi R, Zhang S, Zhang J, Yang K
+pubmed: 34133924, doi: 10.1016/j.celrep.2021.109235, pii: S2211-1247(21)00594-5
+https://pubmed.ncbi.nlm.nih.gov/34133924
+
+77: Ferritinophagy and ferroptosis in the management of metabolic diseases. Trends Endocrinol Metab. 2021 Jul;32(7):444-462
+Ajoolabady A, Aslkhodapasandhokmabad H, Libby P, Tuomilehto J, Lip GYH, Penninger JM, Richardson DR, Tang D, Zhou H, Wang S, Klionsky DJ, Kroemer G, Ren J
+pubmed: 34006412, doi: 10.1016/j.tem.2021.04.010, pii: S1043-2760(21)00095-3
+https://pubmed.ncbi.nlm.nih.gov/34006412
+
+78: Juggling with lipids, a game of Russian roulette. Trends Endocrinol Metab. 2021 Jul;32(7):463-473
+Aldrovandi M, Fedorova M, Conrad M
+pubmed: 33985897, doi: 10.1016/j.tem.2021.04.012, pii: S1043-2760(21)00100-4
+https://pubmed.ncbi.nlm.nih.gov/33985897
+
+79: DHODH-mediated ferroptosis defence is a targetable vulnerability in cancer. Nature. 2021 May;593(7860):586-590
+Mao C, Liu X, Zhang Y, Lei G, Yan Y, Lee H, Koppula P, Wu S, Zhuang L, Fang B, Poyurovsky MV, Olszewski K, Gan B
+pubmed: 33981038, mid: NIHMS1779371, pmc: PMC8895686, pmcid: pmc-id: PMC8895686;manuscript-id: NIHMS1779371;, doi: 10.1038/s41586-021-03539-7, pii: 10.1038/s41586-021-03539-7
+https://pubmed.ncbi.nlm.nih.gov/33981038
+
+80: Ferroptotic cell death triggered by conjugated linolenic acids is mediated by ACSL1. Nat Commun. 2021 Apr 14;12(1):2244
+Beatty A, Singh T, Tyurina YY, Tyurin VA, Samovich S, Nicolas E, Maslar K, Zhou Y, Cai KQ, Tan Y, Doll S, Conrad M, Subramanian A, Bayır H, Kagan VE, Rennefahrt U, Peterson JR
+pubmed: 33854057, pmc: PMC8046803, pmcid: pmc-id: PMC8046803;, doi: 10.1038/s41467-021-22471-y, pii: 10.1038/s41467-021-22471-y
+https://pubmed.ncbi.nlm.nih.gov/33854057
+
+81: mTORC1 couples cyst(e)ine availability with GPX4 protein synthesis and ferroptosis regulation. Nat Commun. 2021 Mar 11;12(1):1589
+Zhang Y, Swanda RV, Nie L, Liu X, Wang C, Lee H, Lei G, Mao C, Koppula P, Cheng W, Zhang J, Xiao Z, Zhuang L, Fang B, Chen J, Qian SB, Gan B
+pubmed: 33707434, pmc: PMC7952727, pmcid: pmc-id: PMC7952727;, doi: 10.1038/s41467-021-21841-w, pii: 10.1038/s41467-021-21841-w
+https://pubmed.ncbi.nlm.nih.gov/33707434
+
+82: CD36-mediated ferroptosis dampens intratumoral CD8(+) T cell effector function and impairs their antitumor ability. Cell Metab. 2021 May 4;33(5):1001-1012.e5
+Ma X, Xiao L, Liu L, Ye L, Su P, Bi E, Wang Q, Yang M, Qian J, Yi Q
+pubmed: 33691090, mid: NIHMS1683057, pmc: PMC8102368, pmcid: pmc-id: PMC8102368;manuscript-id: NIHMS1683057;, doi: 10.1016/j.cmet.2021.02.015, pii: S1550-4131(21)00071-1
+https://pubmed.ncbi.nlm.nih.gov/33691090
+
+83: PDK4 dictates metabolic resistance to ferroptosis by suppressing pyruvate oxidation and fatty acid synthesis. Cell Rep. 2021 Feb 23;34(8):108767
+Song X, Liu J, Kuang F, Chen X, Zeh HJ 3rd, Kang R, Kroemer G, Xie Y, Tang D
+pubmed: 33626342, doi: 10.1016/j.celrep.2021.108767, pii: S2211-1247(21)00080-2
+https://pubmed.ncbi.nlm.nih.gov/33626342
+
+84: Ferroptosis: mechanisms, biology and role in disease. Nat Rev Mol Cell Biol. 2021 Apr;22(4):266-282
+Jiang X, Stockwell BR, Conrad M
+pubmed: 33495651, mid: NIHMS1703847, pmc: PMC8142022, pmcid: pmc-id: PMC8142022;manuscript-id: NIHMS1703847;, doi: 10.1038/s41580-020-00324-8, pii: 10.1038/s41580-020-00324-8
+https://pubmed.ncbi.nlm.nih.gov/33495651
+
+85: Ferroptosis induces membrane blebbing in placental trophoblasts. J Cell Sci. 2022 Mar 1;135(5):
+Kajiwara K, Beharier O, Chng CP, Goff JP, Ouyang Y, St Croix CM, Huang C, Kagan VE, Hsia KJ, Sadovsky Y
+pubmed: 33414166, pmc: PMC8084576, pmcid: pmc-id: PMC8084576;, doi: 10.1242/jcs.255737, pii: jcs.255737
+https://pubmed.ncbi.nlm.nih.gov/33414166
+
+86: Ferroptosis drives photoreceptor degeneration in mice with defects in all-trans-retinal clearance. J Biol Chem. 2021 Jan-Jun;296():100187
+Chen C, Chen J, Wang Y, Liu Z, Wu Y
+pubmed: 33334878, pmc: PMC7948481, pmcid: pmc-id: PMC7948481;, doi: 10.1074/jbc.RA120.015779, pii: S0021-9258(20)00183-0
+https://pubmed.ncbi.nlm.nih.gov/33334878
+
+87: Membrane Damage during Ferroptosis Is Caused by Oxidation of Phospholipids Catalyzed by the Oxidoreductases POR and CYB5R1. Mol Cell. 2021 Jan 21;81(2):355-369.e10
+Yan B, Ai Y, Sun Q, Ma Y, Cao Y, Wang J, Zhang Z, Wang X
+pubmed: 33321093, doi: 10.1016/j.molcel.2020.11.024, pii: S1097-2765(20)30802-9
+https://pubmed.ncbi.nlm.nih.gov/33321093
+
+88: HCAR1/MCT1 Regulates Tumor Ferroptosis through the Lactate-Mediated AMPK-SCD1 Activity and Its Therapeutic Implications. Cell Rep. 2020 Dec 8;33(10):108487
+Zhao Y, Li M, Yao X, Fei Y, Lin Z, Li Z, Cai K, Zhao Y, Luo Z
+pubmed: 33296645, doi: 10.1016/j.celrep.2020.108487, pii: S2211-1247(20)31476-5
+https://pubmed.ncbi.nlm.nih.gov/33296645
+
+89: Polyunsaturated fatty acid biosynthesis pathway determines ferroptosis sensitivity in gastric cancer. Proc Natl Acad Sci U S A. 2020 Dec 22;117(51):32433-32442
+Lee JY, Nam M, Son HY, Hyun K, Jang SY, Kim JW, Kim MW, Jung Y, Jang E, Yoon SJ, Kim J, Kim J, Seo J, Min JK, Oh KJ, Han BS, Kim WK, Bae KH, Song J, Kim J, Huh YM, Hwang GS, Lee EW, Lee SC
+pubmed: 33288688, pmc: PMC7768719, pmcid: pmc-id: PMC7768719;, doi: 10.1073/pnas.2006828117, pii: 2006828117
+https://pubmed.ncbi.nlm.nih.gov/33288688
+
+90: The Metabolic Underpinnings of Ferroptosis. Cell Metab. 2020 Dec 1;32(6):920-937
+Zheng J, Conrad M
+pubmed: 33217331, doi: 10.1016/j.cmet.2020.10.011, pii: S1550-4131(20)30544-1
+https://pubmed.ncbi.nlm.nih.gov/33217331
+
+91: Targeted reduction of cholesterol uptake in cholesterol-addicted lymphoma cells blocks turnover of oxidized lipids to cause ferroptosis. J Biol Chem. 2021 Jan-Jun;296():100100
+Rink JS, Lin AY, McMahon KM, Calvert AE, Yang S, Taxter T, Moreira J, Chadburn A, Behdad A, Karmali R, Thaxton CS, Gordon LI
+pubmed: 33208460, pmc: PMC7949030, pmcid: pmc-id: PMC7949030;, doi: 10.1074/jbc.RA120.014888, pii: S0021-9258(20)00090-3
+https://pubmed.ncbi.nlm.nih.gov/33208460
+
+92: Ferroptosis. Curr Biol. 2020 Nov 2;30(21):R1292-R1297
+Tang D, Kroemer G
+pubmed: 33142092, doi: 10.1016/j.cub.2020.09.068, pii: S0960-9822(20)31438-X
+https://pubmed.ncbi.nlm.nih.gov/33142092
+
+93: Plasticity of ether lipids promotes ferroptosis susceptibility and evasion. Nature. 2020 Sep;585(7826):603-608
+Zou Y, Henry WS, Ricq EL, Graham ET, Phadnis VV, Maretich P, Paradkar S, Boehnke N, Deik AA, Reinhardt F, Eaton JK, Ferguson B, Wang W, Fairman J, Keys HR, Dančík V, Clish CB, Clemons PA, Hammond PT, Boyer LA, Weinberg RA, Schreiber SL
+pubmed: 32939090, mid: NIHMS1684471, pmc: PMC8051864, pmcid: pmc-id: PMC8051864;manuscript-id: NIHMS1684471;, doi: 10.1038/s41586-020-2732-8, pii: 10.1038/s41586-020-2732-8
+https://pubmed.ncbi.nlm.nih.gov/32939090
+
+94: Changes in ferrous iron and glutathione promote ferroptosis and frailty in aging Caenorhabditis elegans. Elife. 2020 Jul 21;9():
+Jenkins NL, James SA, Salim A, Sumardy F, Speed TP, Conrad M, Richardson DR, Bush AI, McColl G
+pubmed: 32690135, pmc: PMC7373428, pmcid: pmc-id: PMC7373428;, doi: 10.7554/eLife.56580, pii: 56580
+https://pubmed.ncbi.nlm.nih.gov/32690135
+
+95: Human DECR1 is an androgen-repressed survival factor that regulates PUFA oxidation to protect prostate tumor cells from ferroptosis. Elife. 2020 Jul 20;9():
+Nassar ZD, Mah CY, Dehairs J, Burvenich IJ, Irani S, Centenera MM, Helm M, Shrestha RK, Moldovan M, Don AS, Holst J, Scott AM, Horvath LG, Lynn DJ, Selth LA, Hoy AJ, Swinnen JV, Butler LM
+pubmed: 32686647, pmc: PMC7386908, pmcid: pmc-id: PMC7386908;, doi: 10.7554/eLife.54166, pii: 54166
+https://pubmed.ncbi.nlm.nih.gov/32686647
+
+96: Vacancies on 2D transition metal dichalcogenides elicit ferroptotic cell death. Nat Commun. 2020 Jul 13;11(1):3484
+Xu S, Zheng H, Ma R, Wu D, Pan Y, Yin C, Gao M, Wang W, Li W, Liu S, Chai Z, Li R
+pubmed: 32661253, pmc: PMC7359333, pmcid: pmc-id: PMC7359333;, doi: 10.1038/s41467-020-17300-7, pii: 10.1038/s41467-020-17300-7
+https://pubmed.ncbi.nlm.nih.gov/32661253
+
+97: SnapShot: Ferroptosis. Cell. 2020 May 28;181(5):1188-1188.e1
+Hadian K, Stockwell BR
+pubmed: 32470402, mid: NIHMS1703853, pmc: PMC8157339, pmcid: pmc-id: PMC8157339;manuscript-id: NIHMS1703853;, doi: 10.1016/j.cell.2020.04.039, pii: S0092-8674(20)30504-3
+https://pubmed.ncbi.nlm.nih.gov/32470402
+
+98: MESH1 is a cytosolic NADPH phosphatase that regulates ferroptosis. Nat Metab. 2020 Mar;2(3):270-277
+Ding CC, Rose J, Sun T, Wu J, Chen PH, Lin CC, Yang WH, Chen KY, Lee H, Xu E, Tian S, Akinwuntan J, Zhao J, Guan Z, Zhou P, Chi JT
+pubmed: 32462112, mid: NIHMS1561635, pmc: PMC7252213, pmcid: pmc-id: PMC7252213;manuscript-id: NIHMS1561635;, doi: 10.1038/s42255-020-0181-1, pii: 10.1038/s42255-020-0181-1
+https://pubmed.ncbi.nlm.nih.gov/32462112
+
+99: Emerging Mechanisms and Disease Relevance of Ferroptosis. Trends Cell Biol. 2020 Jun;30(6):478-490
+Stockwell BR, Jiang X, Gu W
+pubmed: 32413317, mid: NIHMS1569923, pmc: PMC7230071, pmcid: pmc-id: PMC7230071;manuscript-id: NIHMS1569923;, doi: 10.1016/j.tcb.2020.02.009, pii: S0962-8924(20)30054-4
+https://pubmed.ncbi.nlm.nih.gov/32413317
+
+100: Dietary lipids fuel GPX4-restricted enteritis resembling Crohn's disease. Nat Commun. 2020 Apr 14;11(1):1775
+Mayr L, Grabherr F, Schwärzler J, Reitmeier I, Sommer F, Gehmacher T, Niederreiter L, He GW, Ruder B, Kunz KTR, Tymoszuk P, Hilbe R, Haschka D, Feistritzer C, Gerner RR, Enrich B, Przysiecki N, Seifert M, Keller MA, Oberhuber G, Sprung S, Ran Q, Koch R, Effenberger M, Tancevski I, Zoller H, Moschen AR, Weiss G, Becker C, Rosenstiel P, Kaser A, Tilg H, Adolph TE
+pubmed: 32286299, pmc: PMC7156516, pmcid: pmc-id: PMC7156516;, doi: 10.1038/s41467-020-15646-6, pii: 10.1038/s41467-020-15646-6
+https://pubmed.ncbi.nlm.nih.gov/32286299
+
+101: MDM2 and MDMX promote ferroptosis by PPARα-mediated lipid remodeling. Genes Dev. 2020 Apr 1;34(7-8):526-543
+Venkatesh D, O'Brien NA, Zandkarimi F, Tong DR, Stokes ME, Dunn DE, Kengmana ES, Aron AT, Klein AM, Csuka JM, Moon SH, Conrad M, Chang CJ, Lo DC, D'Alessandro A, Prives C, Stockwell BR
+pubmed: 32079652, pmc: PMC7111265, pmcid: pmc-id: PMC7111265;, doi: 10.1101/gad.334219.119, pii: gad.334219.119, medline: 8711660
+https://pubmed.ncbi.nlm.nih.gov/32079652
+
+102: Energy-stress-mediated AMPK activation inhibits ferroptosis. Nat Cell Biol. 2020 Feb;22(2):225-234
+Lee H, Zandkarimi F, Zhang Y, Meena JK, Kim J, Zhuang L, Tyagi S, Ma L, Westbrook TF, Steinberg GR, Nakada D, Stockwell BR, Gan B
+pubmed: 32029897, mid: NIHMS1548195, pmc: PMC7008777, pmcid: pmc-id: PMC7008777;manuscript-id: NIHMS1548195;, doi: 10.1038/s41556-020-0461-8, pii: 10.1038/s41556-020-0461-8
+https://pubmed.ncbi.nlm.nih.gov/32029897
+
+103: B1 and Marginal Zone B Cells but Not Follicular B2 Cells Require Gpx4 to Prevent Lipid Peroxidation and Ferroptosis. Cell Rep. 2019 Nov 26;29(9):2731-2744.e4
+Muri J, Thut H, Bornkamm GW, Kopf M
+pubmed: 31775041, doi: 10.1016/j.celrep.2019.10.070, pii: S2211-1247(19)31392-0
+https://pubmed.ncbi.nlm.nih.gov/31775041
+
+104: A Compendium of Genetic Modifiers of Mitochondrial Dysfunction Reveals Intra-organelle Buffering. Cell. 2019 Nov 14;179(5):1222-1238.e17
+To TL, Cuadros AM, Shah H, Hung WHW, Li Y, Kim SH, Rubin DHF, Boe RH, Rath S, Eaton JK, Piccioni F, Goodale A, Kalani Z, Doench JG, Root DE, Schreiber SL, Vafai SB, Mootha VK
+pubmed: 31730859, mid: NIHMS1542953, pmc: PMC7053407, pmcid: pmc-id: PMC7053407;manuscript-id: NIHMS1542953;, doi: 10.1016/j.cell.2019.10.032, pii: S0092-8674(19)31182-1
+https://pubmed.ncbi.nlm.nih.gov/31730859
+
+105: Pannexin 1 mediates ferroptosis that contributes to renal ischemia/reperfusion injury. J Biol Chem. 2019 Dec 13;294(50):19395-19404
+Su L, Jiang X, Yang C, Zhang J, Chen B, Li Y, Yao S, Xie Q, Gomez H, Murugan R, Peng Z
+pubmed: 31694915, pmc: PMC6916502, pmcid: pmc-id: PMC6916502;, doi: 10.1074/jbc.RA119.010949, pii: S0021-9258(20)30846-2
+https://pubmed.ncbi.nlm.nih.gov/31694915
+
+106: FSP1 is a glutathione-independent ferroptosis suppressor. Nature. 2019 Nov;575(7784):693-698
+Doll S, Freitas FP, Shah R, Aldrovandi M, da Silva MC, Ingold I, Goya Grocin A, Xavier da Silva TN, Panzilius E, Scheel CH, Mourão A, Buday K, Sato M, Wanninger J, Vignane T, Mohana V, Rehberg M, Flatley A, Schepers A, Kurz A, White D, Sauer M, Sattler M, Tate EW, Schmitz W, Schulze A, O'Donnell V, Proneth B, Popowicz GM, Pratt DA, Angeli JPF, Conrad M
+pubmed: 31634899, doi: 10.1038/s41586-019-1707-0, pii: 10.1038/s41586-019-1707-0
+https://pubmed.ncbi.nlm.nih.gov/31634899
+
+107: Clockophagy is a novel selective autophagy process favoring ferroptosis. Sci Adv. 2019 Jul;5(7):eaaw2238
+Yang M, Chen P, Liu J, Zhu S, Kroemer G, Klionsky DJ, Lotze MT, Zeh HJ, Kang R, Tang D
+pubmed: 31355331, pmc: PMC6656546, pmcid: pmc-id: PMC6656546;, doi: 10.1126/sciadv.aaw2238, pii: aaw2238
+https://pubmed.ncbi.nlm.nih.gov/31355331
+
+108: Intercellular interaction dictates cancer cell ferroptosis via NF2-YAP signalling. Nature. 2019 Aug;572(7769):402-406
+Wu J, Minikes AM, Gao M, Bian H, Li Y, Stockwell BR, Chen ZN, Jiang X
+pubmed: 31341276, mid: NIHMS1533155, pmc: PMC6697195, pmcid: pmc-id: PMC6697195;manuscript-id: NIHMS1533155;, doi: 10.1038/s41586-019-1426-6, pii: 10.1038/s41586-019-1426-6
+https://pubmed.ncbi.nlm.nih.gov/31341276
+
+109: Involvement of cigarette smoke-induced epithelial cell ferroptosis in COPD pathogenesis. Nat Commun. 2019 Jul 17;10(1):3145
+Yoshida M, Minagawa S, Araya J, Sakamoto T, Hara H, Tsubouchi K, Hosaka Y, Ichikawa A, Saito N, Kadota T, Sato N, Kurita Y, Kobayashi K, Ito S, Utsumi H, Wakui H, Numata T, Kaneko Y, Mori S, Asano H, Yamashita M, Odaka M, Morikawa T, Nakayama K, Iwamoto T, Imai H, Kuwano K
+pubmed: 31316058, pmc: PMC6637122, pmcid: pmc-id: PMC6637122;, doi: 10.1038/s41467-019-10991-7, pii: 10.1038/s41467-019-10991-7
+https://pubmed.ncbi.nlm.nih.gov/31316058
+
+110: CD8(+) T cells regulate tumour ferroptosis during cancer immunotherapy. Nature. 2019 May;569(7755):270-274
+Wang W, Green M, Choi JE, Gijón M, Kennedy PD, Johnson JK, Liao P, Lang X, Kryczek I, Sell A, Xia H, Zhou J, Li G, Li J, Li W, Wei S, Vatan L, Zhang H, Szeliga W, Gu W, Liu R, Lawrence TS, Lamb C, Tanno Y, Cieslik M, Stone E, Georgiou G, Chan TA, Chinnaiyan A, Zou W
+pubmed: 31043744, mid: NIHMS1525540, pmc: PMC6533917, pmcid: pmc-id: PMC6533917;manuscript-id: NIHMS1525540;, doi: 10.1038/s41586-019-1170-y, pii: 10.1038/s41586-019-1170-y
+https://pubmed.ncbi.nlm.nih.gov/31043744
+
+111: ALOX12 is required for p53-mediated tumour suppression through a distinct ferroptosis pathway. Nat Cell Biol. 2019 May;21(5):579-591
+Chu B, Kon N, Chen D, Li T, Liu T, Jiang L, Song S, Tavana O, Gu W
+pubmed: 30962574, mid: NIHMS1522800, pmc: PMC6624840, pmcid: pmc-id: PMC6624840;manuscript-id: NIHMS1522800;, doi: 10.1038/s41556-019-0305-6, pii: 10.1038/s41556-019-0305-6
+https://pubmed.ncbi.nlm.nih.gov/30962574
+
+112: A GPX4-dependent cancer cell state underlies the clear-cell morphology and confers sensitivity to ferroptosis. Nat Commun. 2019 Apr 8;10(1):1617
+Zou Y, Palte MJ, Deik AA, Li H, Eaton JK, Wang W, Tseng YY, Deasy R, Kost-Alimova M, Dančík V, Leshchiner ES, Viswanathan VS, Signoretti S, Choueiri TK, Boehm JS, Wagner BK, Doench JG, Clish CB, Clemons PA, Schreiber SL
+pubmed: 30962421, pmc: PMC6453886, pmcid: pmc-id: PMC6453886;, doi: 10.1038/s41467-019-09277-9, pii: 10.1038/s41467-019-09277-9
+https://pubmed.ncbi.nlm.nih.gov/30962421
+
+113: Enzymatically oxidized phospholipids assume center stage as essential regulators of innate immunity and cell death. Sci Signal. 2019 Mar 26;12(574):
+O'Donnell VB, Aldrovandi M, Murphy RC, Krönke G
+pubmed: 30914483, doi: 10.1126/scisignal.aau2293, pii: 12/574/eaau2293
+https://pubmed.ncbi.nlm.nih.gov/30914483
+
+114: Ferroptosis as a target for protection against cardiomyopathy. Proc Natl Acad Sci U S A. 2019 Feb 12;116(7):2672-2680
+Fang X, Wang H, Han D, Xie E, Yang X, Wei J, Gu S, Gao F, Zhu N, Yin X, Cheng Q, Zhang P, Dai W, Chen J, Yang F, Yang HT, Linkermann A, Gu W, Min J, Wang F
+pubmed: 30692261, pmc: PMC6377499, pmcid: pmc-id: PMC6377499;, doi: 10.1073/pnas.1821022116, pii: 1821022116
+https://pubmed.ncbi.nlm.nih.gov/30692261
+
+115: Improving the metabolic fidelity of cancer models with a physiological cell culture medium. Sci Adv. 2019 Jan;5(1):eaau7314
+Vande Voorde J, Ackermann T, Pfetzer N, Sumpton D, Mackay G, Kalna G, Nixon C, Blyth K, Gottlieb E, Tardito S
+pubmed: 30613774, pmc: PMC6314821, pmcid: pmc-id: PMC6314821;, doi: 10.1126/sciadv.aau7314, pii: aau7314
+https://pubmed.ncbi.nlm.nih.gov/30613774
+
+116: Role of Mitochondria in Ferroptosis. Mol Cell. 2019 Jan 17;73(2):354-363.e3
+Gao M, Yi J, Zhu J, Minikes AM, Monian P, Thompson CB, Jiang X
+pubmed: 30581146, mid: NIHMS1511593, pmc: PMC6338496, pmcid: pmc-id: PMC6338496;manuscript-id: NIHMS1511593;, doi: 10.1016/j.molcel.2018.10.042, pii: S1097-2765(18)30936-5
+https://pubmed.ncbi.nlm.nih.gov/30581146
+

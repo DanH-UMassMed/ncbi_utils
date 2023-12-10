@@ -12,13 +12,17 @@ https://eutils.ncbi.nlm.nih.gov/entrez/eutils/einfo.fcgi?db=pmc
 
 https://eutils.ncbi.nlm.nih.gov/entrez/eutils/einfo.fcgi?db=nlmcatalog
 
-# eSearcg
+# eSearch
 
 https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmax=20&term=Dennis+Voelker
 
 https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=nlmcatalog&term=journalspmc[All%20Fields]
 
+### Search nlmcatalog only get pubmed journals
 https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=nlmcatalog&term=nlmcatalog%20pubmed[subset]
+
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=nlmcatalog&term=nlmcatalog%20pubmed[subset]%20Cell Metabolism[All%20Fields]
+
 
 # eSummary
 https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=37144896
@@ -26,7 +30,9 @@ https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=3714489
 
 # eFetch
 
-https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nlmcatalog&id=485036,484992
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nlmcatalog&retmode=xml&id=101682128,101233170
+
+https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nlmcatalog&retmode=xml&id=297618,7505876
 
 https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=34577062,24475906&rettype=fasta&retmode=text
 

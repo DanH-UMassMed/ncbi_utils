@@ -1,3 +1,7 @@
+# Create the affiliation column in the lipids_conferences CSV file
+# NOTE: The original file is no longer available as it was removed after updating
+# The code is left as a potential accelerator 
+
 import csv
 import html
 import sys

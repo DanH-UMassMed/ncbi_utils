@@ -1,0 +1,117 @@
+Search Terms:("Lipid asymmetry"[All Fields])
+
+1: The Mla system of diderm Firmicute Veillonella parvula reveals an ancestral transenvelope bridge for phospholipid trafficking. Nat Commun. 2023 Nov 23;14(1):7642
+Grasekamp KP, Beaud Benyahia B, Taib N, Audrain B, Bardiaux B, Rossez Y, Izadi-Pruneyre N, Lejeune M, Trivelli X, Chouit Z, Guerardel Y, Ghigo JM, Gribaldo S, Beloin C
+pubmed: 37993432, pmc: PMC10665443, pmcid: pmc-id: PMC10665443;, doi: 10.1038/s41467-023-43411-y, pii: 10.1038/s41467-023-43411-y
+https://pubmed.ncbi.nlm.nih.gov/37993432
+
+2: Cryptococcus neoformans adapts to the host environment through TOR-mediated remodeling of phospholipid asymmetry. Nat Commun. 2023 Oct 18;14(1):6587
+Ristow LC, Jezewski AJ, Chadwick BJ, Stamnes MA, Lin X, Krysan DJ
+pubmed: 37852972, pmc: PMC10584969, pmcid: pmc-id: PMC10584969;, doi: 10.1038/s41467-023-42318-y, pii: 10.1038/s41467-023-42318-y
+https://pubmed.ncbi.nlm.nih.gov/37852972
+
+3: Dynamic players and intricate interactions: An integrated investigation of the Mla lipid transport system. J Biol Chem. 2023 Sep;299(9):105146
+Ng D, Moraes TF
+pubmed: 37562569, pmc: PMC10474453, pmcid: pmc-id: PMC10474453;, doi: 10.1016/j.jbc.2023.105146, pii: S0021-9258(23)02174-9
+https://pubmed.ncbi.nlm.nih.gov/37562569
+
+4: The Ypk1 protein kinase signaling pathway is rewired and not essential for viability in Candida albicans. PLoS Genet. 2023 Aug;19(8):e1010890
+Ramírez-Zavala B, Krüger I, Wollner A, Schwanfelder S, Morschhäuser J
+pubmed: 37561787, pmc: PMC10443862, pmcid: pmc-id: PMC10443862;, doi: 10.1371/journal.pgen.1010890, pii: PGENETICS-D-23-00363
+https://pubmed.ncbi.nlm.nih.gov/37561787
+
+5: A periplasmic phospholipase that maintains outer membrane lipid asymmetry in Pseudomonas aeruginosa. Proc Natl Acad Sci U S A. 2023 Jul 25;120(30):e2302546120
+Guest RL, Lee MJ, Wang W, Silhavy TJ
+pubmed: 37463202, pmc: PMC10374164, pmcid: pmc-id: PMC10374164;embargo-date: 2024/01/18;, doi: 10.1073/pnas.2302546120
+https://pubmed.ncbi.nlm.nih.gov/37463202
+
+6: Cross-talk between phospholipid synthesis and peptidoglycan expansion by a cell wall hydrolase. Proc Natl Acad Sci U S A. 2023 Jun 13;120(24):e2300784120
+Som N, Reddy M
+pubmed: 37276399, pmc: PMC10268279, pmcid: pmc-id: PMC10268279;, doi: 10.1073/pnas.2300784120
+https://pubmed.ncbi.nlm.nih.gov/37276399
+
+7: Protein-protein interactions in the Mla lipid transport system probed by computational structure prediction and deep mutational scanning. J Biol Chem. 2023 Jun;299(6):104744
+MacRae MR, Puvanendran D, Haase MAB, Coudray N, Kolich L, Lam C, Baek M, Bhabha G, Ekiert DC
+pubmed: 37100290, pmc: PMC10245069, pmcid: pmc-id: PMC10245069;, doi: 10.1016/j.jbc.2023.104744, pii: S0021-9258(23)01772-6
+https://pubmed.ncbi.nlm.nih.gov/37100290
+
+8: Pathogenic variants of sphingomyelin synthase SMS2 disrupt lipid landscapes in the secretory pathway. Elife. 2022 Sep 14;11():
+Sokoya T, Parolek J, Foged MM, Danylchuk DI, Bozan M, Sarkar B, Hilderink A, Philippi M, Botto LD, Terhal PA, Mäkitie O, Piehler J, Kim Y, Burd CG, Klymchenko AS, Maeda K, Holthuis JCM
+pubmed: 36102623, pmc: PMC9531943, pmcid: pmc-id: PMC9531943;, doi: 10.7554/eLife.79278, pii: 79278
+https://pubmed.ncbi.nlm.nih.gov/36102623
+
+9: TMEM16 scramblases thin the membrane to enable lipid scrambling. Nat Commun. 2022 May 11;13(1):2604
+Falzone ME, Feng Z, Alvarenga OE, Pan Y, Lee B, Cheng X, Fortea E, Scheuring S, Accardi A
+pubmed: 35562175, pmc: PMC9095706, pmcid: pmc-id: PMC9095706;, doi: 10.1038/s41467-022-30300-z, pii: 10.1038/s41467-022-30300-z
+https://pubmed.ncbi.nlm.nih.gov/35562175
+
+10: Autoinhibition and regulation by phosphoinositides of ATP8B1, a human lipid flippase associated with intrahepatic cholestatic disorders. Elife. 2022 Apr 13;11():
+Dieudonné T, Herrera SA, Laursen MJ, Lejeune M, Stock C, Slimani K, Jaxel C, Lyons JA, Montigny C, Pomorski TG, Nissen P, Lenoir G
+pubmed: 35416773, pmc: PMC9045818, pmcid: pmc-id: PMC9045818;, doi: 10.7554/eLife.75272, pii: 75272
+https://pubmed.ncbi.nlm.nih.gov/35416773
+
+11: Dopey proteins are essential but overlooked regulators of membrane trafficking. J Cell Sci. 2022 Apr 1;135(7):
+Molière A, Beer KB, Wehman AM
+pubmed: 35388894, doi: 10.1242/jcs.259628, pii: 274973
+https://pubmed.ncbi.nlm.nih.gov/35388894
+
+12: Structural insights into the activation of autoinhibited human lipid flippase ATP8B1 upon substrate binding. Proc Natl Acad Sci U S A. 2022 Apr 5;119(14):e2118656119
+Cheng MT, Chen Y, Chen ZP, Liu X, Zhang Z, Chen Y, Hou WT, Zhou CZ
+pubmed: 35349344, pmc: PMC9168909, pmcid: pmc-id: PMC9168909;, doi: 10.1073/pnas.2118656119
+https://pubmed.ncbi.nlm.nih.gov/35349344
+
+13: ATP disrupts lipid-binding equilibrium to drive retrograde transport critical for bacterial outer membrane asymmetry. Proc Natl Acad Sci U S A. 2021 Dec 14;118(50):
+Low WY, Thong S, Chng SS
+pubmed: 34873038, pmc: PMC8685716, pmcid: pmc-id: PMC8685716;, doi: 10.1073/pnas.2110055118, pii: 2110055118
+https://pubmed.ncbi.nlm.nih.gov/34873038
+
+14: Loss of plasma membrane lipid asymmetry can induce ordered domain (raft) formation. J Lipid Res. 2022 Jan;63(1):100155
+Kakuda S, Suresh P, Li G, London E
+pubmed: 34843684, pmc: PMC8953672, pmcid: pmc-id: PMC8953672;, doi: 10.1016/j.jlr.2021.100155, pii: S0022-2275(21)00138-3
+https://pubmed.ncbi.nlm.nih.gov/34843684
+
+15: PMP2/FABP8 induces PI(4,5)P(2)-dependent transbilayer reorganization of sphingomyelin in the plasma membrane. Cell Rep. 2021 Nov 9;37(6):109935
+Abe M, Makino A, Murate M, Hullin-Matsuda F, Yanagawa M, Sako Y, Kobayashi T
+pubmed: 34758297, doi: 10.1016/j.celrep.2021.109935, pii: S2211-1247(21)01408-X
+https://pubmed.ncbi.nlm.nih.gov/34758297
+
+16: Extreme deformability of insect cell membranes is governed by phospholipid scrambling. Cell Rep. 2021 Jun 8;35(10):109219
+Shiomi A, Nagao K, Yokota N, Tsuchiya M, Kato U, Juni N, Hara Y, Mori MX, Mori Y, Ui-Tei K, Murate M, Kobayashi T, Nishino Y, Miyazawa A, Yamamoto A, Suzuki R, Kaufmann S, Tanaka M, Tatsumi K, Nakabe K, Shintaku H, Yesylevsky S, Bogdanov M, Umeda M
+pubmed: 34107250, doi: 10.1016/j.celrep.2021.109219, pii: S2211-1247(21)00570-2
+https://pubmed.ncbi.nlm.nih.gov/34107250
+
+17: Modulating Isoprenoid Biosynthesis Increases Lipooligosaccharides and Restores Acinetobacter baumannii Resistance to Host and Antibiotic Stress. Cell Rep. 2020 Sep 8;32(10):108129
+Palmer LD, Minor KE, Mettlach JA, Rivera ES, Boyd KL, Caprioli RM, Spraggins JM, Dalebroux ZD, Skaar EP
+pubmed: 32905776, mid: NIHMS1627904, pmc: PMC7519801, pmcid: pmc-id: PMC7519801;manuscript-id: NIHMS1627904;, doi: 10.1016/j.celrep.2020.108129, pii: S2211-1247(20)31118-9
+https://pubmed.ncbi.nlm.nih.gov/32905776
+
+18: The Mla pathway in Acinetobacter baumannii has no demonstrable role in anterograde lipid transport. Elife. 2020 Sep 3;9():
+Powers MJ, Simpson BW, Trent MS
+pubmed: 32880370, pmc: PMC7500953, pmcid: pmc-id: PMC7500953;, doi: 10.7554/eLife.56571, pii: 56571
+https://pubmed.ncbi.nlm.nih.gov/32880370
+
+19: Intermembrane transport: Glycerophospholipid homeostasis of the Gram-negative cell envelope. Proc Natl Acad Sci U S A. 2019 Aug 27;116(35):17147-17155
+Powers MJ, Trent MS
+pubmed: 31420510, pmc: PMC6717313, pmcid: pmc-id: PMC6717313;, doi: 10.1073/pnas.1902026116, pii: 1902026116
+https://pubmed.ncbi.nlm.nih.gov/31420510
+
+20: Lipid trafficking across the Gram-negative cell envelope. J Biol Chem. 2019 Sep 27;294(39):14175-14184
+Shrivastava R, Chng SS
+pubmed: 31420446, pmc: PMC6768632, pmcid: pmc-id: PMC6768632;, doi: 10.1074/jbc.AW119.008139, pii: S0021-9258(20)34979-6
+https://pubmed.ncbi.nlm.nih.gov/31420446
+
+21: Cryo-EM structures capture the transport cycle of the P4-ATPase flippase. Science. 2019 Sep 13;365(6458):1149-1155
+Hiraizumi M, Yamashita K, Nishizawa T, Nureki O
+pubmed: 31416931, doi: 10.1126/science.aay3353, pii: science.aay3353
+https://pubmed.ncbi.nlm.nih.gov/31416931
+
+22: Phosphatidylserine flipping by the P4-ATPase ATP8A2 is electrogenic. Proc Natl Acad Sci U S A. 2019 Aug 13;116(33):16332-16337
+Tadini-Buoninsegni F, Mikkelsen SA, Mogensen LS, Molday RS, Andersen JP
+pubmed: 31371510, pmc: PMC6697784, pmcid: pmc-id: PMC6697784;, doi: 10.1073/pnas.1910211116, pii: 1910211116
+https://pubmed.ncbi.nlm.nih.gov/31371510
+
+23: Identification and functional analyses of disease-associated P4-ATPase phospholipid flippase variants in red blood cells. J Biol Chem. 2019 Apr 26;294(17):6809-6821
+Liou AY, Molday LL, Wang J, Andersen JP, Molday RS
+pubmed: 30850395, pmc: PMC6497962, pmcid: pmc-id: PMC6497962;, doi: 10.1074/jbc.RA118.007270, pii: S0021-9258(20)36617-5
+https://pubmed.ncbi.nlm.nih.gov/30850395
+
