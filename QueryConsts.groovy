@@ -49,8 +49,4 @@ class QueryConsts {
                        NOT (17896077[UID]) NOT (24751964[UID]) NOT (21907243[UID]) NOT (21438770[UID]) NOT (11332761[UID]) 
                        NOT (20666652[UID]) NOT (17337586[UID]) NOT (9921134[UID]) NOT (10419626[UID]) NOT (10548814[UID]) 
                        NOT (8700510[UID])  NOT (10631665[UID])) OR (21124729[UID])"""
-
-
-
-
 }

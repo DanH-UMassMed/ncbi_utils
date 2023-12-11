@@ -6,43 +6,67 @@ import groovy.xml.XmlParser
 import groovy.xml.XmlUtil
 class EntrezEUtils {
 
-    static def eUtilsGet(def function, def params) {
+    static def eUtilsGet(def function, def params, dumpResult = false) {
         def logger = new Logger() // Creates or opens log.txt
         def base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/${function}"
 
         def eUtilsResult = null
         def eUtilsError = null
+        def max_retries = 3
 
         try {
             def query = params.collect { k, v -> "${URLEncoder.encode(k, 'UTF-8')}=${URLEncoder.encode(v, 'UTF-8')}" }.join('&')
             def url = new URL("${base_url}?${query}")
+            //println(url)
+            def done = false
+            def retry = 0
+            while (!done) {
+                def connection = url.openConnection()
+                connection.setRequestMethod("GET")
+                if (connection.responseCode == 429) {
+                    retry +=1
+                    def errorMsg = "eUtilsGet: Request limiter hit. [Retry: ${retry} ] code: ${connection.responseCode}"
+                    System.err.println(errorMsg)
+                    Thread.sleep(2000)
+                    if(retry > max_retries) {
+                        done = true
+                        eUtilsError = errorMsg
+                    } 
+                } else if (connection.responseCode == 200) {
+                    done = true
+                    def inputStream = connection.inputStream
+                    //println("Got a response")
 
-            def connection = url.openConnection()
-            connection.setRequestMethod("GET")
+                    def responseText = new Scanner(inputStream).useDelimiter("\\A").next()
 
-            if (connection.responseCode == 200) {
-                def inputStream = connection.inputStream
-                //println("Got a response")
+                    def parser = new XmlParser()
+                    parser.setFeature("http://apache.org/xml/features/disallow-doctype-decl", false)
+                    parser.setFeature("http://apache.org/xml/features/nonvalidating/load-external-dtd", false)
+                    eUtilsResult = parser.parseText(responseText)
 
-                def responseText = new Scanner(inputStream).useDelimiter("\\A").next()
+                    def prettyXml = XmlUtil.serialize(eUtilsResult)
+                    logger.log(prettyXml)
+                    logger.log('='*50)
 
-                def parser = new XmlParser()
-                parser.setFeature("http://apache.org/xml/features/disallow-doctype-decl", false)
-                parser.setFeature("http://apache.org/xml/features/nonvalidating/load-external-dtd", false)
-                eUtilsResult = parser.parseText(responseText)
+                    if(dumpResult) {
+                        System.err.println("XML Dump")
+                        System.err.println(prettyXml)
+                    }
 
-                def prettyXml = XmlUtil.serialize(eUtilsResult)
-                logger.log(prettyXml)
-                logger.log('='*50)
-            } else {
-                def errorMsg = "Failed to retrieve data. Response code: ${connection.responseCode}"
-                println(errorMsg)
-                eUtilsError = errorMsg
+                } else {
+                    retry +=1
+                    def errorMsg = "eUtilsGet: Failed to retrieve data. [Retry: ${retry} ] Response code: ${connection.responseCode}"
+                    System.err.println(errorMsg)
+                    if(retry > max_retries) {
+                        done = true
+                        eUtilsError = errorMsg
+                    } 
+                }
             }
 
         } catch (Exception ex) {
-            println("An error occurred: ${ex.message}")
-            ex.printStackTrace()
+            System.err.println("eUtilsGet: Check if you have a connection!! \n${ex.message}")
+            //ex.printStackTrace()
             eUtilsError = ex.message
         }
 
@@ -50,48 +74,74 @@ class EntrezEUtils {
 
     }
 
-    static def entrezSearch(def searchTerm, db = "pubmed") {
+    static def entrezSearch(Map methodParams) {
+        def searchTerm = methodParams.containsKey("searchTerm") ? methodParams.searchTerm : ""
+        def db = methodParams.containsKey("db") ? methodParams.db : "pubmed"
+        def dumpResult = methodParams.containsKey("dumpResult") ? methodParams.dumpResult : false
         def function = "esearch.fcgi"
+
+        //println("searchTerm=${searchTerm}, db=${db}, dumpResult=${dumpResult} function=${function}")
+        //def eUtilsGetResult = null
 
         def params = [
             db: db,
             term: searchTerm,
             retmode: "xml",
-            retmax: "500",
+            retmax: "200",
             usehistory: "y"
         ]
-        def eUtilsGetResult = eUtilsGet(function, params) 
+        def eUtilsGetResult = eUtilsGet(function, params, dumpResult) 
         def eSearchResult = eUtilsGetResult.eUtilsResult   
 
-        //count = 1
-        //eSearchResult.IdList.Id.each { id -> println("${String.format('%4d', count++)} UID: ${id.text()}") }
+        // // //count = 1
+        // // //eSearchResult.IdList.Id.each { id -> println("${String.format('%4d', count++)} UID: ${id.text()}") }
 
         return eUtilsGetResult
     }
 
-    static def entrezSummary(def eUtilsSearchResult, db = "pubmed") {
-        return entrezGetDetails(def eUtilsSearchResult, db, "esummary.fcgi")
-
-    static def entrezFetch(def eUtilsSearchResult, db = "pubmed") {
-        return entrezGetDetails(def eUtilsSearchResult, db, "efetch.fcgi")
+    static def entrezSummary(Map methodParams) {
+        def eUtilsSearchResult = methodParams.containsKey("eUtilsSearchResult") ? methodParams.eUtilsSearchResult : ""
+        def db = methodParams.containsKey("db") ? methodParams.db : "pubmed"
+        def dumpResult = methodParams.containsKey("dumpResult") ? methodParams.dumpResult : false
+        def restart = methodParams.containsKey("restart") ? methodParams.restart : "0"
+        return entrezGetDetails(eUtilsSearchResult: eUtilsSearchResult, db: db, 
+                                function: "esummary.fcgi", restart: restart, dumpResult:dumpResult)
     }
 
-    static def entrezGetDetails(def eUtilsSearchResult, db, function) {
+    static def entrezFetch(Map methodParams) {
+        def eUtilsSearchResult = methodParams.containsKey("eUtilsSearchResult") ? methodParams.eUtilsSearchResult : ""
+        def db = methodParams.containsKey("db") ? methodParams.db : "pubmed"
+        def dumpResult = methodParams.containsKey("dumpResult") ? methodParams.dumpResult : false
+        def restart = methodParams.containsKey("restart") ? methodParams.restart : "0"
+        return entrezGetDetails(eUtilsSearchResult: eUtilsSearchResult, db: db , 
+                                function: "efetch.fcgi", restart: restart, dumpResult: dumpResult)
+    }
+
+    static def entrezGetDetails(Map methodParams) {
+        def eUtilsSearchResult = methodParams.containsKey("eUtilsSearchResult") ? methodParams.eUtilsSearchResult : ""
+        def db = methodParams.containsKey("db") ? methodParams.db : "pubmed"
+        def function = methodParams.containsKey("function")? methodParams.function : ""
+        def dumpResult = methodParams.containsKey("dumpResult") ? methodParams.dumpResult : false
+        def restart = methodParams.containsKey("restart") ? methodParams.restart : "0"
+
         def eSearchResult = eUtilsSearchResult.eUtilsResult   
         def queryKey = eSearchResult.QueryKey.text()
         def webEnv = eSearchResult.WebEnv.text()
-        //println("?db=pubmed&query_key==${queryKey}&WebEnv=${webEnv}")
+        def count1 = eSearchResult.Count.text()
 
         def params = [
             db: db,
             query_key: queryKey,
             WebEnv: webEnv,
             retmode: "xml",
-            retmax: "500",
+            retmax: "200",
+            retstart: restart
         ]
-        def eUtilsGetResult = eUtilsGet(function, params)     
-        return eUtilsGetResult 
 
+        def eUtilsGetResult = eUtilsGet(function, params, dumpResult)    
+
+        return eUtilsGetResult 
+    }
 
     static def author_report(def eUtilsSummaryResult) {
         def eSummaryResult = eUtilsSummaryResult.eUtilsResult  
