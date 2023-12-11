@@ -1,0 +1,3200 @@
+<?xml version="1.0" encoding="UTF-8"?><eSearchResult>
+    
+  <Count>17</Count>
+    
+  <RetMax>17</RetMax>
+    
+  <RetStart>0</RetStart>
+    
+  <QueryKey>1</QueryKey>
+    
+  <WebEnv>MCID_65775d1ea8af83331436115f</WebEnv>
+    
+  <IdList>
+        
+    <Id>37993432</Id>
+        
+    <Id>37852972</Id>
+        
+    <Id>37562569</Id>
+        
+    <Id>37561787</Id>
+        
+    <Id>37100290</Id>
+        
+    <Id>36102623</Id>
+        
+    <Id>35562175</Id>
+        
+    <Id>35416773</Id>
+        
+    <Id>35388894</Id>
+        
+    <Id>34843684</Id>
+        
+    <Id>34758297</Id>
+        
+    <Id>34107250</Id>
+        
+    <Id>32905776</Id>
+        
+    <Id>32880370</Id>
+        
+    <Id>31420446</Id>
+        
+    <Id>31416931</Id>
+        
+    <Id>30850395</Id>
+      
+  </IdList>
+    
+  <TranslationSet>
+        
+    <Translation>
+            
+      <From>Cell[Journal]</From>
+            
+      <To>"Cell"[Journal:__jid0413066]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Cell Metabolism[Journal]</From>
+            
+      <To>"Cell Metab"[Journal:__jid101233170]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Molecular Cell[Journal]</From>
+            
+      <To>"Mol Cell"[Journal:__jid9802571]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Cell Reports[Journal]</From>
+            
+      <To>"Cell Rep"[Journal:__jid101573691] OR "Cell Rep Phys Sci"[Journal:__jid101769239] OR "Cell Rep Med"[Journal:__jid101766894]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Cell Systems[Journal]</From>
+            
+      <To>"Cell Syst"[Journal:__jid101656080]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Current Biology[Journal]</From>
+            
+      <To>"Curr Biol"[Journal:__jid9107782]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Developmental Cell[Journal]</From>
+            
+      <To>"Dev Cell"[Journal:__jid101120028]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Structure[Journal]</From>
+            
+      <To>"Structure"[Journal:__jid101087697]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Nature[Journal]</From>
+            
+      <To>"Nature"[Journal:__jid0410462] OR "Nature (Paris, France)"[Journal:__jid18940010R]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Nature Cell Biology[Journal]</From>
+            
+      <To>"Nat Cell Biol"[Journal:__jid100890575]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Nature Metabolism[Journal]</From>
+            
+      <To>"Nat Metab"[Journal:__jid101736592]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Nature Aging[Journal]</From>
+            
+      <To>"Nat Aging"[Journal:__jid101773306]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Nature Communications[Journal]</From>
+            
+      <To>"Nat Commun"[Journal:__jid101528555]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Science[Journal]</From>
+            
+      <To>"Science"[Journal:__jid0404511] OR "Science (1979)"[Journal:__jid8000640]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Science Signaling[Journal]</From>
+            
+      <To>"Sci Signal"[Journal:__jid101465400]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Science Advances[Journal]</From>
+            
+      <To>"Sci Adv"[Journal:__jid101653440]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>PLoS Biology[Journal]</From>
+            
+      <To>"PLoS Biol"[Journal:__jid101183755]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>PLoS Genetics[Journal]</From>
+            
+      <To>"PLoS Genet"[Journal:__jid101239074]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Nature Reviews Molecular Cell Biology[Journal]</From>
+            
+      <To>"Nat Rev Mol Cell Biol"[Journal:__jid100962782]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Nature Reviews Genetics[Journal]</From>
+            
+      <To>"Nat Rev Genet"[Journal:__jid100962779]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Trends in Endocrinology and Metabolism[Journal]</From>
+            
+      <To>"Trends Endocrinol Metab"[Journal:__jid9001516]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Trends in Genetics[Journal]</From>
+            
+      <To>"Trends Genet"[Journal:__jid8507085]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Trends in Biochemical Sciences[Journal]</From>
+            
+      <To>"Trends Biochem Sci"[Journal:__jid7610674]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Trends in Cell Biology[Journal]</From>
+            
+      <To>"Trends Cell Biol"[Journal:__jid9200566]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Annual Review of Genetics[Journal]</From>
+            
+      <To>"Annu Rev Genet"[Journal:__jid0117605]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Annual Review of Biochemistry[Journal]</From>
+            
+      <To>"Annu Rev Biochem"[Journal:__jid2985150R]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Annual Review of Cell and Developmental Biology[Journal]</From>
+            
+      <To>"Annu Rev Cell Dev Biol"[Journal:__jid9600627]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Annual Review of Nutrition[Journal]</From>
+            
+      <To>"Annu Rev Nutr"[Journal:__jid8209988]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Journal of Lipid Research[Journal]</From>
+            
+      <To>"J Lipid Res"[Journal:__jid0376606]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Journal of Cell Biology[Journal]</From>
+            
+      <To>"J Cell Biol"[Journal:__jid0375356]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Molecular and Cellular Biology[Journal]</From>
+            
+      <To>"Mol Cell Biol"[Journal:__jid8109087]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Journal of Biological Chemistry[Journal]</From>
+            
+      <To>"J Biol Chem"[Journal:__jid2985121R]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Proceedings</From>
+            
+      <To>"proceeded"[All Fields] OR "proceeding"[All Fields] OR "proceedings"[All Fields]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>National</From>
+            
+      <To>"ethnicity"[MeSH Terms] OR "ethnicity"[All Fields] OR "nationalities"[All Fields] OR "nationality"[All Fields] OR "federal government"[MeSH Terms] OR ("federal"[All Fields] AND "government"[All Fields]) OR "federal government"[All Fields] OR "national"[All Fields] OR "nation"[All Fields] OR "nation's"[All Fields] OR "nationalism"[All Fields] OR "nationalisms"[All Fields] OR "nationalization"[All Fields] OR "nationalized"[All Fields] OR "nationally"[All Fields] OR "nationals"[All Fields] OR "nations"[All Fields] OR "nations's"[All Fields]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Academy</From>
+            
+      <To>"academie"[All Fields] OR "academies and institutes"[MeSH Terms] OR ("academies"[All Fields] AND "institutes"[All Fields]) OR "academies and institutes"[All Fields] OR "academies"[All Fields] OR "academy"[All Fields] OR "academy's"[All Fields]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Sciences[Journal]</From>
+            
+      <To>"Sciences"[Journal:__jid0026247] OR "Sciences (New York)"[Journal:__jid0404513]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>eLife[Journal]</From>
+            
+      <To>"Elife"[Journal:__jid101579614]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>The EMBO Journal[Journal]</From>
+            
+      <To>"EMBO J"[Journal:__jid8208664]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Nucleic Acids Research[Journal]</From>
+            
+      <To>"Nucleic Acids Res"[Journal:__jid0411011] OR "Nucleic Acids Res Suppl"[Journal:__jid101169367]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Journal of Cell Science[Journal]</From>
+            
+      <To>"J Cell Sci"[Journal:__jid0052457]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Developmental Biology[Journal]</From>
+            
+      <To>"Wiley Interdiscip Rev Dev Biol"[Journal:__jid101576624] OR "Sov J Dev Biol"[Journal:__jid0315573] OR "Dev Biol"[Journal:__jid0372762] OR "Dev Biol (N Y 1985)"[Journal:__jid8611888] OR "BMC Dev Biol"[Journal:__jid100966973]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>Genes and Development[Journal]</From>
+            
+      <To>"Genes Dev"[Journal:__jid8711660]</To>
+          
+    </Translation>
+        
+    <Translation>
+            
+      <From>y_5[Filter]</From>
+            
+      <To>"last 5 years"[dp]</To>
+          
+    </Translation>
+      
+  </TranslationSet>
+    
+  <QueryTranslation>("cell"[Journal] OR "cell metab"[Journal] OR "mol cell"[Journal] OR ("cell rep"[Journal] OR "cell rep phys sci"[Journal] OR "cell rep med"[Journal]) OR "cell syst"[Journal] OR "curr biol"[Journal] OR "dev cell"[Journal] OR "structure"[Journal] OR ("nature"[Journal] OR "nature paris france"[Journal]) OR "nat cell biol"[Journal] OR "nat metab"[Journal] OR "nat aging"[Journal] OR "nat commun"[Journal] OR ("science"[Journal] OR "science 1979"[Journal]) OR "sci signal"[Journal] OR "sci adv"[Journal] OR "plos biol"[Journal] OR "plos genet"[Journal] OR "nat rev mol cell biol"[Journal] OR "nat rev genet"[Journal] OR "trends endocrinol metab"[Journal] OR "trends genet"[Journal] OR "trends biochem sci"[Journal] OR "trends cell biol"[Journal] OR "annu rev genet"[Journal] OR "annu rev biochem"[Journal] OR "annu rev cell dev biol"[Journal] OR "annu rev nutr"[Journal] OR "j lipid res"[Journal] OR "j cell biol"[Journal] OR "mol cell biol"[Journal] OR "j biol chem"[Journal] OR ((("proceeded"[All Fields] OR "proceeding"[All Fields] OR "proceedings"[All Fields]) AND ("ethnicity"[MeSH Terms] OR "ethnicity"[All Fields] OR "nationalities"[All Fields] OR "nationality"[All Fields] OR "federal government"[MeSH Terms] OR ("federal"[All Fields] AND "government"[All Fields]) OR "federal government"[All Fields] OR "national"[All Fields] OR "nation"[All Fields] OR "nation s"[All Fields] OR "nationalism"[All Fields] OR "nationalisms"[All Fields] OR "nationalization"[All Fields] OR "nationalized"[All Fields] OR "nationally"[All Fields] OR "nationals"[All Fields] OR "nations"[All Fields] OR "nations s"[All Fields]) AND ("academie"[All Fields] OR "academies and institutes"[MeSH Terms] OR ("academies"[All Fields] AND "institutes"[All Fields]) OR "academies and institutes"[All Fields] OR "academies"[All Fields] OR "academy"[All Fields] OR "academy s"[All Fields])) AND ("sciences"[Journal] OR "sciences new york"[Journal])) OR "elife"[Journal] OR "embo j"[Journal] OR ("nucleic acids res"[Journal] OR "nucleic acids res suppl"[Journal]) OR "j cell sci"[Journal] OR ("wiley interdiscip rev dev biol"[Journal] OR "sov j dev biol"[Journal] OR "dev biol"[Journal] OR "dev biol n y 1985"[Journal] OR "bmc dev biol"[Journal]) OR "genes dev"[Journal]) AND "2018/12/11 00:00":"3000/01/01 05:00"[Date - Publication] AND "Lipid asymmetry"[All Fields]</QueryTranslation>
+    
+  <WarningList>
+        
+    <PhraseIgnored>of</PhraseIgnored>
+        
+    <PhraseIgnored>the</PhraseIgnored>
+      
+  </WarningList>
+  
+</eSearchResult>
+
+==================================================
+<?xml version="1.0" encoding="UTF-8"?><PubmedArticleSet>
+    
+  <PubmedArticle>
+        
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+            
+      <PMID Version="1">37993432</PMID>
+            
+      <DateCompleted>
+                
+        <Year>2023</Year>
+                
+        <Month>11</Month>
+                
+        <Day>24</Day>
+              
+      </DateCompleted>
+            
+      <DateRevised>
+                
+        <Year>2023</Year>
+                
+        <Month>11</Month>
+                
+        <Day>25</Day>
+              
+      </DateRevised>
+            
+      <Article PubModel="Electronic">
+                
+        <Journal>
+                    
+          <ISSN IssnType="Electronic">2041-1723</ISSN>
+                    
+          <JournalIssue CitedMedium="Internet">
+                        
+            <Volume>14</Volume>
+                        
+            <Issue>1</Issue>
+                        
+            <PubDate>
+                            
+              <Year>2023</Year>
+                            
+              <Month>Nov</Month>
+                            
+              <Day>23</Day>
+                          
+            </PubDate>
+                      
+          </JournalIssue>
+                    
+          <Title>Nature communications</Title>
+                    
+          <ISOAbbreviation>Nat Commun</ISOAbbreviation>
+                  
+        </Journal>
+                
+        <ArticleTitle>The Mla system of diderm Firmicute Veillonella parvula reveals an ancestral transenvelope bridge for phospholipid trafficking.</ArticleTitle>
+                
+        <Pagination>
+                    
+          <StartPage>7642</StartPage>
+                    
+          <MedlinePgn>7642</MedlinePgn>
+                  
+        </Pagination>
+                
+        <ELocationID EIdType="pii" ValidYN="Y">7642</ELocationID>
+                
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41467-023-43411-y</ELocationID>
+                
+        <Abstract>
+                    
+          <AbstractText>E. coli and most other diderm bacteria (those with two membranes) have an inner membrane enriched in glycerophospholipids (GPLs) and an asymmetric outer membrane (OM) containing GPLs in its inner leaflet and primarily lipopolysaccharides in its outer leaflet. In E. coli, this lipid asymmetry is maintained by the Mla system which consists of six proteins: the OM lipoprotein MlaA extracts GPLs from the outer leaflet, and the periplasmic chaperone MlaC transfers them across the periplasm to the inner membrane complex MlaBDEF. However, GPL trafficking still remains poorly understood, and has only been studied in a handful of model species. Here, we investigate GPL trafficking in Veillonella parvula, a diderm Firmicute with an Mla system that lacks MlaA and MlaC, but contains an elongated MlaD. V. parvula mla mutants display phenotypes characteristic of disrupted lipid asymmetry which can be suppressed by mutations in tamB, supporting that these two systems have opposite GPL trafficking functions across diverse bacterial lineages. Structural modelling and subcellular localisation assays suggest that V. parvula MlaD forms a transenvelope bridge, comprising a typical inner membrane-localised MCE domain and, in addition, an outer membrane ß-barrel. Phylogenomic analyses indicate that this elongated MlaD type is widely distributed across diderm bacteria and likely forms part of the ancestral functional core of the Mla system, which would be composed of MlaEFD only.</AbstractText>
+                    
+          <CopyrightInformation>© 2023. The Author(s).</CopyrightInformation>
+                  
+        </Abstract>
+                
+        <AuthorList CompleteYN="Y">
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Grasekamp</LastName>
+                        
+            <ForeName>Kyrie P</ForeName>
+                        
+            <Initials>KP</Initials>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Genetics of Biofilms Laboratory, Paris, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y" EqualContrib="Y">
+                        
+            <LastName>Beaud Benyahia</LastName>
+                        
+            <ForeName>Basile</ForeName>
+                        
+            <Initials>B</Initials>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Evolutionary Biology of the Microbial Cell Laboratory, Paris, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y" EqualContrib="Y">
+                        
+            <LastName>Taib</LastName>
+                        
+            <ForeName>Najwa</ForeName>
+                        
+            <Initials>N</Initials>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Evolutionary Biology of the Microbial Cell Laboratory, Paris, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Bioinformatics and Biostatistics Hub, F-75015, Paris, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y" EqualContrib="Y">
+                        
+            <LastName>Audrain</LastName>
+                        
+            <ForeName>Bianca</ForeName>
+                        
+            <Initials>B</Initials>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Genetics of Biofilms Laboratory, Paris, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y" EqualContrib="Y">
+                        
+            <LastName>Bardiaux</LastName>
+                        
+            <ForeName>Benjamin</ForeName>
+                        
+            <Initials>B</Initials>
+                        
+            <Identifier Source="ORCID">0000-0003-4014-9195</Identifier>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Structural Bioinformatics Unit, CNRS UMR 3528, Paris, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Bacterial Transmembrane Systems Unit, CNRS UMR 3528, Paris, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Rossez</LastName>
+                        
+            <ForeName>Yannick</ForeName>
+                        
+            <Initials>Y</Initials>
+                        
+            <Identifier Source="ORCID">0000-0001-5435-1373</Identifier>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Université de Lille, CNRS, UMR 8576 - UGSF - Unité de Glycobiologie Structurale et Fonctionnelle, Lille, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Izadi-Pruneyre</LastName>
+                        
+            <ForeName>Nadia</ForeName>
+                        
+            <Initials>N</Initials>
+                        
+            <Identifier Source="ORCID">0000-0002-6864-2961</Identifier>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Structural Bioinformatics Unit, CNRS UMR 3528, Paris, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Bacterial Transmembrane Systems Unit, CNRS UMR 3528, Paris, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Lejeune</LastName>
+                        
+            <ForeName>Maylis</ForeName>
+                        
+            <Initials>M</Initials>
+                        
+            <Identifier Source="ORCID">0000-0002-3795-1868</Identifier>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Structural Bioinformatics Unit, CNRS UMR 3528, Paris, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Bacterial Transmembrane Systems Unit, CNRS UMR 3528, Paris, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Trivelli</LastName>
+                        
+            <ForeName>Xavier</ForeName>
+                        
+            <Initials>X</Initials>
+                        
+            <Identifier Source="ORCID">0000-0001-6775-9650</Identifier>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Université de Lille, CNRS, INRAE, Centrale Lille, Université d'Artois, FR 2638 - IMEC - Institut Michel-Eugène Chevreul, Lille, 59000, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Chouit</LastName>
+                        
+            <ForeName>Zina</ForeName>
+                        
+            <Initials>Z</Initials>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Université de Lille, CNRS, UMR 8576 - UGSF - Unité de Glycobiologie Structurale et Fonctionnelle, Lille, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Guerardel</LastName>
+                        
+            <ForeName>Yann</ForeName>
+                        
+            <Initials>Y</Initials>
+                        
+            <Identifier Source="ORCID">0000-0003-4967-9512</Identifier>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Université de Lille, CNRS, UMR 8576 - UGSF - Unité de Glycobiologie Structurale et Fonctionnelle, Lille, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institute for Glyco-core Research (iGCORE), Gifu University, Gifu, Japan.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Ghigo</LastName>
+                        
+            <ForeName>Jean-Marc</ForeName>
+                        
+            <Initials>JM</Initials>
+                        
+            <Identifier Source="ORCID">0000-0001-6528-118X</Identifier>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Genetics of Biofilms Laboratory, Paris, France.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Gribaldo</LastName>
+                        
+            <ForeName>Simonetta</ForeName>
+                        
+            <Initials>S</Initials>
+                        
+            <Identifier Source="ORCID">0000-0002-7662-021X</Identifier>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Evolutionary Biology of the Microbial Cell Laboratory, Paris, France. simonetta.gribaldo@pasteur.fr.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Beloin</LastName>
+                        
+            <ForeName>Christophe</ForeName>
+                        
+            <Initials>C</Initials>
+                        
+            <Identifier Source="ORCID">0000-0002-0344-3443</Identifier>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Institut Pasteur, Université Paris Cité, Genetics of Biofilms Laboratory, Paris, France. christophe.beloin@pasteur.fr.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                  
+        </AuthorList>
+                
+        <Language>eng</Language>
+                
+        <GrantList CompleteYN="Y">
+                    
+          <Grant>
+                        
+            <GrantID>OM-LipAsy-CE44-008</GrantID>
+                        
+            <Agency>Agence Nationale de la Recherche (French National Research Agency)</Agency>
+                        
+            <Country/>
+                      
+          </Grant>
+                    
+          <Grant>
+                        
+            <GrantID>Fir-OM ANR-16-CE12-0010</GrantID>
+                        
+            <Agency>Agence Nationale de la Recherche (French National Research Agency)</Agency>
+                        
+            <Country/>
+                      
+          </Grant>
+                    
+          <Grant>
+                        
+            <GrantID>ANR-10-LABX-62-IBEID</GrantID>
+                        
+            <Agency>Agence Nationale de la Recherche (French National Research Agency)</Agency>
+                        
+            <Country/>
+                      
+          </Grant>
+                    
+          <Grant>
+                        
+            <GrantID>DEQ20180339185</GrantID>
+                        
+            <Agency>Fondation pour la Recherche Médicale (Foundation for Medical Research in France)</Agency>
+                        
+            <Country/>
+                      
+          </Grant>
+                  
+        </GrantList>
+                
+        <PublicationTypeList>
+                    
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+                  
+        </PublicationTypeList>
+                
+        <ArticleDate DateType="Electronic">
+                    
+          <Year>2023</Year>
+                    
+          <Month>11</Month>
+                    
+          <Day>23</Day>
+                  
+        </ArticleDate>
+              
+      </Article>
+            
+      <MedlineJournalInfo>
+                
+        <Country>England</Country>
+                
+        <MedlineTA>Nat Commun</MedlineTA>
+                
+        <NlmUniqueID>101528555</NlmUniqueID>
+                
+        <ISSNLinking>2041-1723</ISSNLinking>
+              
+      </MedlineJournalInfo>
+            
+      <ChemicalList>
+                
+        <Chemical>
+                    
+          <RegistryNumber>0</RegistryNumber>
+                    
+          <NameOfSubstance UI="D010743">Phospholipids</NameOfSubstance>
+                  
+        </Chemical>
+                
+        <Chemical>
+                    
+          <RegistryNumber>0</RegistryNumber>
+                    
+          <NameOfSubstance UI="D020404">Glycerophospholipids</NameOfSubstance>
+                  
+        </Chemical>
+                
+        <Chemical>
+                    
+          <RegistryNumber>0</RegistryNumber>
+                    
+          <NameOfSubstance UI="D029968">Escherichia coli Proteins</NameOfSubstance>
+                  
+        </Chemical>
+                
+        <Chemical>
+                    
+          <RegistryNumber>0</RegistryNumber>
+                    
+          <NameOfSubstance UI="D001425">Bacterial Outer Membrane Proteins</NameOfSubstance>
+                  
+        </Chemical>
+              
+      </ChemicalList>
+            
+      <SupplMeshList>
+                
+        <SupplMeshName Type="Organism" UI="C000639969">Veillonella parvula</SupplMeshName>
+              
+      </SupplMeshList>
+            
+      <CitationSubset>IM</CitationSubset>
+            
+      <MeshHeadingList>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D010743" MajorTopicYN="Y">Phospholipids</DescriptorName>
+                    
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D002462" MajorTopicYN="N">Cell Membrane</DescriptorName>
+                    
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D004926" MajorTopicYN="N">Escherichia coli</DescriptorName>
+                    
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                    
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D001692" MajorTopicYN="N">Biological Transport</DescriptorName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D020404" MajorTopicYN="N">Glycerophospholipids</DescriptorName>
+                    
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D001419" MajorTopicYN="N">Bacteria</DescriptorName>
+                    
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D029968" MajorTopicYN="Y">Escherichia coli Proteins</DescriptorName>
+                    
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D000068536" MajorTopicYN="N">Firmicutes</DescriptorName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D001425" MajorTopicYN="N">Bacterial Outer Membrane Proteins</DescriptorName>
+                    
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                    
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                  
+        </MeshHeading>
+              
+      </MeshHeadingList>
+            
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+          
+    </MedlineCitation>
+        
+    <PubmedData>
+            
+      <History>
+                
+        <PubMedPubDate PubStatus="received">
+                    
+          <Year>2023</Year>
+                    
+          <Month>7</Month>
+                    
+          <Day>9</Day>
+                  
+        </PubMedPubDate>
+                
+        <PubMedPubDate PubStatus="accepted">
+                    
+          <Year>2023</Year>
+                    
+          <Month>11</Month>
+                    
+          <Day>8</Day>
+                  
+        </PubMedPubDate>
+                
+        <PubMedPubDate PubStatus="medline">
+                    
+          <Year>2023</Year>
+                    
+          <Month>11</Month>
+                    
+          <Day>24</Day>
+                    
+          <Hour>6</Hour>
+                    
+          <Minute>42</Minute>
+                  
+        </PubMedPubDate>
+                
+        <PubMedPubDate PubStatus="pubmed">
+                    
+          <Year>2023</Year>
+                    
+          <Month>11</Month>
+                    
+          <Day>23</Day>
+                    
+          <Hour>0</Hour>
+                    
+          <Minute>42</Minute>
+                  
+        </PubMedPubDate>
+                
+        <PubMedPubDate PubStatus="entrez">
+                    
+          <Year>2023</Year>
+                    
+          <Month>11</Month>
+                    
+          <Day>22</Day>
+                    
+          <Hour>23</Hour>
+                    
+          <Minute>16</Minute>
+                  
+        </PubMedPubDate>
+              
+      </History>
+            
+      <PublicationStatus>epublish</PublicationStatus>
+            
+      <ArticleIdList>
+                
+        <ArticleId IdType="pubmed">37993432</ArticleId>
+                
+        <ArticleId IdType="pmc">PMC10665443</ArticleId>
+                
+        <ArticleId IdType="doi">10.1038/s41467-023-43411-y</ArticleId>
+                
+        <ArticleId IdType="pii">10.1038/s41467-023-43411-y</ArticleId>
+              
+      </ArticleIdList>
+            
+      <ReferenceList>
+                
+        <Reference>
+                    
+          <Citation>Nikaido H. Molecular Basis of Bacterial Outer Membrane Permeability Revisited. Microbiol. Mol. Biol. Rev. 2003;67:593–656.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC309051</ArticleId>
+                        
+            <ArticleId IdType="pubmed">14665678</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Silhavy TJ, Kahne D, Walker S. The Bacterial Cell Envelope. Cold Spring Harb. Perspect. Biol. 2010;2:a000414.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC2857177</ArticleId>
+                        
+            <ArticleId IdType="pubmed">20452953</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Ruiz N, Davis RM, Kumar S. YhdP, TamB, and YdbH Are Redundant but Essential for Growth and Lipid Homeostasis of the Gram-Negative Outer Membrane. mBio. 2021;12:e02714–e02721.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC8593681</ArticleId>
+                        
+            <ArticleId IdType="pubmed">34781743</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Douglass MV, McLean AB, Trent MS. Absence of YhdP, TamB, and YdbH leads to defects in glycerophospholipid transport and cell morphology in Gram-negative bacteria. PLOS Genet. 2022;18:e1010096.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC8912898</ArticleId>
+                        
+            <ArticleId IdType="pubmed">35226662</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Grimm J, et al. The inner membrane protein YhdP modulates the rate of anterograde phospholipid flow in Escherichia coli. Proc. Natl Acad. Sci. 2020;117:26907–26914.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC7604412</ArticleId>
+                        
+            <ArticleId IdType="pubmed">33046656</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Ekiert DC, et al. Architectures of Lipid Transport Systems for the Bacterial Outer Membrane. Cell. 2017;169:273–285.e17.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5467742</ArticleId>
+                        
+            <ArticleId IdType="pubmed">28388411</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Malinverni JC, Silhavy TJ. An ABC transport system that maintains lipid asymmetry in the Gram-negative outer membrane. Proc. Natl Acad. Sci. 2009;106:8009–8014.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC2683108</ArticleId>
+                        
+            <ArticleId IdType="pubmed">19383799</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Thong S, et al. Defining key roles for auxiliary proteins in an ABC transporter that maintains bacterial outer membrane lipid asymmetry. eLife. 2016;5:e19042.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5016091</ArticleId>
+                        
+            <ArticleId IdType="pubmed">27529189</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Tang X, et al. Structural insights into outer membrane asymmetry maintenance in Gram-negative bacteria by MlaFEDB. Nat. Struct. Mol. Biol. 2021;28:81–91.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">33199922</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Kamischke C, et al. The Acinetobacter baumannii Mla system and glycerophospholipid transport to the outer membrane. eLife. 2019;8:e40171.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC6365058</ArticleId>
+                        
+            <ArticleId IdType="pubmed">30638443</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Huang YM, et al. Molecular dynamic study of MlaC protein in Gram-negative bacteria: conformational flexibility, solvent effect and protein-phospholipid binding: Molecular Dynamic Study of MlaC Protein. Protein Sci. 2016;25:1430–1437.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC4972199</ArticleId>
+                        
+            <ArticleId IdType="pubmed">27111825</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Chong Z-S, Woo W-F, Chng S-S. Osmoporin OmpC forms a complex with MlaA to maintain outer membrane lipid asymmetry in E scherichia coli: An outer membrane complex important for lipid asymmetry. Mol. Microbiol. 2015;98:1133–1146.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">26314242</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Powers MJ, Simpson BW, Trent MS. The Mla pathway in Acinetobacter baumannii has no demonstrable role in anterograde lipid transport. Elife. 2020;9:e56571.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC7500953</ArticleId>
+                        
+            <ArticleId IdType="pubmed">32880370</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Hughes GW, et al. Evidence for phospholipid export from the bacterial inner membrane by the Mla ABC transport system. Nat. Microbiol. 2019;4:1692–1705.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">31235958</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Antunes LC, et al. Phylogenomic analysis supports the ancestral presence of LPS-outer membranes in the Firmicutes. eLife. 2016;5:e14589.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5007114</ArticleId>
+                        
+            <ArticleId IdType="pubmed">27580370</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Witwinowski J, et al. An ancient divide in outer membrane tethering systems in bacteria suggests a mechanism for the diderm-to-monoderm transition. Nat. Microbiol. 2022;7:411–422.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">35246664</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Megrian D, Taib N, Witwinowski J, Beloin C, Gribaldo S. One or two membranes? Diderm Firmicutes challenge the Gram‐positive/Gram‐negative divide. Mol. Microbiol. 2020;113:659–671.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">31975449</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Taib N, et al. Genome-wide analysis of the Firmicutes illuminates the diderm/monoderm transition. Nat. Ecol. Evol. 2020;4:1661–1672.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">33077930</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Coleman GA, et al. A rooted phylogeny resolves early bacterial evolution. Science. 2021;372:eabe0511.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">33958449</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Bavro VN, et al. Assembly and channel opening in a bacterial drug efflux machine. Mol. Cell. 2008;30:114–121.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC2292822</ArticleId>
+                        
+            <ArticleId IdType="pubmed">18406332</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Poppleton DI, et al. Outer Membrane Proteome of Veillonella parvula: A Diderm Firmicute of the Human Microbiome. Front. Microbiol. 2017;8:1215.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5491611</ArticleId>
+                        
+            <ArticleId IdType="pubmed">28713344</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Baarda BI, Zielke RA, Le Van A, Jerse AE, Sikora AE. Neisseria gonorrhoeae MlaA influences gonococcal virulence and membrane vesicle production. PLOS Pathog. 2019;15:e1007385.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC6424457</ArticleId>
+                        
+            <ArticleId IdType="pubmed">30845186</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>de Jonge, E. F., Vogrinec, L., van Boxtel, R. &amp; Tommassen, J. Inactivation of the Mla system and outer-membrane phospholipase A results in disrupted outer-membrane lipid asymmetry and hypervesiculation in Bordetella pertussis. Curr. Res. Microb. Sci. 100172 10.1016/j.crmicr.2022.100172 (2022).</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC9743053</ArticleId>
+                        
+            <ArticleId IdType="pubmed">36518166</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Roier S, et al. A novel mechanism for the biogenesis of outer membrane vesicles in Gram-negative bacteria. Nat. Commun. 2016;7:10515.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC4737802</ArticleId>
+                        
+            <ArticleId IdType="pubmed">26806181</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Davies C, et al. Sodium Taurocholate Stimulates Campylobacter jejuni Outer Membrane Vesicle Production via Down-Regulation of the Maintenance of Lipid Asymmetry Pathway. Front. Cell. Infect. Microbiol. 2019;9:177.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC6549495</ArticleId>
+                        
+            <ArticleId IdType="pubmed">31192166</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Bishop RE, et al. Transfer of palmitate from phospholipids to lipid A in outer membranes of Gram-negative bacteria. EMBO J. 2000;19:5071–5080.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC302101</ArticleId>
+                        
+            <ArticleId IdType="pubmed">11013210</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Jackson DR, et al. Plasmalogen Biosynthesis by Anaerobic Bacteria: Identification of a Two-Gene Operon Responsible for Plasmalogen Production in Clostridium perfringens. ACS Chem. Biol. 2021;16:6–13.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC7812594</ArticleId>
+                        
+            <ArticleId IdType="pubmed">33350306</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Goldfine H. Plasmalogens in bacteria, sixty years on. Front. Mol. Biosci. 2022;9:962757.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC9702350</ArticleId>
+                        
+            <ArticleId IdType="pubmed">36452453</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Jumper J, et al. Highly accurate protein structure prediction with AlphaFold. Nature. 2021;596:583–589.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC8371605</ArticleId>
+                        
+            <ArticleId IdType="pubmed">34265844</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Evans, R. et al. Protein complex prediction with AlphaFold-Multimer. 10.1101/2021.10.04.463034 (2021).</Citation>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Chen, J. et al. Structure of an endogenous mycobacterial MCE lipid transporter. https://www.researchsquare.com/article/rs-2412186/v1 (2023).</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">37495693</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Neron, B. et al. MacSyFinder v2: Improved modelling and search engine to identify molecular systems in genomes. 10.1101/2022.09.02.506364 (2022).</Citation>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Brock TD, Edwards MR. Fine Structure of Thermus aquaticus, an Extreme Thermophile. J. Bacteriol. 1970;104:509–517.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC248237</ArticleId>
+                        
+            <ArticleId IdType="pubmed">5473907</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Hoppert M, et al. Structure–functional analysis of the Dictyoglomus cell envelope. Syst. Appl. Microbiol. 2012;35:279–290.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">22824581</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Katayama T, et al. Isolation of a member of the candidate phylum ‘Atribacteria’ reveals a unique cell membrane structure. Nat. Commun. 2020;11:6381.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC7736352</ArticleId>
+                        
+            <ArticleId IdType="pubmed">33318506</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Hayat S, Peters C, Shu N, Tsirigos KD, Elofsson A. Inclusion of dyad-repeat pattern improves topology prediction of transmembrane β-barrel proteins. Bioinformatics. 2016;32:1571–1573.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">26794316</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>May KL, Silhavy TJ. The Escherichia coli Phospholipase PldA Regulates Outer Membrane Homeostasis via Lipid Signaling. mBio. 2018;9:e00379–18.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5874903</ArticleId>
+                        
+            <ArticleId IdType="pubmed">29559571</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Guest RL, Lee MJ, Wang W, Silhavy TJ. A periplasmic phospholipase that maintains outer membrane lipid asymmetry in Pseudomonas aeruginosa. Proc. Natl Acad. Sci. 2023;120:e2302546120.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC10374164</ArticleId>
+                        
+            <ArticleId IdType="pubmed">37463202</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Konovalova A, Silhavy TJ. Outer membrane lipoprotein biogenesis: Lol is not the end. Philos. Trans. R. Soc. B Biol. Sci. 2015;370:20150030.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC4632606</ArticleId>
+                        
+            <ArticleId IdType="pubmed">26370942</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Matsuyama S, Tajima T, Tokuda H. A novel periplasmic carrier protein involved in the sorting and transport of Escherichia coli lipoproteins destined for the outer membrane. EMBO J. 1995;14:3365–3372.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC394403</ArticleId>
+                        
+            <ArticleId IdType="pubmed">7628437</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Kim KH, Aulakh S, Paetzel M. The bacterial outer membrane β-barrel assembly machinery. Protein Sci. 2012;21:751–768.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC3403412</ArticleId>
+                        
+            <ArticleId IdType="pubmed">22549918</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Kumar S, Ruiz N. Bacterial AsmA-Like Proteins: Bridging the Gap in Intermembrane Phospholipid Transport. Contact Thousand Oaks Ventur. Cty. Calif. 2023;6:25152564231185931.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC10345924</ArticleId>
+                        
+            <ArticleId IdType="pubmed">37455811</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Josts I, et al. The Structure of a Conserved Domain of TamB Reveals a Hydrophobic β Taco Fold. Structure. 2017;25:1898–1906.e5.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5719984</ArticleId>
+                        
+            <ArticleId IdType="pubmed">29129383</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Levine TP. Sequence Analysis and Structural Predictions of Lipid Transfer Bridges in the Repeating Beta Groove (RBG) Superfamily Reveal Past and Present Domain Variations Affecting Form, Function and Interactions of VPS13, ATG2, SHIP164, Hobbit and Tweek. Contact Thousand Oaks Ventur. Cty. Calif. 2022;5:251525642211343.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC7613979</ArticleId>
+                        
+            <ArticleId IdType="pubmed">36571082</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Abellón-Ruiz J, et al. Structural basis for maintenance of bacterial outer membrane lipid asymmetry. Nat. Microbiol. 2017;2:1616–1623.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">29038444</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Yeow J, et al. The architecture of the OmpC–MlaA complex sheds light on the maintenance of outer membrane lipid asymmetry in Escherichia. coli. J. Biol. Chem. 2018;293:11325–11340.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC6065193</ArticleId>
+                        
+            <ArticleId IdType="pubmed">29848551</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Sperandeo P, Martorana AM, Polissi A. The lipopolysaccharide transport (Lpt) machinery: A nonconventional transporter for lipopolysaccharide assembly at the outer membrane of Gram-negative. Bact. J. Biol. Chem. 2017;292:17981–17990.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5672026</ArticleId>
+                        
+            <ArticleId IdType="pubmed">28878019</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Low W-Y, Thong S, Chng S-S. ATP disrupts lipid-binding equilibrium to drive retrograde transport critical for bacterial outer membrane asymmetry. Proc. Natl Acad. Sci. 2021;118:e2110055118.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC8685716</ArticleId>
+                        
+            <ArticleId IdType="pubmed">34873038</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Ercan B, Low W-Y, Liu X, Chng S-S. Characterization of Interactions and Phospholipid Transfer between Substrate Binding Proteins of the OmpC-Mla System. Biochemistry. 2019;58:114–119.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">30284446</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Mann D, et al. Structure and lipid dynamics in the maintenance of lipid asymmetry inner membrane complex of A. baumannii. Commun. Biol. 2021;4:817.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC8241846</ArticleId>
+                        
+            <ArticleId IdType="pubmed">34188171</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Knapp S, et al. Natural Competence Is Common among Clinical Isolates of Veillonella parvula and Is Useful for Genetic Manipulation of This Key Member of the Oral Microbiome. Front. Cell. Infect. Microbiol. 2017;7:139.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5397411</ArticleId>
+                        
+            <ArticleId IdType="pubmed">28473967</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Dembek M, et al. High-throughput analysis of gene essentiality and sporulation in Clostridium difficile. MBio. 2015;6:e02383–14.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC4358009</ArticleId>
+                        
+            <ArticleId IdType="pubmed">25714712</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Mastronarde DN, Held SR. Automated tilt series alignment and tomographic reconstruction in IMOD. J. Struct. Biol. 2017;197:102–113.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5247408</ArticleId>
+                        
+            <ArticleId IdType="pubmed">27444392</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Letunic I, Khedkar S, Bork P. SMART: recent updates, new developments and status in 2020. Nucleic Acids Res. 2021;49:D458–D460.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC7778883</ArticleId>
+                        
+            <ArticleId IdType="pubmed">33104802</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Zhang Y. I‐TASSER: Fully automated protein structure prediction in CASP8. Proteins Struct. Funct. Bioinforma. 2009;77:100–113.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC2782770</ArticleId>
+                        
+            <ArticleId IdType="pubmed">19768687</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Krogh A, Larsson B, von Heijne G, Sonnhammer ELL. Predicting transmembrane protein topology with a hidden markov model: application to complete genomes11 Edited by F. Cohen. J. Mol. Biol. 2001;305:567–580.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">11152613</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Mirdita M, et al. ColabFold: making protein folding accessible to all. Nat. Methods. 2022;19:679–682.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC9184281</ArticleId>
+                        
+            <ArticleId IdType="pubmed">35637307</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Steinegger M, et al. HH-suite3 for fast remote homology detection and deep protein annotation. BMC Bioinforma. 2019;20:473.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC6744700</ArticleId>
+                        
+            <ArticleId IdType="pubmed">31521110</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Kabsch W, Sander C. Dictionary of protein secondary structure: Pattern recognition of hydrogen-bonded and geometrical features. Biopolymers. 1983;22:2577–2637.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">6667333</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Srinivasan R, Rose GD. A physical basis for protein secondary structure. Proc. Natl Acad. Sci. 1999;96:14258–14263.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC24424</ArticleId>
+                        
+            <ArticleId IdType="pubmed">10588693</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Johnson LS, Eddy SR, Portugaly E. Hidden Markov model speed heuristic and iterative HMM search procedure. BMC Bioinforma. 2010;11:1–8.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC2931519</ArticleId>
+                        
+            <ArticleId IdType="pubmed">20718988</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Katoh K, Standley DM. MAFFT multiple sequence alignment software version 7: improvements in performance and usability. Mol. Biol. Evol. 2013;30:772–780.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC3603318</ArticleId>
+                        
+            <ArticleId IdType="pubmed">23329690</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Criscuolo A, Gribaldo S. BMGE (Block Mapping and Gathering with Entropy): a new software for selection of phylogenetic informative regions from multiple sequence alignments. BMC Evol. Biol. 2010;10:1–21.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC3017758</ArticleId>
+                        
+            <ArticleId IdType="pubmed">20626897</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Nguyen L-T, Schmidt HA, Von Haeseler A, Minh BQ. IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies. Mol. Biol. Evol. 2015;32:268–274.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC4271533</ArticleId>
+                        
+            <ArticleId IdType="pubmed">25371430</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Kalyaanamoorthy S, Minh BQ, Wong TK, Von Haeseler A, Jermiin LS. ModelFinder: fast model selection for accurate phylogenetic estimates. Nat. Methods. 2017;14:587–589.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5453245</ArticleId>
+                        
+            <ArticleId IdType="pubmed">28481363</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Letunic I, Bork P. Interactive Tree Of Life (iTOL) v4: recent updates and new developments. Nucleic Acids Res. 2019;47:W256–W259.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC6602468</ArticleId>
+                        
+            <ArticleId IdType="pubmed">30931475</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+              
+      </ReferenceList>
+          
+    </PubmedData>
+      
+  </PubmedArticle>
+    
+  <PubmedArticle>
+        
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+            
+      <PMID Version="1">37852972</PMID>
+            
+      <DateCompleted>
+                
+        <Year>2023</Year>
+                
+        <Month>10</Month>
+                
+        <Day>23</Day>
+              
+      </DateCompleted>
+            
+      <DateRevised>
+                
+        <Year>2023</Year>
+                
+        <Month>11</Month>
+                
+        <Day>19</Day>
+              
+      </DateRevised>
+            
+      <Article PubModel="Electronic">
+                
+        <Journal>
+                    
+          <ISSN IssnType="Electronic">2041-1723</ISSN>
+                    
+          <JournalIssue CitedMedium="Internet">
+                        
+            <Volume>14</Volume>
+                        
+            <Issue>1</Issue>
+                        
+            <PubDate>
+                            
+              <Year>2023</Year>
+                            
+              <Month>Oct</Month>
+                            
+              <Day>18</Day>
+                          
+            </PubDate>
+                      
+          </JournalIssue>
+                    
+          <Title>Nature communications</Title>
+                    
+          <ISOAbbreviation>Nat Commun</ISOAbbreviation>
+                  
+        </Journal>
+                
+        <ArticleTitle>Cryptococcus neoformans adapts to the host environment through TOR-mediated remodeling of phospholipid asymmetry.</ArticleTitle>
+                
+        <Pagination>
+                    
+          <StartPage>6587</StartPage>
+                    
+          <MedlinePgn>6587</MedlinePgn>
+                  
+        </Pagination>
+                
+        <ELocationID EIdType="pii" ValidYN="Y">6587</ELocationID>
+                
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41467-023-42318-y</ELocationID>
+                
+        <Abstract>
+                    
+          <AbstractText>
+            Cryptococcus spp. are environmental fungi that first must adapt to the host environment before they can cause life-threatening meningitis in immunocompromised patients. Host CO            
+            <sub>2</sub>
+             concentrations are 100-fold higher than the external environment and strains unable to grow at host CO            
+            <sub>2</sub>
+             concentrations are not pathogenic. Using a genetic screening and transcriptional profiling approach, we report that the TOR pathway is critical for C. neoformans adaptation to host CO            
+            <sub>2</sub>
+             partly through Ypk1-dependent remodeling of phosphatidylserine asymmetry at the plasma membrane. We also describe a C. neoformans ABC/PDR transporter (PDR9) that is highly expressed in CO            
+            <sub>2</sub>
+            -sensitive environmental strains, suppresses CO            
+            <sub>2</sub>
+            -induced phosphatidylserine/phospholipid remodeling, and increases susceptibility to host concentrations of CO            
+            <sub>2</sub>
+            . Interestingly, regulation of plasma membrane lipid asymmetry by the TOR-Ypk1 axis is distinct in C. neoformans compared to S. cerevisiae. Finally, host CO            
+            <sub>2</sub>
+             concentrations suppress the C. neoformans pathways that respond to host temperature (Mpk1) and pH (Rim101), indicating that host adaptation requires a stringent balance among distinct stress responses.          
+          </AbstractText>
+                    
+          <CopyrightInformation>© 2023. Springer Nature Limited.</CopyrightInformation>
+                  
+        </Abstract>
+                
+        <AuthorList CompleteYN="Y">
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Ristow</LastName>
+                        
+            <ForeName>Laura C</ForeName>
+                        
+            <Initials>LC</Initials>
+                        
+            <Identifier Source="ORCID">0000-0002-3569-1492</Identifier>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Department of Pediatrics, Carver College of Medicine, University of Iowa, Iowa City, IA, 52242, USA.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Jezewski</LastName>
+                        
+            <ForeName>Andrew J</ForeName>
+                        
+            <Initials>AJ</Initials>
+                        
+            <Identifier Source="ORCID">0000-0002-2004-1278</Identifier>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Department of Pediatrics, Carver College of Medicine, University of Iowa, Iowa City, IA, 52242, USA.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Chadwick</LastName>
+                        
+            <ForeName>Benjamin J</ForeName>
+                        
+            <Initials>BJ</Initials>
+                        
+            <Identifier Source="ORCID">0000-0002-8244-6190</Identifier>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Department of Plant Biology, University of Georgia, Athens, GA, 30602, USA.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Stamnes</LastName>
+                        
+            <ForeName>Mark A</ForeName>
+                        
+            <Initials>MA</Initials>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Department of Molecular Physiology and Biophysics, Caver College of Medicine, University of Iowa, Iowa City, IA, 52242, USA.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Lin</LastName>
+                        
+            <ForeName>Xiaorong</ForeName>
+                        
+            <Initials>X</Initials>
+                        
+            <Identifier Source="ORCID">0000-0002-3390-8387</Identifier>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Department of Plant Biology, University of Georgia, Athens, GA, 30602, USA.</Affiliation>
+                          
+            </AffiliationInfo>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Department of Microbiology, University of Georgia, Athens, GA, 30602, USA.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                    
+          <Author ValidYN="Y">
+                        
+            <LastName>Krysan</LastName>
+                        
+            <ForeName>Damian J</ForeName>
+                        
+            <Initials>DJ</Initials>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Department of Pediatrics, Carver College of Medicine, University of Iowa, Iowa City, IA, 52242, USA. damian-krysan@uiowa.edu.</Affiliation>
+                          
+            </AffiliationInfo>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Department of Molecular Physiology and Biophysics, Caver College of Medicine, University of Iowa, Iowa City, IA, 52242, USA. damian-krysan@uiowa.edu.</Affiliation>
+                          
+            </AffiliationInfo>
+                        
+            <AffiliationInfo>
+                            
+              <Affiliation>Microbiology and Immunology, Carver College of Medicine, University of Iowa, Iowa City, IA, 52242, USA. damian-krysan@uiowa.edu.</Affiliation>
+                          
+            </AffiliationInfo>
+                      
+          </Author>
+                  
+        </AuthorList>
+                
+        <Language>eng</Language>
+                
+        <PublicationTypeList>
+                    
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+                    
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                  
+        </PublicationTypeList>
+                
+        <ArticleDate DateType="Electronic">
+                    
+          <Year>2023</Year>
+                    
+          <Month>10</Month>
+                    
+          <Day>18</Day>
+                  
+        </ArticleDate>
+              
+      </Article>
+            
+      <MedlineJournalInfo>
+                
+        <Country>England</Country>
+                
+        <MedlineTA>Nat Commun</MedlineTA>
+                
+        <NlmUniqueID>101528555</NlmUniqueID>
+                
+        <ISSNLinking>2041-1723</ISSNLinking>
+              
+      </MedlineJournalInfo>
+            
+      <ChemicalList>
+                
+        <Chemical>
+                    
+          <RegistryNumber>0</RegistryNumber>
+                    
+          <NameOfSubstance UI="D010743">Phospholipids</NameOfSubstance>
+                  
+        </Chemical>
+                
+        <Chemical>
+                    
+          <RegistryNumber>142M471B3J</RegistryNumber>
+                    
+          <NameOfSubstance UI="D002245">Carbon Dioxide</NameOfSubstance>
+                  
+        </Chemical>
+                
+        <Chemical>
+                    
+          <RegistryNumber>0</RegistryNumber>
+                    
+          <NameOfSubstance UI="D010718">Phosphatidylserines</NameOfSubstance>
+                  
+        </Chemical>
+                
+        <Chemical>
+                    
+          <RegistryNumber>0</RegistryNumber>
+                    
+          <NameOfSubstance UI="D018528">ATP-Binding Cassette Transporters</NameOfSubstance>
+                  
+        </Chemical>
+              
+      </ChemicalList>
+            
+      <CitationSubset>IM</CitationSubset>
+            
+      <MeshHeadingList>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D003455" MajorTopicYN="Y">Cryptococcus neoformans</DescriptorName>
+                    
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D012441" MajorTopicYN="N">Saccharomyces cerevisiae</DescriptorName>
+                    
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D010743" MajorTopicYN="N">Phospholipids</DescriptorName>
+                    
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D002245" MajorTopicYN="N">Carbon Dioxide</DescriptorName>
+                    
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D010718" MajorTopicYN="N">Phosphatidylserines</DescriptorName>
+                    
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D003453" MajorTopicYN="Y">Cryptococcosis</DescriptorName>
+                    
+          <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+                  
+        </MeshHeading>
+                
+        <MeshHeading>
+                    
+          <DescriptorName UI="D018528" MajorTopicYN="N">ATP-Binding Cassette Transporters</DescriptorName>
+                    
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                  
+        </MeshHeading>
+              
+      </MeshHeadingList>
+            
+      <CoiStatement>The authors declare no competing interest.</CoiStatement>
+          
+    </MedlineCitation>
+        
+    <PubmedData>
+            
+      <History>
+                
+        <PubMedPubDate PubStatus="received">
+                    
+          <Year>2023</Year>
+                    
+          <Month>4</Month>
+                    
+          <Day>17</Day>
+                  
+        </PubMedPubDate>
+                
+        <PubMedPubDate PubStatus="accepted">
+                    
+          <Year>2023</Year>
+                    
+          <Month>10</Month>
+                    
+          <Day>6</Day>
+                  
+        </PubMedPubDate>
+                
+        <PubMedPubDate PubStatus="medline">
+                    
+          <Year>2023</Year>
+                    
+          <Month>10</Month>
+                    
+          <Day>23</Day>
+                    
+          <Hour>1</Hour>
+                    
+          <Minute>18</Minute>
+                  
+        </PubMedPubDate>
+                
+        <PubMedPubDate PubStatus="pubmed">
+                    
+          <Year>2023</Year>
+                    
+          <Month>10</Month>
+                    
+          <Day>19</Day>
+                    
+          <Hour>0</Hour>
+                    
+          <Minute>45</Minute>
+                  
+        </PubMedPubDate>
+                
+        <PubMedPubDate PubStatus="entrez">
+                    
+          <Year>2023</Year>
+                    
+          <Month>10</Month>
+                    
+          <Day>18</Day>
+                    
+          <Hour>23</Hour>
+                    
+          <Minute>17</Minute>
+                  
+        </PubMedPubDate>
+              
+      </History>
+            
+      <PublicationStatus>epublish</PublicationStatus>
+            
+      <ArticleIdList>
+                
+        <ArticleId IdType="pubmed">37852972</ArticleId>
+                
+        <ArticleId IdType="pmc">PMC10584969</ArticleId>
+                
+        <ArticleId IdType="doi">10.1038/s41467-023-42318-y</ArticleId>
+                
+        <ArticleId IdType="pii">10.1038/s41467-023-42318-y</ArticleId>
+              
+      </ArticleIdList>
+            
+      <ReferenceList>
+                
+        <Reference>
+                    
+          <Citation>Rajasingham R, et al. Global burden of disease of HIV-associated cryptococcal meningitis: an updated analysis. Lancet Infect. Dis. 2017;17:873–881.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5818156</ArticleId>
+                        
+            <ArticleId IdType="pubmed">28483415</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>May RC, Stone NR, Wiesner DL, Bicanic T, Nielsen K. Cryptococcus: from environmental saprophyte to global pathogen. Nat. Rev. Microbiol. 2016;14:106–17.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5019959</ArticleId>
+                        
+            <ArticleId IdType="pubmed">26685750</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Litvintseva AP, Mitchell TG. Most environmental isolates of Cryptococcus neoformans var. grubii (Serotype A) are not lethal for mice. Infect. Immun. 2009;77:3188–95.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC2715664</ArticleId>
+                        
+            <ArticleId IdType="pubmed">19487475</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Gerstein AC, et al. Identification of pathogen genomic differences that impact human immune response and disease during Cryptococcus neoformans infection. mBio. 2019;10:e01440–19.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC6635531</ArticleId>
+                        
+            <ArticleId IdType="pubmed">31311883</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Sabiiti W, et al. Efficient phagocytosis and laccase activity affect outcome of HIV-associated cryptococcosis. J. Clin. Invest. 2014;124:2000–8.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC4001551</ArticleId>
+                        
+            <ArticleId IdType="pubmed">24743149</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Montoya MC, Magwene PM, Perfect JR. Associations between Cryptococcus genotypes, phenotypes, and clinical parameters of human disease: a review. J. Fungi (Basel) 2021;7:260.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC8067209</ArticleId>
+                        
+            <ArticleId IdType="pubmed">33808500</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Kronstad J, Jung WH, Hu G. Beyond the big three: systematic analysis of virulence factors in Cryptococcus neoformans. Cell Host Microbe. 2008;4:308–10.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">18854233</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Sephton-Clark P, et al. Genomic variation across a clinical Cryptococcus population linked to disease outcome. mBio. 2022;13:e0262622.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC9765290</ArticleId>
+                        
+            <ArticleId IdType="pubmed">36354332</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Mukaremera L, et al. The mouse inhalational model of Cryptococcus neoformans infection recapitulates strain virulence in humans and shows that closely related strain can possess differential virulence. Infect. Immun. 2019;87:e00046–19.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC6479045</ArticleId>
+                        
+            <ArticleId IdType="pubmed">30833336</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Krysan DJ, et al. Host carbon dioxide concentration is an independent stress for Cryptococcus neoformans that affects virulence and antifungal susceptibility. mBio. 2019;10:e01410–19.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC6606813</ArticleId>
+                        
+            <ArticleId IdType="pubmed">31266878</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Lee KT, et al. Systematic functional analysis of kinases in the fungal pathogen Cryptococcus neoformans. Nat. Commun. 2016;7:12766.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5052723</ArticleId>
+                        
+            <ArticleId IdType="pubmed">27677328</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Jung KW, et al. Systematic functional profiling of transcription factors networks in Cryptococcus neoformans. Nat. Commun. 2015;6:6757.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC4391232</ArticleId>
+                        
+            <ArticleId IdType="pubmed">25849373</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Chadwick BJ, et al. The RAM signaling pathway links morphology, thermotolerance, and CO2 tolerance in the global fungal pathogen Cryptococcus neoformans. Elife. 2022;11:e82563.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC9708076</ArticleId>
+                        
+            <ArticleId IdType="pubmed">36416414</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>So YS, Lee DG, Idnurm A, Ianiri G, Bahn YS. The TOR pathway plays pleiotropic role is growth and stress responses of the fungal pathogen Cryptococcus neoformans. 2019. Genetics. 2019;212:1241–1258.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC6707454</ArticleId>
+                        
+            <ArticleId IdType="pubmed">31175227</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Alcaide-Gavilán M, Lucena R, Banuelos S, Kellogg DR. Conserved Ark1-related kinases function in a TORC2 signaling network. Mol. Biol. Cell. 2020;31:2057–2069.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC7543068</ArticleId>
+                        
+            <ArticleId IdType="pubmed">32614710</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Leskoske KL, et al. Phosphorylation by the stress-activated MAPK Slt2 down-regulates the yeast TOR complex 2. Genes Dev. 2018;32:1576–1590.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC6295167</ArticleId>
+                        
+            <ArticleId IdType="pubmed">30478248</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Idnurm A, Heitman J. Light controls growth and development via a conserved pathway in the fungal kingdom. PLoS Biol. 2005;3:e95.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC1064852</ArticleId>
+                        
+            <ArticleId IdType="pubmed">15760278</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Jang EH, Kim JS, Yu SR, Bahn YS. Unraveling capsule biosynthesis and signaling networks in Cryptococcus neoformans. Microbiol. Spectr. 2022;10:e0286622.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC9769619</ArticleId>
+                        
+            <ArticleId IdType="pubmed">36287085</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Chun CD, Brown JCS, Madhani HD. A major role for capsule-independent phagocytosis-inhibitory mechanisms in mammalian infection by Cryptococcus neoformans. Cell Host Microbe. 2011;9:243–251.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC3077425</ArticleId>
+                        
+            <ArticleId IdType="pubmed">21402362</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>O’Meara TR, Holmer SM, Selvig K, Dietrich F, Alspaugh JA. Cryptococcus neoformans Rim101 is associated with cell wall remodeling and evasion of the host immune response. mBio. 2013;4:e00522–12.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC3551547</ArticleId>
+                        
+            <ArticleId IdType="pubmed">23322637</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>O’Meara TR, et al. Interaction of Cryptococcus neoformans Rim101 and protein kinase A regulates capsule. PLoS Pathog. 2010;6:e1000776.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC2824755</ArticleId>
+                        
+            <ArticleId IdType="pubmed">20174553</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Heitman J. On the discovery of TOR as the target of rapamycin. PLoS Pathog. 2015;11:e1005245.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC4634758</ArticleId>
+                        
+            <ArticleId IdType="pubmed">26540102</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Gerik KJ, et al. Cell wall integrity is dependent on the PKC1 signal transduction pathway in Cryptococcus neoformans. Mol. Microbiol. 2005;58:393–408.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">16194228</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Kraus PR, Fox DS, Cox GM, Heitman J. The Cryptococcus neoformans MAP kinase Mpk1 regulates cell integrity responses to antifungal drugs and loss of calcineurin function. Mol. Microbiol. 2003;48:1377–87.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC1635492</ArticleId>
+                        
+            <ArticleId IdType="pubmed">12787363</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Yang DH, et al. Rewiring of signaling networks modulating thermotolerance in the human pathogen Cryptococcus neoformans. Genetics. 2017;205:201–219.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5223503</ArticleId>
+                        
+            <ArticleId IdType="pubmed">27866167</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Ost KS, O’Meara TR, Huda N, Esher SK, Alspaugh JA. The Cryptococcus neoformans alkaline response pathway: identification of a novel rim pathway activator. PLoS Genet. 2015;11:e1005159.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC4393102</ArticleId>
+                        
+            <ArticleId IdType="pubmed">25859664</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Luberto C, et al. Roles for inositol-phosphoryl ceramide synthase 1 (IPC1) in pathogenesis of C. neoformans. Genes Dev. 2001;15:201–12.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC312614</ArticleId>
+                        
+            <ArticleId IdType="pubmed">11157776</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Winski CJ, Qian Y, Mobashery S, Santiago-Tirado FH. An atypical ABC transporter is involved in antifungal resistance and host interactions in the pathogenic fungus Cryptococcus neoformans. mBio. 2022;13:e0153922.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC9426558</ArticleId>
+                        
+            <ArticleId IdType="pubmed">35726920</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Wu A, Wojtowicz K, Savary S, Hamon Y, Trombik T. Do ABC transporters regulate plasma membrane organization. Cell Mol. Biol. Lett. 2020;25:37.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC7336681</ArticleId>
+                        
+            <ArticleId IdType="pubmed">32647530</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Chang M, Sionov E, Khanal Lamichhane A, Kwon-Chung KJ, Chang YC. Roles of three Cryptococcus neoformans and Cryptococcus gattii efflux pump-coding genes in response to drug treatment. Antimicrob. Agents Chemother. 2018;62:e01751–17.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5913978</ArticleId>
+                        
+            <ArticleId IdType="pubmed">29378705</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Roelants FM, Baltz AG, Trott AE, Fereres S, Thorner J. A protein kinase network regulates the function of aminophospholipid flippases. Proc. Natl Acad. Sci. USA. 2010;107:34–9.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC2806694</ArticleId>
+                        
+            <ArticleId IdType="pubmed">19966303</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Shin HW, Takatsu H. Phosphatidylserine exposure in living cells. Crit. Rev. Biochem Mol. Biol. 2020;55:166–178.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">32408772</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Kumari S, Kumar M, Gaur NA, Prasad R. Multiple roles of ABC transporters in yeast. Fungal Genet. Biol. 2021;150:103550.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">33675986</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Huang W, et al. Lipid flippase subunit Cdc50 mediates drug resistance and virulence in Cryptococcus neoformans. mBio. 2016;7:e00478–16.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC4959666</ArticleId>
+                        
+            <ArticleId IdType="pubmed">27165800</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Hu G, et al. A P4-ATPase subunit of the Cdc50 family play a role in iron acquisition and virulence in Cryptococcus neoformans. Cell. Microbiol. 2016;19:e12718.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5429215</ArticleId>
+                        
+            <ArticleId IdType="pubmed">28061020</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Konarzewska P, et al. Phosphatidylserine synthesis is essential for viability of the human fungal pathogen Cryptococcus neoformans. J. Biol. Chem. 2019;294:2329–2339.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC6378964</ArticleId>
+                        
+            <ArticleId IdType="pubmed">30602568</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Johnston SA, May RC. Cryptococcus interactions with macrophages: evasion and manipulation of the phagosome by a fungal pathogen. Cell Microbiol. 2013;15:403–11.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">23127124</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Bahn YS, Mühlschlegel FA. CO2 sensing in fungi and beyond. Curr. Opin. Microbiol. 2006;9:572–8.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">17045514</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Thorner J. TOR complex 2 is a master regulator of plasma membrane homeostasis. Biochem. J. 2022;479:1917–1940.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC9555796</ArticleId>
+                        
+            <ArticleId IdType="pubmed">36149412</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Lee H, Khanal Lamichhane A, Garraffo HM, Kwon-Chung KJ, Chang YC. Involvement of PDK1, PKC, and TOR signaling pathways in basal fluconazole tolerance in Cryptococcus neoformans. Mol. Microbiol. 2012;84:130–46.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC3313003</ArticleId>
+                        
+            <ArticleId IdType="pubmed">22339665</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Singh A, et al. Methylation of glycosylated sphingolipid modulates membrane lipid topography and pathogenicity of Cryptococcus neoformans. Cell Microbiol. 2012;14:500–16.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC3302964</ArticleId>
+                        
+            <ArticleId IdType="pubmed">22151739</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Muir A, Ramachandran S, Roelants FM, Timmons G, Thorner J. TORC2-dependent protein kinase Ypk1 phosphorylates ceramide synthase to stimulate synthesis of complex sphingolipids. Elife. 2014;3:e03779.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC4217029</ArticleId>
+                        
+            <ArticleId IdType="pubmed">25279700</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Hatakeyama R, Kono K, Yoshida S. Ypk1 and Ypk2 maintain Rho1 at the plasma membrane by flippase-dependent lipid remodeling after membrane stress. J. Cell Sci. 2017;130:1169–1178.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">28167678</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Yeung T, et al. Contribution of phosphatidylserine to membrane surface charge and protein targeting during phagosome maturation. J. Cell Biol. 2009;185:917–928.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC2711599</ArticleId>
+                        
+            <ArticleId IdType="pubmed">19487458</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Weingärtner A, et al. Leishmania promastigotes lack phosphatidyl serine but bind Annexin V upon permeabilization or miltefosine treatment. PLoS ONE. 2012;7:e42070.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC3411662</ArticleId>
+                        
+            <ArticleId IdType="pubmed">22870283</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Kolbeck S, Kienberger, Kleigrewe K, Hilgarth M, Vogel RF. Effect of high levels of CO2 and O2 on membrane fatty acid profile and membrane physiology of meat spoilage bacteria. Eur. Food Res Tech. 2021;247:999–1011.</Citation>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Brown HE, et al. Identifying a novel connection between the plasma membrane and pH-sensing. Mol. Microbiol. 2018;109:474–493.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC6173979</ArticleId>
+                        
+            <ArticleId IdType="pubmed">29885030</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Hankins HM, Baldridge RD, Xu P, Graham TR. Roles of flippases, scramblases, and transfer proteins in phosphatidylserine subcellular distribution. Traffic. 2015;16:35–47.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC4275391</ArticleId>
+                        
+            <ArticleId IdType="pubmed">25284293</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Clarke RJ, Hossain KR, Cao K. Physiological roles of transverse lipid asymmetry of animal membranes. Biochim Biophys. Acta Biomembr. 2020;1862:183382.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">32511979</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Hamon Y, et al. ABC1 promotes engulfment of apoptotic cells and transbilayer redistribution of phosphatidylserine. Nat. Cell Biol. 2000;2:399–406.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">10878804</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Bevers EM, Williamson PL. Getting to the outer leaflet: physiology of phosphatidylserine exposure at the plasma membrane. Physiol. Rev. 2016;96:605–645.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">26936867</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Sherman F. Getting started with yeast. Methods Enzymol. 2002;350:3–41.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">12073320</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Fan Y, Lin X. Multiple applications of a transient CRISPR-Cas9 coupled with electroporation (TRACE) system in the Cryptococcus neoformans species complex. Genetics. 2018;208:1357–1372.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5887135</ArticleId>
+                        
+            <ArticleId IdType="pubmed">29444806</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Huang MY, et al. Short homology-directed repair using optimized Cas9 in the pathogen Cryptococcus neoformans enables rapid gene deletion and tagging. Genetics. 2022;220:iyab180.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC8733451</ArticleId>
+                        
+            <ArticleId IdType="pubmed">34791226</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Spencer GWK, et al. Broadening the spectrum of fluorescent protein tools for use in the encapsulated human fungal pathogen Cryptococcus neoformans. Fungal Genet. Biol. 2020;138:103365.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pubmed">32145317</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Pertea M, Kim D, Pertea GM, Leek JT, Salzberg SL. Transcript-level expression analysis of RNA-seq experiments with HISAT, StringTie and Ballgown. Nat. Protoc. 2016;11:1650–1667.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC5032908</ArticleId>
+                        
+            <ArticleId IdType="pubmed">27560171</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Love MI, Anders S, Kim V, Huber W. RNA-Seq workflow: gene-level exploratory analysis and differential expression. F1000Res. 2015;4:1070.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC4670015</ArticleId>
+                        
+            <ArticleId IdType="pubmed">26674615</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Veit S, Laerbusch S, Lopez-Marques RL, Pomorski TG. Functional analysis of the P-type ATPases Apt2-4 from Cryptococcus neoformans by heterologous expression in Saccharomyces cerevisiae. J. Fungi. 2023;9:202.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC9966271</ArticleId>
+                        
+            <ArticleId IdType="pubmed">36836316</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Mukherjee J, Casadevall A, Scharff MD. Molecular characterization of the humoral responses to Cryptococcus neoformans infection and glucuronoxylomannan-tetanus toxoid conjugate immunization. J. Exp. Med. 1993;177:1105–1116.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC2190969</ArticleId>
+                        
+            <ArticleId IdType="pubmed">8459205</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+                
+        <Reference>
+                    
+          <Citation>Edgar R, Domrachev M, Lash AE. Gene Expression Omnibus: NCBI gene expression and hybridization array data repository. Nucleic Acids Res. 2002;30:207–10.</Citation>
+                    
+          <ArticleIdList>
+                        
+            <ArticleId IdType="pmc">PMC99122</ArticleId>
+                        
+            <ArticleId IdType="pubmed">11752295</ArticleId>
+                      
+          </ArticleIdList>
+                  
+        </Reference>
+              
+      </ReferenceList>
+          
+    </PubmedData>
+      
+  </PubmedArticle>
+  
+</PubmedArticleSet>
+
+==================================================

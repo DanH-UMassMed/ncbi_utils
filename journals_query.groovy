@@ -1,3 +1,10 @@
+/* This code queries the nlmcatalog to find the Journals that will be used for identifying candidate papers for the 
+   2025 Gordon Conference on Molecular and Cellular Biology of Lipids 
+   The code returns the ISSN and eISSN numbers for these journals
+   Downstream code will use the ISSN numbers to find the Impact Scores for the Journals
+   Impact Scores will be used for sorting and only as cutoff if search results require additional pruning.
+*/
+
 import EntrezEUtils
 import groovy.util.NodePrinter
 import groovy.xml.XmlUtil
@@ -60,33 +67,25 @@ def issn_report(def eUtilsFetchResult, searchTerm, counter) {
     //printer.print(recordSet)
 
     recordSet.each { catalogRecord ->
-        //def authorList = docSum.Item.find { it.@Name == 'AuthorList' }?.Item.findAll { it.@Name == 'Author' }?.collect { it.text() }
         def nlmID = catalogRecord.NlmUniqueID.text()
         def title_abbr = catalogRecord.MedlineTA.text()
         def title = catalogRecord.TitleMain.Title.text()
         def eissn = catalogRecord.ISSN.find { it.@ValidYN == 'Y' && it.@IssnType=='Electronic' }?.text() ?: ""
         def issn = catalogRecord.ISSN.find { it.@ValidYN == 'Y' && it.@IssnType=='Print' }?.text() ?: ""
-        //def abbr = catalogRecord.MedlineTA.find() 
         
         println("\"${searchTerm}\",\"${nlmID}\",\"${title}\",\"${title_abbr}\",\"${eissn}\",\"${issn}\"")
-        //println("${counter++}: ")
     }
 }
 
-def delete_log_file() {
-    def file = new File('log.txt')
-    if (file.exists()) {
-        file.delete()
-    }
-}
 
-delete_log_file()
+Logger.delete_log_file()
 println("search_term,nlm_ID,title,title_abbr,eissn,issn")
 start_pos = 0
 for (int i = start_pos; i < journals.size(); i++) {
-    Thread.sleep(1000) // 500 milliseconds = 0.5 seconds
+    Thread.sleep(1000) //Request limiter
     searchTerm = journals[i]
     System.err.println("Journal [Query: ${i}] ${searchTerm}")
+    
     db = "nlmcatalog"
     eUtilsSearchResult   = EntrezEUtils.entrezSearch(searchTerm: searchTerm, db: db)
     def eSearchResult = eUtilsSearchResult.eUtilsResult   

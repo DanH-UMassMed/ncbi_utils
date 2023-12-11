@@ -13,4 +13,11 @@ class Logger {
     def log(String message) {
         logFile.append(message + '\n')
     }
+
+    static def delete_log_file() {
+        def file = new File('log.txt')
+        if (file.exists()) {
+            file.delete()
+        }
+    }
 }

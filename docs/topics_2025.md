@@ -2,17 +2,17 @@ This is for organizing the Gordon Conference, I want to find papers from the top
 
 
 1. Lipid peroxidation/ferroptosis (MG)
-   - a. Jenny Watts (UW Pullman)
-   - b. Valerian Kagan (Univ Pittsburgh
+   - a. Jenny Watts (UW Pullman) [Prior Speaker]
+   - b. Valerian Kagan (Univ Pittsburgh)
 ​
  
 2. Lipid asymmetry (AKW)
-    - a. Ilya Levental (UVA Charlotsville)
+    - a. Ilya Levental (UVA Charlotsville) [Prior Speaker]
     - b. Chris Burd (Yale)
  
 3. Membrane contact sites, lipid transport, and compartmental localization (MG)
     - a. Prof. Jeeyun Chung (jeeyunchung@fas.harvard.edu)
-    - b. Hanaa Hariri
+    - b. Hanaa Hariri [Prior Speaker]
     - c. Maya Schuldiner
  
 4. Lipids in normal biology and disease (AKW, MG)
@@ -49,7 +49,7 @@ This is for organizing the Gordon Conference, I want to find papers from the top
  
 7. Individual Lipids (MG, AKW)
 - a. Mitochondrial lipids
-- i. Michael Schlame – cardiolipin and Barth syndrome
+- i. Michael Schlame – cardiolipin and Barth syndrome [Prior Speaker]
     - ii. Anne Spang 0 FA metabolism and mitochondrial homeostasis
 - b. Bacterial/microbial lipids/Intestinal microbiota and lipid metabolism
 - c. Cholesterol/sterols/Sphingolipids
