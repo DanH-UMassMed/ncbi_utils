@@ -14,17 +14,18 @@ class EntrezEUtils {
         def retry = 0
         def done = false
 
+        def eUtilsResult = null
+        def eUtilsError = null
+
         // Closure to Handle Retries and Print Error Message
         def handle_error = { errorMsg ->
             System.err.println(errorMsg)
-            if(retry > max_retries) {
+            if(retry >= max_retries) {
                 done = true
                 eUtilsError = errorMsg
             } 
         }
 
-        def eUtilsResult = null
-        def eUtilsError = null
 
         while (!done) {
             try {
@@ -36,11 +37,9 @@ class EntrezEUtils {
                     if (connection.responseCode == 429) {
                         handle_error("eUtilsGet: Request limiter hit. [Retry: ${++retry} ] code: ${connection.responseCode}")
                         Thread.sleep(2000)
-
                     } else if (connection.responseCode == 200) {
                         done = true
                         def inputStream = connection.inputStream
-                        //println("Got a response")
 
                         def responseText = new Scanner(inputStream).useDelimiter("\\A").next()
 
@@ -62,7 +61,7 @@ class EntrezEUtils {
                         handle_error("eUtilsGet: Failed to retrieve data. [Retry: ${++retry} ] Response code: ${connection.responseCode}")
                     }
             } catch (Exception ex) {
-                handle_error("eUtilsGet: Check if you have a connection!! [Retry: ${++retry}] \n${ex.message}")
+                handle_error("eUtilsGet: Check if you have a connection!! [Retry: ${++retry}] Response msg: ${ex.message}\n")
                 //ex.printStackTrace()
             }
         }

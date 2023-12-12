@@ -6,6 +6,7 @@
 */
 
 import EntrezEUtils
+import ImpactFactorDB
 import groovy.util.NodePrinter
 import groovy.xml.XmlUtil
 
@@ -14,7 +15,7 @@ journals =['"Cell"[ta]',
 '"Molecular Cell"[Journal]',
 '"Cell Rep"[ta]',
 '"Cell Systems"[Journal]',
-'"Current Biology"[Journal]',
+'"Curr biol"[Journal]',
 '"Developmental Cell"[Journal]',
 '"Structure"[ta]',
 '"Nature"[ta]',
@@ -41,7 +42,7 @@ journals =['"Cell"[ta]',
 '"J Cell Biol"[ta]',
 '"Mol Cell Biol"[ta]',
 '"Journal of Biological Chemistry"[Journal]',
-'"Proceedings of the National Academy of Sciences"[Journal]',
+'"PNAS"[Journal]',
 '"eLife"[Journal]',
 '"The EMBO Journal"[Journal]',
 '"NAR Genom Bioinform"[ta]',
@@ -52,50 +53,81 @@ journals =['"Cell"[ta]',
 //[ta]   - Stands for Title Abbreviation this is the MedlineTA field
 //[tiab] - Stands for Title/Abstract
 //[au]   - Stands for Author
-def issn_report(def eUtilsFetchResult, searchTerm, counter) {
 
+def issn_report(def journals, String fileName) {
+    def outputFile = new File(fileName)
+    outputFile.withWriter { writer ->
+        writer.write("search_term,nlm_ID,title,title_abbr,eissn,issn,impact_factor\n")
+    }
+
+    start_pos = 0
+    for (int i = start_pos; i < journals.size(); i++) {
+        Thread.sleep(1000) //Request limiter
+        searchTerm = journals[i]
+        System.err.println("A Journal [Query: ${String.format("%3d", i)}] ${searchTerm}")
+        
+        db = "nlmcatalog"
+        eUtilsSearchResult   = EntrezEUtils.entrezSearch(searchTerm: searchTerm, db: db)
+        def eSearchResult = eUtilsSearchResult.eUtilsResult   
+        if (!eSearchResult) { 
+            System.err.println("Quitting: Unable to maintain connection to EntrezEUtils site!")
+            System.exit(-1)
+        }
+        def recCount = eSearchResult.Count.text().toInteger()
+        def restart = 0
+
+        while (recCount > 0) {
+            eUtilsFetchResult = EntrezEUtils.entrezFetch(eUtilsSearchResult: eUtilsSearchResult, db: db, restart: restart.toString())
+            issn_detail_line(eUtilsFetchResult, searchTerm, restart, fileName)
+            restart  +=200 //Increment record position by 200
+            recCount -=200 //Pull the next 200 records or however many are remaining
+        }
+    }
+}
+
+def issn_detail_line(def eUtilsFetchResult, searchTerm, counter, fileName) {
     def eFetchResult = eUtilsFetchResult.eUtilsResult  
-    //println("eFetchResult=${eFetchResult}")
-                                   
     def recordSet = eFetchResult.NLMCatalogRecord
     
-    //def prettyXml = XmlUtil.serialize(recordSet)
-    //print(prettyXml) 
+    def outputFile = new File(fileName)
+    outputFile.withWriterAppend { writer ->
+        recordSet.each { catalogRecord ->
+            def nlmID = catalogRecord.NlmUniqueID.text()
+            def title_abbr = catalogRecord.MedlineTA.text()
+            def title = catalogRecord.TitleMain.Title.text()
+            def eissn = catalogRecord.ISSN.find { it.@ValidYN == 'Y' && it.@IssnType=='Electronic' }?.text() ?: ""
+            def issn = catalogRecord.ISSN.find { it.@ValidYN == 'Y' && it.@IssnType=='Print' }?.text() ?: ""
+            def impacttFactorDB = ImpactFactorDB.getInstance()
+            def impactFactor = impacttFactorDB.getImpactFactor(issn) ?: impacttFactorDB.getImpactFactor(eissn) 
 
-    //def printer = new NodePrinter(new PrintWriter(System.out))
-    //printer.setPreserveWhitespace(true)
-    //printer.print(recordSet)
-
-    recordSet.each { catalogRecord ->
-        def nlmID = catalogRecord.NlmUniqueID.text()
-        def title_abbr = catalogRecord.MedlineTA.text()
-        def title = catalogRecord.TitleMain.Title.text()
-        def eissn = catalogRecord.ISSN.find { it.@ValidYN == 'Y' && it.@IssnType=='Electronic' }?.text() ?: ""
-        def issn = catalogRecord.ISSN.find { it.@ValidYN == 'Y' && it.@IssnType=='Print' }?.text() ?: ""
-        
-        println("\"${searchTerm}\",\"${nlmID}\",\"${title}\",\"${title_abbr}\",\"${eissn}\",\"${issn}\"")
+            def outputLine = "\"${searchTerm}\",\"${nlmID}\",\"${title}\",\"${title_abbr}\",\"${eissn}\",\"${issn}\",${impactFactor}\n"
+            System.err.println("W Journal [Query: xxx] ${searchTerm}")
+            writer << outputLine
+        }
     }
 }
 
+def load_impact_factor_db(String impact_factor_db) {
+    def file = new File(impact_factor_db)
+    def issnMap = [:]
+    def iissnMap = [:]
 
+    file.eachLine { line ->
+        def parts = line.split(',')
+        if (parts[0] != 'Journal Name') {
+            def journalName = parts[0]
+            def ISSN = parts[1]
+            def JIF_2021 = parts[2]
+            def eISSN = parts[3]
+            def category = parts[4]
+
+            map[ISSN] = [journalName, JIF_2021, eISSN, category]
+        }
+}
+
+println map // Display the created map
+
+}
 Logger.delete_log_file()
-println("search_term,nlm_ID,title,title_abbr,eissn,issn")
-start_pos = 0
-for (int i = start_pos; i < journals.size(); i++) {
-    Thread.sleep(1000) //Request limiter
-    searchTerm = journals[i]
-    System.err.println("Journal [Query: ${i}] ${searchTerm}")
-    
-    db = "nlmcatalog"
-    eUtilsSearchResult   = EntrezEUtils.entrezSearch(searchTerm: searchTerm, db: db)
-    def eSearchResult = eUtilsSearchResult.eUtilsResult   
-    def recCount = eSearchResult.Count.text().toInteger()
-    def restart = 0
-
-    while (recCount > 0) {
-        eUtilsFetchResult = EntrezEUtils.entrezFetch(eUtilsSearchResult: eUtilsSearchResult, db: db, restart: restart.toString())
-        issn_report(eUtilsFetchResult,searchTerm, restart)
-        restart  +=200
-        recCount -=200
-    }
-}
+def fileName = "journals_to_query.csv"
+issn_report(journals, fileName) 
