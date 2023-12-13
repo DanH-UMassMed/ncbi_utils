@@ -1,12 +1,15 @@
-/* This code queries the nlmcatalog to find the Journals that will be used for identifying candidate papers for the 
+/* 
+   This code queries the nlmcatalog to find the Journals that will be used for identifying candidate papers for the 
    2025 Gordon Conference on Molecular and Cellular Biology of Lipids 
    The code returns the ISSN and eISSN numbers for these journals
    Downstream code will use the ISSN numbers to find the Impact Scores for the Journals
    Impact Scores will be used for sorting and only as cutoff if search results require additional pruning.
 */
 
-import EntrezEUtils
-import ImpactFactorDB
+import med_chat.ncbi.EntrezEUtils
+import med_chat.utils.Logger
+
+import med_chat.impact_factor.ImpactFactorDB
 import groovy.util.NodePrinter
 import groovy.xml.XmlUtil
 
@@ -129,5 +132,5 @@ println map // Display the created map
 
 }
 Logger.delete_log_file()
-def fileName = "journals_to_query.csv"
+def fileName = "./output/journals_to_query.csv"
 issn_report(journals, fileName) 

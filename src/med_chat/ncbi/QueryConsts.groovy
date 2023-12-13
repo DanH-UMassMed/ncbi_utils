@@ -1,3 +1,5 @@
+package med_chat.ncbi
+
 class QueryConsts {
     static final String PUBLISHED_RANGE  = "(2018[Date - Publication] : 2024[Date - Publication])"
     static final String PUBLISHED_W_IN_5_YRS = "(y_5[Filter])"

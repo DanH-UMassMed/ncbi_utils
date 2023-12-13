@@ -1,3 +1,6 @@
+package med_chat.ncbi
+
+import med_chat.utils.Logger
 import java.net.URLEncoder
 import java.net.URL
 import java.net.HttpURLConnection
@@ -25,7 +28,6 @@ class EntrezEUtils {
                 eUtilsError = errorMsg
             } 
         }
-
 
         while (!done) {
             try {
