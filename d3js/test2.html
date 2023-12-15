@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+        <meta charset="utf-8">
+        <script src="./lib/d3.v5.min.js"></script>
+        <style>
+    
+            path.link-1 {
+                fill: none;
+                stroke: #666;
+                stroke-width: 1.5px;
+            }
+    
+            path.edge-0 {
+                fill: none;
+                stroke: black;
+                stroke-width: 1.5px;
+                stroke-dasharray: 5 5;
+            }
+    
+            path.edge-1 {
+                fill: none;
+                stroke: green;
+                stroke-width: 3px;
+            }
+    
+            circle {
+                fill: #ccc;
+                stroke: #fff;
+                stroke: black;
+                stroke-width: 1.5px;
+            }
+    
+            text {
+                fill: #000;
+                font: 14px sans-serif;
+                pointer-events: none;
+            }
+    
+        </style>
+</head>
+<body>
+    <script>
+    var links = [];
+    var timeClicked = 0
+
+    var promises = [
+        d3.csv("./references.csv", function (data) {
+            console.log(data)
+            links.push(data);
+            
+        })
+    ];
+
+    Promise.all(promises).then(ready);
+
+    function ready(promise_data) {
+        console.log("Ready!!")
+        
+
+        var nodes = {};
+
+    var degreeSize = d3.scaleLinear().range([2, 5]);
+
+    //"#08306b"
+    color_scheme = ["#dfebf7", "#c4dbee", "#9dc9e2", "#6daed5", "#4492c6", "#2371b4", "#0c5198", "#2171b5"];
+
+    // Compute the distinct nodes from the links.
+    links.forEach(function (link) {
+        link.source = nodes[link.source] || (nodes[link.source] = {name: link.source});
+        link.target = nodes[link.target] || (nodes[link.target] = {name: link.target});
+    });
+
+    var width = 2200,
+        height = 4000;
+
+    var force = d3.forceSimulation()
+        .nodes(d3.values(nodes))
+        .force("link", d3.forceLink(links).distance(100))
+        .force('center', d3.forceCenter(width / 2, height / 2))
+        .force("x", d3.forceX())
+        .force("y", d3.forceY())
+        .force("charge", d3.forceManyBody().strength(-500))
+        .alphaTarget(1)
+        .on("tick", tick);
+
+
+    var svg = d3.select("body").append("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+
+    var path = svg.append("g")
+        .selectAll("path")
+        .data(links)
+        .enter()
+        .append("path")
+        .attr("class", function (d) {
+            class_nm = "edge-1";
+            if (d.value === 0) {
+                class_nm = "edge-0"
+            }
+            return class_nm;
+        });
+
+
+    var node = svg.selectAll(".node")
+        .data(force.nodes())
+        .enter().append("g")
+        .attr("class", "node")
+        .call(d3.drag()
+            .on("start", dragstarted)
+            .on("drag", dragged)
+            .on("end", dragended)
+        );
+
+
+    node.append("circle")
+        .on("dblclick", dblclick)
+        .style('fill', function (d) {
+            temp = links.filter(function (l) {
+                return l.source.index === d.index || l.target.index === d.index
+            });
+
+            return color_scheme[temp.length - 1];
+        })
+        .attr("r", function (d) {
+            temp = links.filter(function (l) {
+                return l.source.index === d.index || l.target.index === d.index
+            });
+
+            return degreeSize(temp.length/2);
+        });
+
+
+    node.append("text")
+        .text((function (n) {
+            return n.name;
+        }));
+
+    
+    
+    function tick() {
+        path.attr("d", function (d) {
+            var dx = d.target.x - d.source.x,
+                dy = d.target.y - d.source.y,
+                dr = Math.sqrt(dx * dx + dy * dy);
+            return "M" +
+                d.source.x + "," +
+                d.source.y + "A" +
+                dr + "," + dr + " 0 0,1 " +
+                d.target.x + "," +
+                d.target.y;
+        });
+
+        node
+            .attr("transform", function (d) {
+                return "translate(" + d.x + "," + d.y + ")";
+            })
+    }
+
+    function dragstarted(d) {
+        if (!d3.event.active) force.alphaTarget(0.3).restart();
+        timeClicked = new Date();
+        console.log("drag started"+this)
+        console.log(this)
+        d.fx = d.x;
+        d.fy = d.y;
+    }
+
+    function dragged(d) {
+        d.fx = d3.event.x;
+        d.fy = d3.event.y;
+    }
+
+    function dragended(d) {
+        console.log("drag ended")
+        console.log(d)
+        var elapsedTimeInSeconds = Math.floor((new Date() - timeClicked) / 1000);
+        console.log("elapsedTimeInSeconds="+elapsedTimeInSeconds)
+        if (elapsedTimeInSeconds > 3) {
+            window.open("https://pubmed.ncbi.nlm.nih.gov/"+d.name, '_blank');
+        }
+        if (!d3.event.active) force.alphaTarget(0);
+        if (d.fixed === true) {
+            d.fx = d.x;
+            d.fy = d.y;
+        }
+        else {
+            d.fx = null;
+            d.fy = null;
+        }
+
+    }
+
+    function dblclick(d) {
+        if (d.fixed === true) {
+            set_fixed = false;
+            set_stroke_width = 2;
+            //set_stroke = ""
+        } else {
+            set_fixed = true;
+            set_stroke_width = 2;
+            set_stroke = "red"
+        }
+        //console.log(this);
+        
+        //window.open("https://pubmed.ncbi.nlm.nih.gov/"+d.name, '_blank');
+        d3.select(this).classed("fixed", d.fixed = set_fixed);
+        d3.select(this).style("stroke-width", set_stroke_width);
+        d3.select(this).style("stroke", set_stroke);
+    }
+
+
+    }
+    </script>
+</body>
+</html>

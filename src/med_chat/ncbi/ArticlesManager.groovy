@@ -5,13 +5,14 @@ import med_chat.impact_factor.ImpactFactorDB
 class ArticlesManager {
     def articles = [] as List<Article>
     def authors = [] as List<Author>
-    def toCSVItems = [authors, articles]
+    def references = [] as List<Reference>
+    def toCSVItems = [authors, articles, references]
 
     ArticlesManager(List<Article> initialArticles = []) {
         articles.addAll(initialArticles)
-        // Add a sort method to the articles list
+
+        // Add a sort method to the articles list (Sort on Impact Factor)
         articles.metaClass.sort = {
-            println "sorting"
             Collections.sort(articles, Comparator.comparingDouble(Article::getImpactFactor).reversed())
         }
     }
@@ -34,6 +35,8 @@ class ArticlesManager {
                 article_details(eUtilsFetchResult)
                 println(".")
                 author_details(eUtilsFetchResult)
+                print(".")
+                reference_details(eUtilsFetchResult)
                 println("Done")
                 restart  +=200 //Increment record position by 200
                 recCount -=200 //Pull the next 200 records or however many are remaining
@@ -45,46 +48,41 @@ class ArticlesManager {
         def pubmedArticles = eFetchResult.PubmedArticle
         
         pubmedArticles.each { article ->
-            def pmid = article.MedlineCitation.PMID.text()
-            def paper = article.MedlineCitation.Article 
-            def issn = paper.Journal.ISSN.find { it.@IssnType == 'Electronic' }?.text() ?: ""
-            def eissn = paper.Journal.ISSN.find { it.@IssnType == 'Print' }?.text() ?: ""
-            def pubYear = paper.Journal.JournalIssue.PubDate.Year.text()
-            def pubAbbr = paper.Journal.ISOAbbreviation.text()
-            def title   = paper.ArticleTitle.text()
-            def aAbstract = paper.Abstract.AbstractText.text()
-            def impactFactorDB = ImpactFactorDB.getInstance()
-            def impactFactor = impactFactorDB.getImpactFactor(issn) ?: impactFactorDB.getImpactFactor(eissn) 
-
-            //def outputLine = "${pmid},${issn},${eissn},${pubYear},\"${pubAbbr}\",\"${title}\",${impactFactor}\n"
-            print(".")
-            articles.add(new Article(pmid, issn, eissn, pubYear, pubAbbr, title, aAbstract, impactFactor))
+            articles.add(Article.createArticle(article))
         }
     }
 
     def author_details(def eUtilsFetchResult) {
         def eFetchResult = eUtilsFetchResult.eUtilsResult  
-        def articles = eFetchResult.PubmedArticle
+        def pubmedArticles = eFetchResult.PubmedArticle
         
-        articles.each { article ->
+        pubmedArticles.each { article ->
             def pmid = article.MedlineCitation.PMID.text()
             def authorList = article.MedlineCitation.Article.AuthorList.Author.findAll()
 
             authorList.eachWithIndex { author, i ->
-                def lastName = author.LastName.text() ?: ""
-                def firstName = author.ForeName.text() ?: ""
-                def initials = author.Initials.text() ?: ""
-                def orcid = author.Identifier.find { it.@Source == 'ORCID' }?.text() ?: ""
-                def authorPos = (i == authorList.size() - 1) ? "999" : (i + 1).toString()
-                def affiliation = author.AffiliationInfo.Affiliation.text() ?: ""
-
-                //def outputLine = "${pmid},${lastName},${firstName},${initials},\"${affiliation}\",${orcid},${authorPos}\n"
-                println("Add Author ${pmid},${lastName} ")
-                authors.add(new Author(pmid,lastName,firstName,initials,affiliation,orcid,authorPos))
+                def String lastAuthorPos="999" //Make sure we know the last Author given any number of Authors
+                def authorPos = (i == authorList.size() - 1) ? lastAuthorPos : (i + 1).toString()
+                authors.add(Author.createAuthor(author, pmid, authorPos))
             }
         }
     }
 
+    def reference_details(def eUtilsFetchResult) {
+        def eFetchResult = eUtilsFetchResult.eUtilsResult  
+        def pubmedArticles = eFetchResult.PubmedArticle
+        
+        pubmedArticles.each { article ->
+            def pmid = article.MedlineCitation.PMID.text()
+            def referenceList = article.PubmedData.ReferenceList.Reference.findAll()
+
+            referenceList.each { reference ->
+                references.add(Reference.createReference(reference, pmid)) 
+            }
+        }
+    }
+
+    
 
 
     def toCSV(boolean append = false) {

@@ -1,27 +1,42 @@
-def myList = ["1", "11", "2", "L"]
+@Grab('com.opencsv:opencsv:5.5')
+import com.opencsv.CSVReader
+import com.opencsv.CSVWriter
 
-// Sort the list with custom logic
-myList.sort { a, b ->
-    def isNumericA = a.isNumber()
-    def isNumericB = b.isNumber()
+List<List<String>> getRowsWithMultipleMatches(List<List<String>> rows) {
+    def targetCounts = [:].withDefault { 0 }
 
-    if (isNumericA && isNumericB) {
-        // If both elements are numeric, compare as integers
-        Integer.parseInt(a) <=> Integer.parseInt(b)
-    } else if (isNumericA) {
-        // Numeric elements come before non-numeric elements
-        -1
-    } else if (isNumericB) {
-        // Non-numeric elements come after numeric elements
-        1
-    } else {
-        // Both elements are non-numeric (letters), compare as strings
-        a <=> b
+    rows.each { row ->
+        def target = row[1]
+        targetCounts[target]++
+    }
+
+    def multipleMatches = targetCounts.findAll { target, count ->
+        count > 1
+    }.collect { target, count ->
+        target
+    }
+
+    return rows.findAll { row ->
+        multipleMatches.contains(row[1])
     }
 }
 
-println myList // Output: [1, 2, 11, L]
+// Read data from the CSV file
+def inputFile = new File('./output/references.csv')
+def reader = new CSVReader(inputFile.newReader())
 
+def rows = reader.readAll()
 
+reader.close()
 
+// Filter rows with multiple matches in the target column
+def rowsWithMultipleMatches = getRowsWithMultipleMatches(rows)
 
+// Write the subsetted data to a new CSV file
+def outputFile = new File('d3js/references.csv')
+def writer = new CSVWriter(outputFile.newWriter())
+
+writer.writeAll(rowsWithMultipleMatches)
+writer.close()
+
+println("Subsetted data has been written to 'output.csv'")

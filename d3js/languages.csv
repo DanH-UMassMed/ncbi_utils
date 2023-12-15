@@ -1,0 +1,30 @@
+source,target,value
+C,Java,1
+JavaScript,Java,0
+JavaScript,Ruby,1
+Haskel,Java,0
+Haskel,JSON,1
+JavaScript,Python,0
+Haskel,Python,1
+Objact C,Java,0
+Sharp,Java,1
+Clojure,C,0
+AWK,C,1
+LISP,JSON,0
+Cobra,Python,1
+JSON,Python,0
+Pascal,Haskel,1
+PHP,C,0
+Windows-Powershell,Sharp,1
+Windows-Powershell,Vala,0
+VBScript,Objact C,1
+VisualBasic.NET,Sharp,0
+AppleScript,LISP,1
+C-Sharp,Java,0
+Scala,Java,1
+C++,C,0
+Groovy,Ruby,1
+Logo,LISP,0
+Factor,Haskel,1
+APL,J,0
+J,Java,0

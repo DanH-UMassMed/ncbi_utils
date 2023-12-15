@@ -1,0 +1,147 @@
+[
+    {
+        "source": "C",
+        "target": "Java",
+        "value": 1
+    },
+    {
+        "source": "JavaScript",
+        "target": "Java",
+        "value": 0
+    },
+    {
+        "source": "JavaScript",
+        "target": "Ruby",
+        "value": 1
+    },
+    {
+        "source": "Haskel",
+        "target": "Java",
+        "value": 0
+    },
+    {
+        "source": "Haskel",
+        "target": "JSON",
+        "value": 1
+    },
+    {
+        "source": "JavaScript",
+        "target": "Python",
+        "value": 0
+    },
+    {
+        "source": "Haskel",
+        "target": "Python",
+        "value": 1
+    },
+    {
+        "source": "Objact C",
+        "target": "Java",
+        "value": 0
+    },
+    {
+        "source": "Sharp",
+        "target": "Java",
+        "value": 1
+    },
+    {
+        "source": "Clojure",
+        "target": "C",
+        "value": 0
+    },
+    {
+        "source": "AWK",
+        "target": "C",
+        "value": 1
+    },
+    {
+        "source": "LISP",
+        "target": "JSON",
+        "value": 0
+    },
+    {
+        "source": "Cobra",
+        "target": "Python",
+        "value": 1
+    },
+    {
+        "source": "JSON",
+        "target": "Python",
+        "value": 0
+    },
+    {
+        "source": "Pascal",
+        "target": "Haskel",
+        "value": 1
+    },
+    {
+        "source": "PHP",
+        "target": "C",
+        "value": 0
+    },
+    {
+        "source": "Windows-Powershell",
+        "target": "Sharp",
+        "value": 1
+    },
+    {
+        "source": "Windows-Powershell",
+        "target": "Vala",
+        "value": 0
+    },
+    {
+        "source": "VBScript",
+        "target": "Objact C",
+        "value": 1
+    },
+    {
+        "source": "VisualBasic.NET",
+        "target": "Sharp",
+        "value": 0
+    },
+    {
+        "source": "AppleScript",
+        "target": "LISP",
+        "value": 1
+    },
+    {
+        "source": "C-Sharp",
+        "target": "Java",
+        "value": 0
+    },
+    {
+        "source": "Scala",
+        "target": "Java",
+        "value": 1
+    },
+    {
+        "source": "C++",
+        "target": "C",
+        "value": 0
+    },
+    {
+        "source": "Groovy",
+        "target": "Ruby",
+        "value": 1
+    },
+    {
+        "source": "Logo",
+        "target": "LISP",
+        "value": 0
+    },
+    {
+        "source": "Factor",
+        "target": "Haskel",
+        "value": 1
+    },
+    {
+        "source": "APL",
+        "target": "J",
+        "value": 0
+    },
+    {
+        "source": "J",
+        "target": "Java",
+        "value": 0
+    }
+]
